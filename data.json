@@ -1,0 +1,7398 @@
+{
+  "1": {
+    "yellow": [
+      "WET WEATHER",
+      "HAIL/RAIN/SLEET/SNOW"
+    ],
+    "green": [
+      "NBA TEAMS",
+      "BUCKS/HEAT/JAZZ/NETS"
+    ],
+    "blue": [
+      "KEYBOARD KEYS",
+      "OPTION/RETURN/SHIFT/TAB"
+    ],
+    "purple": [
+      "PALINDROMES",
+      "KAYAK/LEVEL/MOM/RACE CAR"
+    ]
+  },
+  "2": {
+    "yellow": [
+      "FOOTWEAR",
+      "BOOT/LOAFER/PUMP/SNEAKER"
+    ],
+    "green": [
+      "UNITS OF LENGTH",
+      "FOOT/LEAGUE/MILE/YARD"
+    ],
+    "blue": [
+      "MAGAZINES",
+      "ESSENCE/PEOPLE/TIME/US"
+    ],
+    "purple": [
+      "LETTER HOMOPHONES",
+      "ARE/QUEUE/SEA/WHY"
+    ]
+  },
+  "3": {
+    "yellow": [
+      "FACIAL FEATURES",
+      "CHEEK/EYE/MOUTH/NOSE"
+    ],
+    "green": [
+      "SYNONYMS FOR EAT",
+      "CHOW/GOBBLE/SCARF/WOLF"
+    ],
+    "blue": [
+      "DOG BREEDS INFORMALLY",
+      "LAB/PEKE/PIT/POM"
+    ],
+    "purple": [
+      "MEMBERS OF A TRIO",
+      "AMIGO/KING/STOOGE/TENOR"
+    ]
+  },
+  "4": {
+    "yellow": [
+      "SNEAKER BRANDS",
+      "ADIDAS/NIKE/PUMA/REEBOK"
+    ],
+    "green": [
+      "MUSICALS BEGINNING WITH C",
+      "CABARET/CAROUSEL/CATS/CHICAGO"
+    ],
+    "blue": [
+      "CLEANING VERBS",
+      "DUST/MOP/SWEEP/VACUUM"
+    ],
+    "purple": [
+      "___ MAN SUPERHEROES",
+      "BAT/IRON/SPIDER/SUPER"
+    ]
+  },
+  "5": {
+    "yellow": [
+      "STREAMING SERVICES",
+      "HULU/NETFLIX/PEACOCK/PRIME"
+    ],
+    "green": [
+      "CONDIMENTS",
+      "KETCHUP/MAYO/RELISH/TARTAR"
+    ],
+    "blue": [
+      "SYNONYMS FOR SAD",
+      "BLUE/DOWN/GLUM/LOW"
+    ],
+    "purple": [
+      "CLUE CHARACTERS",
+      "GREEN/MUSTARD/PLUM/SCARLET"
+    ]
+  },
+  "6": {
+    "yellow": [
+      "MONOPOLY SQUARES",
+      "BOARDWALK/CHANCE/GO/JAIL"
+    ],
+    "green": [
+      "SHADES OF BLUE",
+      "BABY/MIDNIGHT/POWDER/ROYAL"
+    ],
+    "blue": [
+      "RAPPERS",
+      "COMMON/FUTURE/ICE CUBE/Q-TIP"
+    ],
+    "purple": [
+      "MEMBERS OF A SEPTET",
+      "SEA/SIN/SISTER/WONDER"
+    ]
+  },
+  "7": {
+    "yellow": [
+      "LEG PARTS",
+      "ANKLE/KNEE/SHIN/THIGH"
+    ],
+    "green": [
+      "BABY ANIMALS",
+      "CALF/CUB/JOEY/KID"
+    ],
+    "blue": [
+      "SLANG FOR TOILET",
+      "CAN/HEAD/JOHN/THRONE"
+    ],
+    "purple": [
+      "___ FISH THAT AREN'T FISH",
+      "CRAY/JELLY/SILVER/STAR"
+    ]
+  },
+  "8": {
+    "yellow": [
+      "BOARD GAMES",
+      "BACKGAMMON/CHECKERS/CHESS/GO"
+    ],
+    "green": [
+      "MATTRESS SIZES",
+      "FULL/KING/QUEEN/TWIN"
+    ],
+    "blue": [
+      "THINGS THAT ARE RED",
+      "CHERRY/FIRE TRUCK/RUBY/STOP SIGN"
+    ],
+    "purple": [
+      "THINGS WITH KEYS",
+      "CRYPTOGRAPHY/FLORIDA/LOCKSMITH/PIANO"
+    ]
+  },
+  "9": {
+    "yellow": [
+      "SPORTS",
+      "CRICKET/FENCING/POLO/SQUASH"
+    ],
+    "green": [
+      "TOPS",
+      "CAMI/HALTER/TANK/TEE"
+    ],
+    "blue": [
+      "VEGETABLES",
+      "BEET/CARROT/CORN/ONION"
+    ],
+    "purple": [
+      "INSECTS",
+      "ANT/BEETLE/MANTIS/TERMITE"
+    ]
+  },
+  "10": {
+    "yellow": [
+      "FRUIT",
+      "DATE/KIWI/LEMON/ORANGE"
+    ],
+    "green": [
+      "COUNTRIES",
+      "CHAD/GEORGIA/JORDAN/TOGO"
+    ],
+    "blue": [
+      "BIRDS",
+      "CRANE/JAY/SWALLOW/TURKEY"
+    ],
+    "purple": [
+      "ZODIAC SYMBOLS",
+      "FISH/GOAT/SCALES/TWINS"
+    ]
+  },
+  "11": {
+    "yellow": [
+      "SPICES BEGINNING WITH C",
+      "CARDAMOM/CLOVE/CORIANDER/CUMIN"
+    ],
+    "green": [
+      "TERMS OF ENDEARMENT",
+      "BOO/HONEY/SUGAR/SWEETIE"
+    ],
+    "blue": [
+      "THINGS WITH WINGS",
+      "AIRPLANE/ANGEL/BIRD/PEGASUS"
+    ],
+    "purple": [
+      "SPICE GIRLS",
+      "BABY/GINGER/POSH/SCARY"
+    ]
+  },
+  "12": {
+    "yellow": [
+      "ANIMAL GROUP NAMES",
+      "FLOCK/PACK/POD/SCHOOL"
+    ],
+    "green": [
+      "DEADLY SINS",
+      "ENVY/GREED/LUST/PRIDE"
+    ],
+    "blue": [
+      "SLOW ANIMALS",
+      "LORIS/SLOTH/SNAIL/TORTOISE"
+    ],
+    "purple": [
+      "TRIG FUNCTIONS",
+      "COT/SEC/SIN/TAN"
+    ]
+  },
+  "13": {
+    "yellow": [
+      "AIRLINES",
+      "FRONTIER/SPIRIT/UNITED/VIRGIN"
+    ],
+    "green": [
+      "GREEK LETTERS",
+      "BETA/CHI/DELTA/IOTA"
+    ],
+    "blue": [
+      "SILENT G",
+      "GNAT/GNAW/GNOCCHI/GNOME"
+    ],
+    "purple": [
+      "HOMOPHONES",
+      "GNU/KNEW/NEW/NU"
+    ]
+  },
+  "14": {
+    "yellow": [
+      "BEDS",
+      "BUNK/CANOPY/MURPHY/TRUNDLE"
+    ],
+    "green": [
+      "FAMOUS BROTHERS",
+      "JONAS/MARX/WARNER/WRIGHT"
+    ],
+    "blue": [
+      "HONDAS",
+      "ACCORD/CIVIC/PASSPORT/PILOT"
+    ],
+    "purple": [
+      "VIDEO GAME CHARACTERS",
+      "CRASH/LINK/MARIO/SONIC"
+    ]
+  },
+  "15": {
+    "yellow": [
+      "BIRD SOUNDS",
+      "CAW/CHIRP/CLUCK/TWEET"
+    ],
+    "green": [
+      "COLORS",
+      "BROWN/PINK/TURQUOISE/VIOLET"
+    ],
+    "blue": [
+      "FISHING GEAR",
+      "LURE/REEL/ROD/TACKLE"
+    ],
+    "purple": [
+      "FICTIONAL PIRATES",
+      "HOOK/JONES/SILVER/SPARROW"
+    ]
+  },
+  "16": {
+    "yellow": [
+      "COFFEE DRINKS",
+      "AMERICANO/CAPPUCCINO/ESPRESSO/LATTE"
+    ],
+    "green": [
+      "TREE NUTS",
+      "ALMOND/CASHEW/PECAN/WALNUT"
+    ],
+    "blue": [
+      "SHADES OF GREEN",
+      "EMERALD/FOREST/KELLY/OLIVE"
+    ],
+    "purple": [
+      "MR. ___",
+      "BEAN/CLEAN/FOX/PEANUT"
+    ]
+  },
+  "17": {
+    "yellow": [
+      "NECKWEAR",
+      "ASCOT/BOLO/SCARF/TIE"
+    ],
+    "green": [
+      "SHIP DIRECTIONS",
+      "BOW/PORT/STARBOARD/STERN"
+    ],
+    "blue": [
+      "DETERGENTS",
+      "ALL/ERA/GAIN/TIDE"
+    ],
+    "purple": [
+      "___ TRIANGLE",
+      "ACUTE/BERMUDA/LOVE/RIGHT"
+    ]
+  },
+  "18": {
+    "yellow": [
+      "MUSCLES INFORMALLY",
+      "LAT/PEC/QUAD/TRI"
+    ],
+    "green": [
+      "AWARDS",
+      "CUP/MEDAL/RIBBON/TROPHY"
+    ],
+    "blue": [
+      "TITLE TV DOCTORS",
+      "GREY/HOUSE/HOWSER/QUINN"
+    ],
+    "purple": [
+      "NFL PLAYERS",
+      "BEAR/BILL/BROWN/COMMANDER"
+    ]
+  },
+  "19": {
+    "yellow": [
+      "OFF-WHITE SHADES",
+      "CREAM/EGGSHELL/IVORY/VANILLA"
+    ],
+    "green": [
+      "ANTI-VAMPIRE",
+      "CRUCIFIX/GARLIC/MIRROR/STAKE"
+    ],
+    "blue": [
+      "KINDS OF MEAT",
+      "BEEF/PORK/POULTRY/VENISON"
+    ],
+    "purple": [
+      "SYNONYMS FOR ARGUMENT",
+      "ROW/QUARREL/SPAT/TIFF"
+    ]
+  },
+  "20": {
+    "yellow": [
+      "GRAINS",
+      "BARLEY/OAT/RYE/SPELT"
+    ],
+    "green": [
+      "ROYAL TITLES",
+      "BARON/EARL/KING/PRINCE"
+    ],
+    "blue": [
+      "UNIVERSITIES",
+      "BROWN/DUKE/HOWARD/RICE"
+    ],
+    "purple": [
+      "BEST DIRECTOR OSCAR WINNERS",
+      "BONG/FORD/LEE/STONE"
+    ]
+  },
+  "21": {
+    "yellow": [
+      "MUSIC GENRES",
+      "JAZZ/POP/PUNK/RAP"
+    ],
+    "green": [
+      "WEB BROWSERS",
+      "CHROME/EDGE/OPERA/SAFARI"
+    ],
+    "blue": [
+      "LITTLE WOMEN SISTERS",
+      "AMY/BETH/JO/MEG"
+    ],
+    "purple": [
+      "LIL ___ RAPPERS",
+      "BABY/JON/KIM/WAYNE"
+    ]
+  },
+  "22": {
+    "yellow": [
+      "DOG BREEDS",
+      "BOXER/DALMATIAN/HUSKY/POODLE"
+    ],
+    "green": [
+      "ANIMAL NOSES",
+      "BEAK/MUZZLE/SNOUT/TRUNK"
+    ],
+    "blue": [
+      "TRAFFIC SIGNS",
+      "DETOUR/SLOW/STOP/YIELD"
+    ],
+    "purple": [
+      "SOUND ___",
+      "ASLEEP/BARRIER/BITE/WAVE"
+    ]
+  },
+  "23": {
+    "yellow": [
+      "60's BAND MEMBERS",
+      "BEACH BOY/BEATLE/BYRD/MONKEE"
+    ],
+    "green": [
+      "DANCE FADS",
+      "DOUGIE/MACARENA/MASHED POTATO/TWIST"
+    ],
+    "blue": [
+      "MAGAZINES",
+      "FORTUNE/ROLLING STONE/VOGUE/WIRED"
+    ],
+    "purple": [
+      "THINGS WITH LINKS",
+      "CHAIN/GOLF COURSE/SAUSAGE/WEBSITE"
+    ]
+  },
+  "24": {
+    "yellow": [
+      "CANDY BARS",
+      "BOUNTY/CRUNCH/HEATH/MILKY WAY"
+    ],
+    "green": [
+      "VIDEO GAME CONSOLES",
+      "DREAMCAST/GENESIS/SWITCH/WII"
+    ],
+    "blue": [
+      "EAR PARTS",
+      "ANVIL/COCHLEA/HAMMER/STIRRUP"
+    ],
+    "purple": [
+      "BAND NAMES MINUS NUMBERS",
+      "BLINK/MAROON/SUM/U"
+    ]
+  },
+  "25": {
+    "yellow": [
+      "DESSERTS",
+      "CHEESECAKE/FLAN/MOUSSE/TIRAMISU"
+    ],
+    "green": [
+      "MILD OATHS",
+      "DARN/FUDGE/HECK/SHOOT"
+    ],
+    "blue": [
+      "ANIMALS WITH TUSKS",
+      "ELEPHANT/HIPPO/NARWHAL/WARTHOG"
+    ],
+    "purple": [
+      "MUSTACHES",
+      "HANDLEBAR/HORSESHOE/PENCIL/WALRUS"
+    ]
+  },
+  "26": {
+    "yellow": [
+      "EUROPEAN COUNTRIES",
+      "DENMARK/GREECE/POLAND/PORTUGAL"
+    ],
+    "green": [
+      "SYNONYMS FOR IMITATE",
+      "COPY/ECHO/MIMIC/PARROT"
+    ],
+    "blue": [
+      "TOMS",
+      "CRUISE/HOLLAND/PETTY/WAITS"
+    ],
+    "purple": [
+      "WORDS SPELLED WITH ROMAN NUMERALS",
+      "DILL/LIVID/MILD/MIX"
+    ]
+  },
+  "27": {
+    "yellow": [
+      "HATS",
+      "BERET/BOWLER/FEDORA/FEZ"
+    ],
+    "green": [
+      "ORGANS",
+      "HEART/KIDNEY/LIVER/LUNG"
+    ],
+    "blue": [
+      "PARTS OF A BOOK",
+      "COVER/JACKET/PAGE/SPINE"
+    ],
+    "purple": [
+      "JACK ___",
+      "ASS/KNIFE/POT/RABBIT"
+    ]
+  },
+  "28": {
+    "yellow": [
+      "SEVEN DWARFS",
+      "BASHFUL/DOC/GRUMPY/HAPPY"
+    ],
+    "green": [
+      "FILE EXTENSIONS",
+      "GIF/PDF/TIFF/ZIP"
+    ],
+    "blue": [
+      "FLIGHTLESS BIRDS",
+      "EMU/KIWI/OSTRICH/PENGUIN"
+    ],
+    "purple": [
+      "TROPICAL FRUITS",
+      "BANANA/COCONUT/MANGO/PINEAPPLE"
+    ]
+  },
+  "29": {
+    "yellow": [
+      "WINGED INSECTS",
+      "FLY/GNAT/MOTH/WASP"
+    ],
+    "green": [
+      "ARITHMETIC OPERATIONS",
+      "ADD/DIVIDE/MULTIPLY/SUBTRACT"
+    ],
+    "blue": [
+      "FISH",
+      "TANG/TETRA/SKATE/SOLE"
+    ],
+    "purple": [
+      "___ CAT",
+      "ALLEY/COOL/COPY/LAP"
+    ]
+  },
+  "30": {
+    "yellow": [
+      "NFL PLAYERS",
+      "BRONCO/COWBOY/PACKER/RAVEN"
+    ],
+    "green": [
+      "PASTA SHAPES",
+      "BOWTIE/ELBOW/SHELL/SPIRAL"
+    ],
+    "blue": [
+      "JOINTS",
+      "HIP/KNEE/SHOULDER/WRIST"
+    ],
+    "purple": [
+      "MOVIES WITH !",
+      "AIRPLANE/MOTHER/OKLAHOMA/THEM"
+    ]
+  },
+  "31": {
+    "yellow": [
+      "VEGETABLES THAT ARE ALSO FRUITS",
+      "CUCUMBER/EGGPLANT/PEPPER/TOMATO"
+    ],
+    "green": [
+      "3-D SHAPES",
+      "CONE/CUBE/PYRAMID/SPHERE"
+    ],
+    "blue": [
+      "WORDS WITH i",
+      "MAC/PAD/PHONE/POD"
+    ],
+    "purple": [
+      "WORDS WITH TWO PRONUNCIATIONS",
+      "JOB/LIMA/MOBILE/POLISH"
+    ]
+  },
+  "32": {
+    "yellow": [
+      "SHOE PARTS",
+      "HEEL/LACE/SOLE/TONGUE"
+    ],
+    "green": [
+      "BOARD GAMES",
+      "CLUE/RISK/SORRY/TROUBLE"
+    ],
+    "blue": [
+      "FICTIONAL SPIES",
+      "BOND/HUNT/RYAN/SMART"
+    ],
+    "purple": [
+      "RUBBER ___",
+      "BAND/CEMENT/DUCKIE/SOUL"
+    ]
+  },
+  "33": {
+    "yellow": [
+      "BOATS",
+      "FERRY/JUNK/TUG/YACHT"
+    ],
+    "green": [
+      "SANDWICHES",
+      "CLUB/CUBAN/MELT/SUB"
+    ],
+    "blue": [
+      "CUTS OF BEEF",
+      "FLANK/LOIN/ROUND/SHANK"
+    ],
+    "purple": [
+      "NICKNAMES THAT ARE VERBS",
+      "CHUCK/JOSH/ROB/SUE"
+    ]
+  },
+  "34": {
+    "yellow": [
+      "PLEASANT SMELLS",
+      "AROMA/BOUQUET/FRAGRANCE/SCENT"
+    ],
+    "green": [
+      "MUSIC GENRES",
+      "BLUES/COUNTRY/FUNK/SOUL"
+    ],
+    "blue": [
+      "ROCK PAPER SCISSORS",
+      "PAPER/ROCK/SCISSORS/SHOOT"
+    ],
+    "purple": [
+      "MALE ANIMALS",
+      "BOAR/BUCK/BULL/JACK"
+    ]
+  },
+  "35": {
+    "yellow": [
+      "U.S. COINS",
+      "DIME/NICKEL/PENNY/QUARTER"
+    ],
+    "green": [
+      "METAL ELEMENTS",
+      "IRON/LEAD/TIN/ZINC"
+    ],
+    "blue": [
+      "LUCKY CHARMS MARSHMALLOWS",
+      "CLOVER/HORSESHOE/MOON/RAINBOW"
+    ],
+    "purple": [
+      "___ AND ___",
+      "AGAIN/HALF/NECK/SO"
+    ]
+  },
+  "36": {
+    "yellow": [
+      "MARSUPIALS",
+      "KANGAROO/KOALA/WALLABY/WOMBAT"
+    ],
+    "green": [
+      "CHOCOLATE BARS",
+      "CHUNKY/CRUNCH/MARS/MOUNDS"
+    ],
+    "blue": [
+      "SLANG FOR MONEY",
+      "CHEDDAR/DOUGH/PAPER/STACKS"
+    ],
+    "purple": [
+      "NAKED ___",
+      "EYE/GUN/MOLE RAT/TRUTH"
+    ]
+  },
+  "37": {
+    "yellow": [
+      "MARINE MAMMALS",
+      "DOLPHIN/MANATEE/OTTER/SEAL"
+    ],
+    "green": [
+      "BIKE PARTS",
+      "BRAKE/CHAIN/SADDLE/SPOKE"
+    ],
+    "blue": [
+      "SYNONYMS FOR SELL",
+      "HAWK/MOVE/PEDDLE/VEND"
+    ],
+    "purple": [
+      "COUNTRIES WHEN A IS ADDED",
+      "CHIN/CUB/MALT/TONG"
+    ]
+  },
+  "38": {
+    "yellow": [
+      "TREES",
+      "ASH/CEDAR/MAPLE/PINE"
+    ],
+    "green": [
+      "LAND FORMATIONS",
+      "HILL/MOUNTAIN/PLATEAU/VALLEY"
+    ],
+    "blue": [
+      "BAGEL FLAVORS",
+      "EVERYTHING/ONION/PLAIN/POPPY"
+    ],
+    "purple": [
+      "STREETS ON SCREEN",
+      "ELM/FEAR/JUMP/SESAME"
+    ]
+  },
+  "39": {
+    "yellow": [
+      "TIMEKEEPING DEVICES",
+      "CLOCK/HOURGLASS/SUNDIAL/WATCH"
+    ],
+    "green": [
+      "HAIRSTYLES",
+      "BOB/CROP/PIXIE/SHAG"
+    ],
+    "blue": [
+      "UNITS OF MEASURE",
+      "HERTZ/MOLE/NEWTON/SECOND"
+    ],
+    "purple": [
+      "DR. ___",
+      "EVIL/J/NO/PEPPER"
+    ]
+  },
+  "40": {
+    "yellow": [
+      "WOODWINDS",
+      "BASSOON/CLARINET/FLUTE/OBOE"
+    ],
+    "green": [
+      "COVERINGS",
+      "CAP/COVER/LID/TOP"
+    ],
+    "blue": [
+      "SUNGLASSES",
+      "AVIATOR/CAT EYE/WAYFARER/WRAPAROUND"
+    ],
+    "purple": [
+      "SEALS",
+      "HARBOR/HARP/HOODED/MONK"
+    ]
+  },
+  "41": {
+    "yellow": [
+      "BOTTLED WATER BRANDS",
+      "DASANI/EVIAN/FIJI/VOSS"
+    ],
+    "green": [
+      "SLANG FOR COFFEE",
+      "BREW/JAVA/JOE/MUD"
+    ],
+    "blue": [
+      "ISLAND COUNTRIES",
+      "CUBA/JAPAN/MALTA/PALAU"
+    ],
+    "purple": [
+      "CEREAL MASCOTS",
+      "LUCKY/POP/SAM/TONY"
+    ]
+  },
+  "42": {
+    "yellow": [
+      "SCUBA GEAR",
+      "FINS/MASK/SNORKEL/TANK"
+    ],
+    "green": [
+      "PUNCTUATION MARKS",
+      "COLON/COMMA/HYPHEN/PERIOD"
+    ],
+    "blue": [
+      "RUN QUICKLY",
+      "BOLT/DASH/RACE/SPRINT"
+    ],
+    "purple": [
+      "___ CAT",
+      "DOJA/FAT/HOUSE/JUNGLE"
+    ]
+  },
+  "43": {
+    "yellow": [
+      "SYNONYMS FOR ANGRY",
+      "FURIOUS/INCENSED/IRATE/LIVID"
+    ],
+    "green": [
+      "THINGS THAT ARE YELLOW",
+      "BANANA/CANARY/SCHOOL BUS/SUNFLOWER"
+    ],
+    "blue": [
+      "MARINE BIRDS",
+      "BOOBY/GULL/PELICAN/PUFFIN"
+    ],
+    "purple": [
+      "___ BOYS",
+      "BEACH/BEASTIE/HARDY/LOST"
+    ]
+  },
+  "44": {
+    "yellow": [
+      "STATES OF MATTER",
+      "GAS/LIQUID/PLASMA/SOLID"
+    ],
+    "green": [
+      "EDIT MENU COMMANDS",
+      "COPY/CUT/PASTE/UNDO"
+    ],
+    "blue": [
+      "DEFEAT BADLY",
+      "CRUSH/ROUT/SHELLAC/TRASH"
+    ],
+    "purple": [
+      "ANAGRAMS",
+      "LEAST/SLATE/STALE/TESLA"
+    ]
+  },
+  "45": {
+    "yellow": [
+      "MODES OF TRANSPORTATION",
+      "BOAT/CAR/PLANE/TRAIN"
+    ],
+    "green": [
+      "NBA PLAYERS",
+      "KING/MAGIC/SUN/THUNDER"
+    ],
+    "blue": [
+      "FAST FOOD CHAINS",
+      "CHECKERS/OUTBACK/SONIC/SUBWAY"
+    ],
+    "purple": [
+      "BAND NAMES MINUS COLORS",
+      "DAY/FLOYD/SABBATH/STRIPES"
+    ]
+  },
+  "46": {
+    "yellow": [
+      "MOVIE TITLE CITIES",
+      "CHICAGO/MUNICH/PHILADELPHIA/RIO"
+    ],
+    "green": [
+      "FASHION MAGAZINES",
+      "ALLURE/ELLE/GLAMOUR/W"
+    ],
+    "blue": [
+      "STORMS",
+      "BLIZZARD/CYCLONE/SQUALL/TORNADO"
+    ],
+    "purple": [
+      "COCKTAILS",
+      "COSMOPOLITAN/HURRICANE/MANHATTAN/SCREWDRIVER"
+    ]
+  },
+  "47": {
+    "yellow": [
+      "BIOMES",
+      "DESERT/FOREST/GRASSLAND/TUNDRA"
+    ],
+    "green": [
+      "LIZARDS",
+      "CHAMELEON/GECKO/IGUANA/MONITOR"
+    ],
+    "blue": [
+      "YOGA POSES",
+      "COBRA/LOTUS/TREE/WARRIOR"
+    ],
+    "purple": [
+      "DANCES WHEN DOUBLED",
+      "CAN/CHA/GO/NAE"
+    ]
+  },
+  "48": {
+    "yellow": [
+      "FABRICS",
+      "CORDUROY/DENIM/LINEN/TWEED"
+    ],
+    "green": [
+      "APPARITIONS",
+      "GHOST/PHANTOM/SPECTER/SPIRIT"
+    ],
+    "blue": [
+      "SYNONYMS FOR BOTHER",
+      "NEEDLE/POKE/RIB/TEASE"
+    ],
+    "purple": [
+      "DISNEY CHARACTERS",
+      "BEAST/GENIE/SCAR/STITCH"
+    ]
+  },
+  "49": {
+    "yellow": [
+      "RELATIVES",
+      "AUNT/COUSIN/MOTHER/NEPHEW"
+    ],
+    "green": [
+      "SYNONYMS FOR OFFBEAT",
+      "DAFFY/KOOKY/QUIRKY/WACKY"
+    ],
+    "blue": [
+      "DISNEY DUCKS",
+      "DAISY/DEWEY/DONALD/SCROOGE"
+    ],
+    "purple": [
+      "___ CLOCK",
+      "ALARM/BIOLOGICAL/CUCKOO/GRANDFATHER"
+    ]
+  },
+  "50": {
+    "yellow": [
+      "UNITS OF LENGTH",
+      "FOOT/INCH/MILE/YARD"
+    ],
+    "green": [
+      "TYPES OF PAINT",
+      "ACRYLIC/OIL/TEMPERA/WATERCOLOR"
+    ],
+    "blue": [
+      "DEEP-FRIED FOOD",
+      "FALAFEL/KATSU/SAMOSA/SCHNITZEL"
+    ],
+    "purple": [
+      "STARTS OF U.S. COINS",
+      "DIM/NICK/PEN/QUART"
+    ]
+  },
+  "51": {
+    "yellow": [
+      "LONG SANDWICHES",
+      "HERO/HOAGIE/GRINDER/SUB"
+    ],
+    "green": [
+      "DATING APPS",
+      "BUMBLE/HINGE/MATCH/TINDER"
+    ],
+    "blue": [
+      "VAMPIRE MOVIES",
+      "BLADE/LOST BOYS/NEAR DARK/TWILIGHT"
+    ],
+    "purple": [
+      "ADAMS",
+      "ANT/DRIVER/SCOTT/WEST"
+    ]
+  },
+  "52": {
+    "yellow": [
+      "COMPUTER EQUIPMENT",
+      "KEYBOARD/MONITOR/MOUSE/SPEAKER"
+    ],
+    "green": [
+      "RODENTS",
+      "GERBIL/HAMSTER/RAT/VOLE"
+    ],
+    "blue": [
+      "MUSICAL INSTRUMENTS",
+      "HARP/HORN/ORGAN/TRIANGLE"
+    ],
+    "purple": [
+      "SYNONYMS FOR COMPLAIN",
+      "CARP/GRIPE/GROUSE/MOAN"
+    ]
+  },
+  "53": {
+    "yellow": [
+      "ANIMAL GROUP NAMES",
+      "COLONY/HERD/PRIDE/SWARM"
+    ],
+    "green": [
+      "STONED",
+      "BAKED/BLAZED/HIGH/LIT"
+    ],
+    "blue": [
+      "AP CLASSES",
+      "BIO/CHEM/GOV/STATS"
+    ],
+    "purple": [
+      "TAXONOMY RANKS",
+      "CLASS/DOMAIN/FAMILY/ORDER"
+    ]
+  },
+  "54": {
+    "yellow": [
+      "PLACES FOR WORSHIP",
+      "ALTAR/RELIQUARY/SHRINE/TEMPLE"
+    ],
+    "green": [
+      "CARTOON CATS",
+      "FELIX/GARFIELD/SYLVESTER/TOM"
+    ],
+    "blue": [
+      "PRESIDENTIAL FIRST NAMES",
+      "CALVIN/CHESTER/GROVER/HARRY"
+    ],
+    "purple": [
+      "___ ROAD",
+      "ABBEY/HIGH/ROCKY/SILK"
+    ]
+  },
+  "55": {
+    "yellow": [
+      "CLASSIC TOYS",
+      "BLOCKS/DOLL/TOP/YO-YO"
+    ],
+    "green": [
+      "WORDS WITH THREE G'S",
+      "BAGGAGE/EGGNOG/GIGGLE/LEGGINGS"
+    ],
+    "blue": [
+      "SHAKESPEARE CHARACTERS",
+      "DUNCAN/JULIET/PUCK/VIOLA"
+    ],
+    "purple": [
+      "___ STICK",
+      "FISH/HOCKEY/MEMORY/SELFIE"
+    ]
+  },
+  "56": {
+    "yellow": [
+      "CLASSIC ARCADE GAMES",
+      "ASTEROIDS/BREAKOUT/FROGGER/PONG"
+    ],
+    "green": [
+      "DANCES",
+      "HUSTLE/SALSA/SWING/TANGO"
+    ],
+    "blue": [
+      "TOUCHSCREEN GESTURES",
+      "PINCH/SPREAD/SWIPE/TAP"
+    ],
+    "purple": [
+      "RAPPERS MINUS NUMBERS",
+      "CENT/CHAINZ/PAC/SAVAGE"
+    ]
+  },
+  "57": {
+    "yellow": [
+      "MOVIE GENRES",
+      "HORROR/MUSICAL/ROMANCE/WESTERN"
+    ],
+    "green": [
+      "PATTERNS",
+      "HOUNDSTOOTH/PAISLEY/PLAID/STRIPES"
+    ],
+    "blue": [
+      "SYNONYMS FOR FALSEHOOD",
+      "FIB/FICTION/LIE/TALE"
+    ],
+    "purple": [
+      "CANDY PIECES",
+      "DOT/GOOBER/KISS/WHOPPER"
+    ]
+  },
+  "58": {
+    "yellow": [
+      "ARACHNIDS",
+      "MITE/SCORPION/SPIDER/TICK"
+    ],
+    "green": [
+      "FISH",
+      "CHAR/EEL/PERCH/SHARK"
+    ],
+    "blue": [
+      "SUPERHEROES",
+      "BLACK WIDOW/BLADE/FLASH/STORM"
+    ],
+    "purple": [
+      "MTV SHOWS",
+      "CATFISH/CRIBS/JACKASS/STATE"
+    ]
+  },
+  "59": {
+    "yellow": [
+      "UNSPECIFIED QUANTITIES",
+      "FEW/HANDFUL/SEVERAL/SOME"
+    ],
+    "green": [
+      "NEWSPAPERS",
+      "GLOBE/JOURNAL/POST/SUN"
+    ],
+    "blue": [
+      "CELESTIAL OBJECTS",
+      "ASTEROID/COMET/MOON/PLANET"
+    ],
+    "purple": [
+      "FRUIT HOMOPHONES",
+      "LYME/MELLON/PAIR/PLUMB"
+    ]
+  },
+  "60": {
+    "yellow": [
+      "HORROR FRANCHISES",
+      "PURGE/RING/SAW/SCREAM"
+    ],
+    "green": [
+      "SPORTS VENUES",
+      "COURT/DIAMOND/FIELD/RINK"
+    ],
+    "blue": [
+      "MAKE HAPPY",
+      "CHARM/DELIGHT/PLEASE/TICKLE"
+    ],
+    "purple": [
+      "JEWELRY",
+      "ANKLET/BANGLE/BROOCH/PENDANT"
+    ]
+  },
+  "61": {
+    "yellow": [
+      "THEORETICAL PHYSICISTS",
+      "EINSTEIN/FEYNMAN/HAWKING/OPPENHEIMER"
+    ],
+    "green": [
+      "TALENT",
+      "FACULTY/FLAIR/GENIUS/GIFT"
+    ],
+    "blue": [
+      "AUSTRALIAN TERMS",
+      "BARBIE/BUSH/CRIKEY/MATE"
+    ],
+    "purple": [
+      "___ POINT",
+      "MATCH/MOOT/SELLING/WEST"
+    ]
+  },
+  "62": {
+    "yellow": [
+      "STATE ABBREVIATIONS",
+      "CO/MA/ME/PA"
+    ],
+    "green": [
+      "MUSICAL NOTES",
+      "DO/FA/LA/TI"
+    ],
+    "blue": [
+      "GREEK LETTERS",
+      "MU/NU/PI/XI"
+    ],
+    "purple": [
+      "PERIODIC TABLE SYMBOLS",
+      "FE/HE/NA/NI"
+    ]
+  },
+  "63": {
+    "yellow": [
+      "FASTENING VERBS",
+      "BUCKLE/BUTTON/SNAP/ZIP"
+    ],
+    "green": [
+      "SLANG FOR ZERO",
+      "JACK/NADA/NOTHING/SQUAT"
+    ],
+    "blue": [
+      "GYM EXERCISES",
+      "CURL/LUNGE/PLANK/PRESS"
+    ],
+    "purple": [
+      "CAPTAINS",
+      "CRUNCH/KANGAROO/OBVIOUS/PLANET"
+    ]
+  },
+  "64": {
+    "yellow": [
+      "CLASSIC DOG NAMES",
+      "FIDO/LUCKY/ROVER/SPOT"
+    ],
+    "green": [
+      "PERCEIVE",
+      "CATCH/NOTICE/OBSERVE/SEE"
+    ],
+    "blue": [
+      "FISHING TERMS",
+      "BAIT/CHUM/FLY/SINKER"
+    ],
+    "purple": [
+      "T-___",
+      "BONE/REX/SHIRT/STORM"
+    ]
+  },
+  "65": {
+    "yellow": [
+      "STATES OF MATTER",
+      "GAS/LIQUID/PLASMA/SOLID"
+    ],
+    "green": [
+      "ENERGY",
+      "JUICE/SPIRIT/STEAM/VIGOR"
+    ],
+    "blue": [
+      "CLASSICAL ELEMENTS",
+      "AIR/EARTH/FIRE/WATER"
+    ],
+    "purple": [
+      "THINGS WITH RINGS",
+      "CIRCUS/SATURN/TREE/WEDDING"
+    ]
+  },
+  "66": {
+    "yellow": [
+      "TIME PERIODS",
+      "CENTURY/DECADE/MILLENNIUM/YEAR"
+    ],
+    "green": [
+      "BREAKFAST FOODS",
+      "CEREAL/OMELET/PANCAKE/WAFFLE"
+    ],
+    "blue": [
+      "PAINTERS",
+      "BACON/CLOSE/MUNCH/WHISTLER"
+    ],
+    "purple": [
+      "ONE IN A DOZEN",
+      "EGG/JUROR/MONTH/ROSE"
+    ]
+  },
+  "67": {
+    "yellow": [
+      "DESSERTS",
+      "CAKE/COBBLER/PIE/TART"
+    ],
+    "green": [
+      "OCCUPATIONAL SURNAMES",
+      "FISHER/MASON/MILLER/SMITH"
+    ],
+    "blue": [
+      "ALTER DECEPTIVELY",
+      "DISTORT/DOCTOR/FUDGE/TWIST"
+    ],
+    "purple": [
+      "SQUARE ___",
+      "DANCE/MEAL/ONE/ROOT"
+    ]
+  },
+  "68": {
+    "yellow": [
+      "UNITS OF VOLUME",
+      "CUP/GALLON/PINT/QUART"
+    ],
+    "green": [
+      "EXTREMELY",
+      "AWFUL/QUITE/SUPER/VERY"
+    ],
+    "blue": [
+      "WORLD CURRENCIES",
+      "RAND/REAL/STERLING/WON"
+    ],
+    "purple": [
+      "___ CAKE",
+      "CARROT/COFFEE/POUND/SPONGE"
+    ]
+  },
+  "69": {
+    "yellow": [
+      "FRIEND",
+      "BUD/CHUM/MATE/PAL"
+    ],
+    "green": [
+      "COOKWEAR",
+      "CROCK/POT/SKILLET/WOK"
+    ],
+    "blue": [
+      "SHOES",
+      "CLOG/PUMP/SLIDE/WEDGE"
+    ],
+    "purple": [
+      "SLANG FOR CANNABIS",
+      "GRASS/HERB/MARY JANE/WEED"
+    ]
+  },
+  "70": {
+    "yellow": [
+      "CAMPING SUPPLIES",
+      "COOLER/LANTERN/SLEEPING BAG/TENT"
+    ],
+    "green": [
+      "INSULT",
+      "BARB/DIG/DISS/JAB"
+    ],
+    "blue": [
+      "TINY",
+      "MINUTE/SLIGHT/SMALL/WEE"
+    ],
+    "purple": [
+      "HAPPY ___",
+      "CAMPER/HOUR/MEAL/MEDIUM"
+    ]
+  },
+  "71": {
+    "yellow": [
+      "U.S. MOUNTAIN STATES",
+      "ARIZONA/COLORADO/NEVADA/UTAH"
+    ],
+    "green": [
+      "SODA BRANDS",
+      "CRUSH/MUG/SPRITE/SQUIRT"
+    ],
+    "blue": [
+      "CLASSIC ROCK BANDS",
+      "GENESIS/KANSAS/RUSH/YES"
+    ],
+    "purple": [
+      "TONY ___",
+      "HAWK/MONTANA/SOPRANO/STARK"
+    ]
+  },
+  "72": {
+    "yellow": [
+      "PERFORMING ARTISTS",
+      "ACTOR/DANCER/SINGER/STAND-UP"
+    ],
+    "green": [
+      "SANTA'S REINDEER",
+      "COMET/CUPID/DASHER/VIXEN"
+    ],
+    "blue": [
+      "SEEN ON VALENTINE'S DAY",
+      "CARD/CHOCOLATE/HEART/ROSE"
+    ],
+    "purple": [
+      "BAD ___ MOVIES",
+      "BOYS/LIEUTENANT/SANTA/TASTE"
+    ]
+  },
+  "73": {
+    "yellow": [
+      "FACIAL HAIR",
+      "BEARD/GOATEE/MUSTACHE/STUBBLE"
+    ],
+    "green": [
+      "BIKE PARTS",
+      "GEAR/HANDLEBAR/PEDAL/WHEEL"
+    ],
+    "blue": [
+      "PURSUE",
+      "DOG/FOLLOW/TAIL/TRACK"
+    ],
+    "purple": [
+      "THINGS THAT ARE CAST",
+      "DOUBT/MOVIE/SHADOW/VOTE"
+    ]
+  },
+  "74": {
+    "yellow": [
+      "EXTINCT ANIMALS",
+      "DODO/MAMMOTH/MASTODON/TRILOBITE"
+    ],
+    "green": [
+      "FAILURES",
+      "BUSTS/FLOPS/MISSES/TURKEYS"
+    ],
+    "blue": [
+      "SLANG FOR CLOTHES",
+      "DUDS/GETUP/OUTFIT/THREADS"
+    ],
+    "purple": [
+      "KISS",
+      "PECK/SMACK/SMOOCH/X"
+    ]
+  },
+  "75": {
+    "yellow": [
+      "SOCIAL GATHERING",
+      "BASH/BLOWOUT/PARTY/SHINDIG"
+    ],
+    "green": [
+      "PINOCCHIO FIGURES",
+      "CRICKET/PUPPET/WHALE/WOODCARVER"
+    ],
+    "blue": [
+      "FOUND IN A KITCHEN",
+      "COUNTER/MIXER/RANGE/SINK"
+    ],
+    "purple": [
+      "EASTER ___",
+      "BUNNY/EGG/ISLAND/SUNDAY"
+    ]
+  },
+  "76": {
+    "yellow": [
+      "BOARD GAMES",
+      "RISK/SORRY/TABOO/TROUBLE"
+    ],
+    "green": [
+      "NEWSPAPER SECTIONS",
+      "BUSINESS/NATIONAL/OPINION/STYLE"
+    ],
+    "blue": [
+      "FIGURES IN GREEK MYTH",
+      "ATLAS/HERMES/NIKE/PARIS"
+    ],
+    "purple": [
+      "ADJECTIVES IN RAPPERS' NAMES",
+      "FOXY/GUCCI/KILLER/NOTORIOUS"
+    ]
+  },
+  "77": {
+    "yellow": [
+      "POULTRY CUTS",
+      "BREAST/DRUMSTICK/TENDER/WING"
+    ],
+    "green": [
+      "GOLF TERMS",
+      "DRIVER/EAGLE/HOLE/STROKE"
+    ],
+    "blue": [
+      "DRUM SET COMPONENTS",
+      "CYMBAL/KICK/SNARE/TOM"
+    ],
+    "purple": [
+      "ASSOCIATED WITH CRAWL",
+      "INFANT/PUB/SWIMMING/TICKER"
+    ]
+  },
+  "78": {
+    "yellow": [
+      "STATES OF ELATION",
+      "BLISS/CLOUD NINE/HEAVEN/PARADISE"
+    ],
+    "green": [
+      "SCAM",
+      "CON/FAST ONE/HUSTLE/RACKET"
+    ],
+    "blue": [
+      "GREETING GESTURES",
+      "HIGH FIVE/HUG/SHAKE/WAVE"
+    ],
+    "purple": [
+      "___ LIST",
+      "BUCKET/GUEST/TOP TEN/WISH"
+    ]
+  },
+  "79": {
+    "yellow": [
+      "DEPART QUICKLY",
+      "BOOK/BOUNCE/RUN/SPLIT"
+    ],
+    "green": [
+      "ANIMALS THAT END WITH X",
+      "FOX/IBEX/LYNX/ORYX"
+    ],
+    "blue": [
+      "SHADES OF BLACK",
+      "EBONY/JET/ONYX/RAVEN"
+    ],
+    "purple": [
+      "WORDS BEFORE DAYS OF THE WEEK",
+      "ASH/BLACK/CYBER/FAT"
+    ]
+  },
+  "80": {
+    "yellow": [
+      "PLAYGROUND FIXTURES",
+      "SANDBOX/SEESAW/SLIDE/SWING"
+    ],
+    "green": [
+      "INFLUENCE",
+      "CLOUT/PULL/SWAY/WEIGHT"
+    ],
+    "blue": [
+      "EGYPTIAN SYMBOLS",
+      "ANKH/CROOK/EYE/SCARAB"
+    ],
+    "purple": [
+      "FONTS",
+      "COURIER/IMPACT/PAPYRUS/TIMES"
+    ]
+  },
+  "81": {
+    "yellow": [
+      "APPETIZER UNIT",
+      "FRY/NACHO/POPPER/WING"
+    ],
+    "green": [
+      "RESPONSE TO A CORRECT ANSWER",
+      "BINGO/CORRECT/RIGHT/YES"
+    ],
+    "blue": [
+      "MAR",
+      "CHIP/DING/NICK/SCRATCH"
+    ],
+    "purple": [
+      "___JACK",
+      "APPLE/CRACKER/FLAP/LUMBER"
+    ]
+  },
+  "82": {
+    "yellow": [
+      "DRINK VESSELS",
+      "GOBLET/SNIFTER/TUMBLER/STEIN"
+    ],
+    "green": [
+      "WOODWINDS",
+      "CLARINET/FLUTE/OBOE/SAXOPHONE"
+    ],
+    "blue": [
+      "AMERICAN POETS",
+      "BISHOP/FROST/OLDS/POUND"
+    ],
+    "purple": [
+      "CONSECUTIVE DOUBLE LETTERS",
+      "BALLOON/BASSOON/COFFEE/FRICASSEE"
+    ]
+  },
+  "83": {
+    "yellow": [
+      "AU NATUREL",
+      "BARE/NAKED/NUDE/UNCLAD"
+    ],
+    "green": [
+      "BAKED GOODS",
+      "BUN/DANISH/MUFFIN/TURNOVER"
+    ],
+    "blue": [
+      "AMERICAN FOOTBALL ACTIONS",
+      "FUMBLE/PUNT/SACK/SNAP"
+    ],
+    "purple": [
+      "MANICURE STEPS",
+      "BUFF/CLIP/FILE/POLISH"
+    ]
+  },
+  "84": {
+    "yellow": [
+      "FEMALE ANIMALS",
+      "COW/DOE/HEN/MARE"
+    ],
+    "green": [
+      "PRONOUNS",
+      "I/IT/THEY/WE"
+    ],
+    "blue": [
+      "ROMAN NUMERALS",
+      "D/L/M/V"
+    ],
+    "purple": [
+      "HOMOPHONES",
+      "EWE/U/YEW/YOU"
+    ]
+  },
+  "85": {
+    "yellow": [
+      "PAINTING ACCESSORIES",
+      "BRUSH/CANVAS/EASEL/PALETTE"
+    ],
+    "green": [
+      "AUTOMATIC TRANSMISSION SETTINGS",
+      "DRIVE/NEUTRAL/PARK/REVERSE"
+    ],
+    "blue": [
+      "THINGS WITH TEETH",
+      "COMB/GEAR/SAW/ZIPPER"
+    ],
+    "purple": [
+      "___ CHAIR",
+      "FIRST/FOLDING/HIGH/LAWN"
+    ]
+  },
+  "86": {
+    "yellow": [
+      "INFORMATION DISPLAYS",
+      "CHART/DIAGRAM/GRAPH/MAP"
+    ],
+    "green": [
+      "ADDITIONAL BENEFIT",
+      "BONUS/EXTRA/ICING/PERK"
+    ],
+    "blue": [
+      "THANKSGIVING FOOD",
+      "GRAVY/PIE/STUFFING/TURKEY"
+    ],
+    "purple": [
+      "SONG TITLES WITH PARENTHESES",
+      "I RAN/ISTANBUL/MONTERO/SATISFACTION"
+    ]
+  },
+  "87": {
+    "yellow": [
+      "CREATURES IN FOLKLORE",
+      "GNOME/GOBLIN/OGRE/TROLL"
+    ],
+    "green": [
+      "FLOWER PARTS",
+      "BUD/LEAF/PETAL/STALK"
+    ],
+    "blue": [
+      "ONE INVOLVED IN ESPIONAGE",
+      "AGENT/MOLE/PLANT/SPY"
+    ],
+    "purple": [
+      "CHINESE ZODIAC ANIMALS",
+      "DRAGON/HORSE/RABBIT/TIGER"
+    ]
+  },
+  "88": {
+    "yellow": [
+      "ROCKY HORROR PICTURE SHOW",
+      "HORROR/PICTURE/ROCKY/SHOW"
+    ],
+    "green": [
+      "WHO FRAMED ROGER RABBIT",
+      "FRAMED/RABBIT/ROGER/WHO"
+    ],
+    "blue": [
+      "WHEN HARRY MET SALLY",
+      "HARRY/MET/SALLY/WHEN"
+    ],
+    "purple": [
+      "MAD MAX FURY ROAD",
+      "FURY/MAD/MAX/ROAD"
+    ]
+  },
+  "89": {
+    "yellow": [
+      "INHERENT NATURE",
+      "ESSENCE/HEART/SPIRIT/SOUL"
+    ],
+    "green": [
+      "FERMENETED ALCOHOLIC BEVERAGES",
+      "CIDER/PORT/SAKE/STOUT"
+    ],
+    "blue": [
+      "PIXAR MOVIES",
+      "BRAVE/CARS/COCO/UP"
+    ],
+    "purple": [
+      "___ TAPE",
+      "DEMO/RED/SCOTCH/TICKER"
+    ]
+  },
+  "90": {
+    "yellow": [
+      "BASEBALL CALLS",
+      "BALL/OUT/SAFE/STRIKE"
+    ],
+    "green": [
+      "HEAT SOURCES",
+      "FORGE/FURNACE/KILN/OVEN"
+    ],
+    "blue": [
+      "FISH THAT ARE VERBS",
+      "CARP/CATFISH/FLOUNDER/SMELT"
+    ],
+    "purple": [
+      "SILENT L",
+      "COLONEL/SALMON/WALK/YOLK"
+    ]
+  },
+  "91": {
+    "yellow": [
+      "AMAZON ANIMALS",
+      "ANACONDA/CAPYBARA/JAGUAR/TOUCAN"
+    ],
+    "green": [
+      "LOWEST POINT",
+      "BASE/BOTTOM/FOOT/FOUNDATION"
+    ],
+    "blue": [
+      "MUSICALS",
+      "COMPANY/GREASE/HAIR/RENT"
+    ],
+    "purple": [
+      "SEA ___",
+      "CHANGE/CUCUMBER/LEGS/LION"
+    ]
+  },
+  "92": {
+    "yellow": [
+      "HALLOWEEN DECORATIONS",
+      "BAT/COBWEB/PUMPKIN/TOMBSTONE"
+    ],
+    "green": [
+      "TV SHOWS",
+      "24/BONES/FIREFLY/WEEDS"
+    ],
+    "blue": [
+      "SLOT MACHINE SYMBOLS",
+      "7/BAR/BELL/CHERRY"
+    ],
+    "purple": [
+      "NUMBERS IN BOOK TITLES",
+      "22/451/2001/20000"
+    ]
+  },
+  "93": {
+    "yellow": [
+      "HOT DRINKS",
+      "CHAI/COCOA/COFFEE/TEA"
+    ],
+    "green": [
+      "ANIMAL SOUNDS",
+      "BUZZ/CLUCK/MEOW/OINK"
+    ],
+    "blue": [
+      "TREE FEATURES",
+      "BARK/BRANCH/ROOT/TRUNK"
+    ],
+    "purple": [
+      "INSIDE INFO",
+      "DIRT/DISH/SCOOP/SKINNY"
+    ]
+  },
+  "94": {
+    "yellow": [
+      "SKEDADDLE!",
+      "GET OUT/GO/LEAVE/SCRAM"
+    ],
+    "green": [
+      "PRONOUNS",
+      "ME/THEM/US/YOU"
+    ],
+    "blue": [
+      "ANAGRAMS",
+      "NOPE/OPEN/PEON/PONE"
+    ],
+    "purple": [
+      "___ BABY",
+      "BEANIE/FUR/NEPO/SANTA"
+    ]
+  },
+  "95": {
+    "yellow": [
+      "EYE PARTS",
+      "IRIS/LENS/PUPIL/RETINA"
+    ],
+    "green": [
+      "COUNTERFEIT",
+      "BOGUS/FAKE/PHONY/SHAM"
+    ],
+    "blue": [
+      "RADIO LINGO",
+      "COPY/OUT/OVER/ROGER"
+    ],
+    "purple": [
+      "SONGS THAT ARE NAMES",
+      "ALEJANDRO/LOLA/MICHELLE/STAN"
+    ]
+  },
+  "96": {
+    "yellow": [
+      "BOVIDS",
+      "BUFFALO/COW/GOAT/SHEEP"
+    ],
+    "green": [
+      "EMIT LIGHT",
+      "BEAM/GLOW/RADIATE/SHINE"
+    ],
+    "blue": [
+      "GYMNASTICS APPARATUS",
+      "FLOOR/HORSE/RINGS/VAULT"
+    ],
+    "purple": [
+      "WORDS THAT SOUND LIKE TWO LETTERS",
+      "CUTIE/ENVY/EXCEL/SEEDY"
+    ]
+  },
+  "97": {
+    "yellow": [
+      "FAIRY TALE FIGURES",
+      "GIANT/PRINCESS/WITCH/WOLF"
+    ],
+    "green": [
+      "CHESS TERMS",
+      "BISHOP/MATE/GAMBIT/QUEEN"
+    ],
+    "blue": [
+      "PEANUTS CHARACTERS",
+      "CHARLIE/PEPPERMINT PATTY/PIGPEN/WOODSTOCK"
+    ],
+    "purple": [
+      "I LOVE ___",
+      "LUCY/NEW YORK/ROCK 'N ROLL/YOU"
+    ]
+  },
+  "98": {
+    "yellow": [
+      "FRUITS",
+      "APRICOT/FIG/GRAPE/LIME"
+    ],
+    "green": [
+      "LUXURIOUS",
+      "DELUXE/GRAND/LAVISH/OPULENT"
+    ],
+    "blue": [
+      "BEST ACTRESS OSCAR WINNERS",
+      "BERRY/FOSTER/STONE/SWANK"
+    ],
+    "purple": [
+      "WHAT GREEN MIGHT MEAN",
+      "ENVIOUS/FRESH/NAIVE/UNWELL"
+    ]
+  },
+  "99": {
+    "yellow": [
+      "INTELLIGENT",
+      "BRIGHT/CLEVER/QUICK/SHARP"
+    ],
+    "green": [
+      "AIRLINES",
+      "ALASKA/FRONTIER/SOUTHWEST/SPIRIT"
+    ],
+    "blue": [
+      "WESTERN TROPES",
+      "COWBOY/DRIFTER/OUTLAW/SHERIFF"
+    ],
+    "purple": [
+      "TV SHOW TITLE SURNAMES",
+      "LASSO/MARS/ROGERS/SMART"
+    ]
+  },
+  "100": {
+    "yellow": [
+      "WEB BROWSER-RELATED",
+      "BOOKMARK/HISTORY/TAB/WINDOW"
+    ],
+    "green": [
+      "SHIRT FEATURES",
+      "BUTTON/COLLAR/CUFF/POCKET"
+    ],
+    "blue": [
+      "CONNECTION",
+      "BOND/LINK/RELATION/TIE"
+    ],
+    "purple": [
+      "DIRTY ___",
+      "DOZEN/JOKE/LAUNDRY/MARTINI"
+    ]
+  },
+  "101": {
+    "yellow": [
+      "REPLACEMENT",
+      "BACKUP/COPY/EXTRA/SPARE"
+    ],
+    "green": [
+      "BOWLING",
+      "ALLEY/BALL/LANE/PIN"
+    ],
+    "blue": [
+      "COMMON MERCH ITEMS",
+      "MUG/PEN/TEE/TOTE"
+    ],
+    "purple": [
+      "NUMBER HOMOPHONES",
+      "ATE/FOR/TOO/WON"
+    ]
+  },
+  "102": {
+    "yellow": [
+      "RESTAURANT WORKERS",
+      "BARTENDER/CHEF/HOST/SERVER"
+    ],
+    "green": [
+      "MOTOR VEHICLES",
+      "BUS/CAR/MOTORCYCLE/TRUCK"
+    ],
+    "blue": [
+      "MUPPETS",
+      "ANIMAL/BEAKER/GONZO/SCOOTER"
+    ],
+    "purple": [
+      "HAND- AND FOOT-RELATED SLANG",
+      "DIGIT/DOG/MITT/PIGGY"
+    ]
+  },
+  "103": {
+    "yellow": [
+      "SODA FOUNTAIN ORDERS",
+      "FLOAT/MALT/SHAKE/SUNDAE"
+    ],
+    "green": [
+      "SET AS PLANS",
+      "CONCRETE/FIRM/SOLID/TANGIBLE"
+    ],
+    "blue": [
+      "M. NIGHT SHYAMALAN MOVIES",
+      "GLASS/OLD/SIGNS/SPLIT"
+    ],
+    "purple": [
+      "___BOARD",
+      "DASH/HOVER/KEY/STAR"
+    ]
+  },
+  "104": {
+    "yellow": [
+      "ROBUST",
+      "FIT/HEALTHY/SOUND/STRONG"
+    ],
+    "green": [
+      "DECLINE",
+      "DIP/DROP/FALL/SINK"
+    ],
+    "blue": [
+      "WATER SOURCES",
+      "FOUNTAIN/SPRING/TAP/WELL"
+    ],
+    "purple": [
+      "WOMEN SINGERS",
+      "KEYS/NICKS/SUMMER/SWIFT"
+    ]
+  },
+  "105": {
+    "yellow": [
+      "KITCHEN UTENSILS",
+      "GRATER/LADLE/PEELER/WHISK"
+    ],
+    "green": [
+      "VERTEBRATES",
+      "BIRD/FISH/MAMMAL/REPTILE"
+    ],
+    "blue": [
+      "SUPER MARIO-RELATED",
+      "DINOSAUR/MUSHROOM/PLUMBER/PRINCESS"
+    ],
+    "purple": [
+      "SITCOM FAMILIES",
+      "BUNKER/CLEAVER/PARTRIDGE/TANNER"
+    ]
+  },
+  "106": {
+    "yellow": [
+      "BRIDAL ACCESSORIES",
+      "BOUQUET/RING/TRAIN/VEIL"
+    ],
+    "green": [
+      "C WORDS FOR ENVELOP",
+      "CAKE/COAT/COVER/CRUST"
+    ],
+    "blue": [
+      "JACKS",
+      "BLACK/FROST/MA/SPARROW"
+    ],
+    "purple": [
+      "SOCIAL MEDIA APP ENDINGS",
+      "BOOK/GRAM/IN/TUBE"
+    ]
+  },
+  "107": {
+    "yellow": [
+      "SNAKES",
+      "BOA/MAMBA/PYTHON/VIPER"
+    ],
+    "green": [
+      "LINGERIE",
+      "GARTER/SLIP/TEDDY/THONG"
+    ],
+    "blue": [
+      "SUMMARY",
+      "ABSTRACT/BRIEF/DIGEST/RUNDOWN"
+    ],
+    "purple": [
+      "FULL ___",
+      "CIRCLE/HOUSE/MONTY/MOON"
+    ]
+  },
+  "108": {
+    "yellow": [
+      "PRODUCED BY TREES",
+      "ACORN/CONE/POLLEN/SAP"
+    ],
+    "green": [
+      "CANDY STORE TREATS",
+      "CHOCOLATE/GUM/LICORICE/LOLLIPOP"
+    ],
+    "blue": [
+      "TARGET OF A SCHEME",
+      "CHUMP/FOOL/MARK/SUCKER"
+    ],
+    "purple": [
+      "THINGS WITH EYE(S)",
+      "FACE/HURRICANE/NEEDLE/POTATO"
+    ]
+  },
+  "109": {
+    "yellow": [
+      "REFLECT LIGHT",
+      "FLASH/GLEAM/GLITTER/SPARKLE"
+    ],
+    "green": [
+      "WAYS TO GATHER FOOD",
+      "FISH/FORAGE/HUNT/TRAP"
+    ],
+    "blue": [
+      "RAP SUBGENRES",
+      "BOUNCE/CRUNK/DRILL/GRIME"
+    ],
+    "purple": [
+      "LIGHT ___",
+      "BEER/BULB/RAIL/YEAR"
+    ]
+  },
+  "110": {
+    "yellow": [
+      "VERY IMPORTANT",
+      "CENTRAL/CRITICAL/KEY/VITAL"
+    ],
+    "green": [
+      "RECYCLNG CATEGORIES",
+      "GLASS/METAL/PAPER/PLASTIC"
+    ],
+    "blue": [
+      "HUDSONS",
+      "HENRY/JENNIFER/KATE/ROCK"
+    ],
+    "purple": [
+      "WHAT BEAT MAY MEAN",
+      "ASSIGNMENT/DEFEAT/TEMPO/TIRED"
+    ]
+  },
+  "111": {
+    "yellow": [
+      "PLAYING CARD SUITS",
+      "CLUB/DIAMOND/HEART/SPADE"
+    ],
+    "green": [
+      "GOLF CLUBS",
+      "IRON/PUTTER/WEDGE/WOOD"
+    ],
+    "blue": [
+      "YEARN",
+      "ACHE/LONG/PINE/THIRST"
+    ],
+    "purple": [
+      "INSUFFICIENT",
+      "LOW/SHORT/SHY/WANTING"
+    ]
+  },
+  "112": {
+    "yellow": [
+      "COFFEE COUNTER ITEMS",
+      "CUP/LID/STIRRER/STRAW"
+    ],
+    "green": [
+      "NOCTURNAL ANIMALS",
+      "BAT/MOTH/OWL/WOLF"
+    ],
+    "blue": [
+      "THINGS THAT ARE RED",
+      "BEET/BRICK/CARDINAL/POPPY"
+    ],
+    "purple": [
+      "___ FIGURE",
+      "ACTION/BALLPARK/GO/STICK"
+    ]
+  },
+  "113": {
+    "yellow": [
+      "WAYS TO SHOW RESPECT",
+      "BOW/KNEEL/SALUTE/STAND"
+    ],
+    "green": [
+      "IPHONE APPS",
+      "CLOCK/MAIL/MAPS/NOTES"
+    ],
+    "blue": [
+      "ANIMAL COVERINGS",
+      "DOWN/FUR/SCALES/SHELL"
+    ],
+    "purple": [
+      "POINTERS",
+      "ARROW/DOG/FINGER/HINT"
+    ]
+  },
+  "114": {
+    "yellow": [
+      "LONG-HAIRED ANIMALS",
+      "AFGHAN/ALPACA/ANGORA/YAK"
+    ],
+    "green": [
+      "PRATTLE ON",
+      "BLATHER/CHAT/JABBER/GAB"
+    ],
+    "blue": [
+      "SNEAKER BRANDS",
+      "CONVERSE/JORDAN/PUMA/VANS"
+    ],
+    "purple": [
+      "___ BALLOON",
+      "LEAD/SPEECH/TRIAL/WATER"
+    ]
+  },
+  "115": {
+    "yellow": [
+      "CHRISTMAS-RELATED",
+      "MISTLETOE/REINDEER/SNOWMAN/STOCKING"
+    ],
+    "green": [
+      "MAKE PUBLIC",
+      "DISPLAY/EXHIBIT/PRESENT/SHOW"
+    ],
+    "blue": [
+      "TORUS-SHAPED FOOD",
+      "BAGEL/CHEERIO/DONUT/LIFESAVER"
+    ],
+    "purple": [
+      "THINGS WITH STRIPES",
+      "CANDY CANE/CROSSWALK/REFEREE/TIGER"
+    ]
+  },
+  "116": {
+    "yellow": [
+      "DIVISION",
+      "ARM/BRANCH/CHAPTER/WING"
+    ],
+    "green": [
+      "IMPERIAL UNITS",
+      "BUSHEL/PECK/STONE/TON"
+    ],
+    "blue": [
+      "M.L.B. TEAM MEMBER",
+      "ANGEL/CUB/MET/RED"
+    ],
+    "purple": [
+      "INSECT HOMOPHONES",
+      "AUNT/BEATLE/FLEE/NAT"
+    ]
+  },
+  "117": {
+    "yellow": [
+      "LAUGHTER IN A TEXT",
+      "DEAD/HAHA/LOL/ROFL"
+    ],
+    "green": [
+      "ART MOVEMENTS",
+      "DADA/DECO/GOTHIC/POP"
+    ],
+    "blue": [
+      "PETER PAN CHARACTERS",
+      "HOOK/NANA/PETER/WENDY"
+    ],
+    "purple": [
+      "LADY ___",
+      "BIRD/GAGA/LUCK/MACBETH"
+    ]
+  },
+  "118": {
+    "yellow": [
+      "RHYMES",
+      "DARREN/KAREN/SHARON/AARON"
+    ],
+    "green": [
+      "NATURAL FEATURES",
+      "DALE/BROOK/SAVANNA/CLIFF"
+    ],
+    "blue": [
+      "PAST TENSE VERBS",
+      "DREW/ROSE/WILL/MAY"
+    ],
+    "purple": [
+      "PALINDROMES",
+      "EVE/HANNAH/OTTO/NATAN"
+    ]
+  },
+  "119": {
+    "yellow": [
+      "CELEBRATORY OCCASIONS",
+      "ANNIVERSARY/BIRTHDAY/SHOWER/WEDDING"
+    ],
+    "green": [
+      "PHONE CONNECTIVITY",
+      "BARS/RECEPTION/SERVICE/SIGNAL"
+    ],
+    "blue": [
+      "CITIES AND TOWNS IN ENGLAND",
+      "BATH/DERBY/READING/SANDWICH"
+    ],
+    "purple": [
+      "___ OPERA",
+      "COMIC/MET/ROCK/SOAP"
+    ]
+  },
+  "120": {
+    "yellow": [
+      "CROPS",
+      "CORN/CUCUMBER/PEPPER/TOMATO"
+    ],
+    "green": [
+      "SLANG FOR HEAD",
+      "CROWN/DOME/MELON/NOODLE"
+    ],
+    "blue": [
+      "SONG",
+      "CUT/NUMBER/SINGLE/TRACK"
+    ],
+    "purple": [
+      "THINGS THAT WHISTLE",
+      "BIRD/KETTLE/REFEREE/TRAIN"
+    ]
+  },
+  "121": {
+    "yellow": [
+      "ORIGIN",
+      "GENESIS/GERM/SEED/SOURCE"
+    ],
+    "green": [
+      "BIBLE BOOKS",
+      "ACTS/JOB/KINGS/MARK"
+    ],
+    "blue": [
+      "N.H.L. TEAMS",
+      "FLAMES/KRAKEN/STARS/WILD"
+    ],
+    "purple": [
+      "POWER ___",
+      "NAP/PLANT/RANGER/TRIP"
+    ]
+  },
+  "122": {
+    "yellow": [
+      "FILM SET DIRECTIVES",
+      "ACTION/CAMERA/CUT/LIGHTS"
+    ],
+    "green": [
+      "CONDITIONAL WORDS",
+      "CAN/COULD/MAY/MIGHT"
+    ],
+    "blue": [
+      "FOREMOST",
+      "HEAD/LEAD/PRIME/TOP"
+    ],
+    "purple": [
+      "___ PAPER",
+      "BUTCHER/SCRAP/TOILET/WAX"
+    ]
+  },
+  "123": {
+    "yellow": [
+      "CONCEAL",
+      "BLOCK/COVER/HIDE/MASK"
+    ],
+    "green": [
+      "PARTS OF A WATCH",
+      "CROWN/DIAL/HAND/STRAP"
+    ],
+    "blue": [
+      "WONDER WOMAN'S COSTUME",
+      "LASSO/SHIELD/SWORD/TIARA"
+    ],
+    "purple": [
+      "THINGS THAT CAN RUN",
+      "CANDIDATE/FAUCET/MASCARA/NOSE"
+    ]
+  },
+  "124": {
+    "yellow": [
+      "BEANS",
+      "FAVA/KIDNEY/LIMA/PINTO"
+    ],
+    "green": [
+      "CITIES BEGINNING WITH L",
+      "LAGOS/LIMERICK/LINCOLN/LUXOR"
+    ],
+    "blue": [
+      "POETRY TERMS",
+      "LINE/METER/RHYME/VERSE"
+    ],
+    "purple": [
+      "THE(E) ___ RAPPERS",
+      "CREATOR/DUDE/RAPPER/STALLION"
+    ]
+  },
+  "125": {
+    "yellow": [
+      "BUTT",
+      "BOTTOM/BUNS/SEAT/TAIL"
+    ],
+    "green": [
+      "ROTARY PHONE PARTS",
+      "CORD/CRADLE/DIAL/HANDSET"
+    ],
+    "blue": [
+      "SLANG FOR HOME",
+      "CRIB/DIGS/JOINT/PAD"
+    ],
+    "purple": [
+      "PLUNDER",
+      "BOOTY/LOOT/SPOILS/SWAG"
+    ]
+  },
+  "126": {
+    "yellow": [
+      "TOOLS",
+      "FILE/HAMMER/LEVEL/SAW"
+    ],
+    "green": [
+      "PULL",
+      "JERK/TUG/WRENCH/YANK"
+    ],
+    "blue": [
+      "SHORTCUT COMMANDS",
+      "COPY/FIND/PRINT/SAVE"
+    ],
+    "purple": [
+      "TITLE MOVIE ANIMALS",
+      "BABE/BEETHOVEN/CHARLOTTE/WILLY"
+    ]
+  },
+  "127": {
+    "yellow": [
+      "DAYS OF THE WEEK",
+      "FRIDAY/SATURDAY/SUNDAY/THURSDAY"
+    ],
+    "green": [
+      "GO BAD",
+      "ROT/SOUR/SPOIL/TURN"
+    ],
+    "blue": [
+      "THE ADDAMS FAMILY CHARACTERS",
+      "FESTER/LURCH/THING/WEDNESDAY"
+    ],
+    "purple": [
+      "FAT ___",
+      "CAT/CHANCE/LIP/TUESDAY"
+    ]
+  },
+  "128": {
+    "yellow": [
+      "TAUNTS",
+      "BOO/HISS/JEER/RASPBERRY"
+    ],
+    "green": [
+      "FAILURE",
+      "BOMB/DUD/FLOP/LEMON"
+    ],
+    "blue": [
+      "RUDELY BREAK OFF CONTACT",
+      "DESERT/GHOST/IGNORE/JILT"
+    ],
+    "purple": [
+      "ROCK ___",
+      "BOTTOM/CANDY/GARDEN/STAR"
+    ]
+  },
+  "129": {
+    "yellow": [
+      "SOMETHING TIRESOME",
+      "BORE/DRAG/SNOOZE/YAWN"
+    ],
+    "green": [
+      "BIT OF WIND",
+      "BREEZE/DRAFT/GUST/PUFF"
+    ],
+    "blue": [
+      "PIQUANCY",
+      "BITE/KICK/TANG/ZIP"
+    ],
+    "purple": [
+      "SINGULAR OF THINGS SEEN IN PAIRS",
+      "BOXER/GOGGLE/PANT/TONG"
+    ]
+  },
+  "130": {
+    "yellow": [
+      "FALSIFY",
+      "FABRICATE/FAKE/FIX/FORGE"
+    ],
+    "green": [
+      "MILD OATHS",
+      "FIDDLESTICKS/FIE/FRICK/FUDGE"
+    ],
+    "blue": [
+      "TV SHOWS",
+      "FARGO/FIREFLY/FLEABAG/FLIPPER"
+    ],
+    "purple": [
+      "FAST ___",
+      "FASHION/FOOD/FORWARD/FRIENDS"
+    ]
+  },
+  "131": {
+    "yellow": [
+      "ANIMAL HOMES",
+      "DEN/HIVE/LAIR/NEST"
+    ],
+    "green": [
+      "VIRTUAL SPACES",
+      "CLOUD/METAVERSE/NET/WEB"
+    ],
+    "blue": [
+      "EQUITABLE",
+      "EQUAL/EVEN/FAIR/JUST"
+    ],
+    "purple": [
+      "___ BURGER",
+      "GOOD/IMPOSSIBLE/NOTHING/WARREN"
+    ]
+  },
+  "132": {
+    "yellow": [
+      "TABLEWARE",
+      "BOWL/DISH/PLATE/SAUCER"
+    ],
+    "green": [
+      "NONSENSE",
+      "BALONEY/BUNK/CROCK/TRIPE"
+    ],
+    "blue": [
+      "BRA PARTS",
+      "CUP/HOOK/STRAP/WIRE"
+    ],
+    "purple": [
+      "ACRONYMS",
+      "LASER/RADAR/SCUBA/SPAM"
+    ]
+  },
+  "133": {
+    "yellow": [
+      "RELAX",
+      "CHILL/HANG/LOAF/LOUNGE"
+    ],
+    "green": [
+      "CATCHY SONG",
+      "BANGER/BOP/GROOVE/JAM"
+    ],
+    "blue": [
+      "BRITISH CUISINE",
+      "MASH/ROAST/SCONE/TRIFLE"
+    ],
+    "purple": [
+      "STICKY SITUATION",
+      "BIND/PICKLE/SCRAPE/SPOT"
+    ]
+  },
+  "134": {
+    "yellow": [
+      "CELL PHONE MODES",
+      "FOCUS/RING/SILENT/VIBRATE"
+    ],
+    "green": [
+      "IMPEL",
+      "DRIVE/INSPIRE/MOTIVATE/SPUR"
+    ],
+    "blue": [
+      "ROMANTIC BEGINNINGS",
+      "CONNECTION/FEELINGS/SPARK/VIBE"
+    ],
+    "purple": [
+      "HARD ___",
+      "CANDY/COPY/KNOCKS/SELTZER"
+    ]
+  },
+  "135": {
+    "yellow": [
+      "ANIMAL GROUPS",
+      "COLONY/HERD/PRIDE/SCHOOL"
+    ],
+    "green": [
+      "SMALL OPENING",
+      "CRANNY/NICHE/NOOK/RECESS"
+    ],
+    "blue": [
+      "PARADIGMATIC",
+      "CLASSIC/DEFINITIVE/MODEL/TEXTBOOK"
+    ],
+    "purple": [
+      "RHYMING COMPOUND WORDS",
+      "BACKPACK/BIGWIG/DOWNTOWN/RAGTAG"
+    ]
+  },
+  "136": {
+    "yellow": [
+      "GRAMMAR TENSE TERMS",
+      "FUTURE/PAST/PERFECT/PRESENT"
+    ],
+    "green": [
+      "GRACIOUS ME!",
+      "GOODNESS/HEAVENS/LORD/MERCY"
+    ],
+    "blue": [
+      "12 DAYS OF CHRISTMAS",
+      "DRUMMER/LADY/RING/SWAN"
+    ],
+    "purple": [
+      "___ SYRUP",
+      "CORN/COUGH/MAPLE/SIMPLE"
+    ]
+  },
+  "137": {
+    "yellow": [
+      "INCREASE",
+      "BUILD/GROW/SWELL/MOUNT"
+    ],
+    "green": [
+      "EXCELLENT IN OLD SLANG",
+      "ACES/KEEN/NEATO/NIFTY"
+    ],
+    "blue": [
+      "FINE BUBBLES",
+      "FOAM/FROTH/HEAD/LATHER"
+    ],
+    "purple": [
+      "SPHERICAL THINGS",
+      "BUBBLE/GLOBE/MARBLE/PEARL"
+    ]
+  },
+  "138": {
+    "yellow": [
+      "SHAMELESS BOLDNESS",
+      "BRASS/CHEEK/GALL/NERVE"
+    ],
+    "green": [
+      "METAL ELEMENTS",
+      "COPPER/GOLD/NICKEL/SILVER"
+    ],
+    "blue": [
+      "W.N.B.A. TEAMS",
+      "MERCURY/SKY/SPARKS/LIBERTY"
+    ],
+    "purple": [
+      "THINGS WITH TRUNKS",
+      "CARS/ELEPHANTS/SWIMMERS/TREES"
+    ]
+  },
+  "139": {
+    "yellow": [
+      "SENSES",
+      "SIGHT/SMELL/TASTE/TOUCH"
+    ],
+    "green": [
+      "APPEARANCE",
+      "DRESS/LOOK/MANNER/STYLE"
+    ],
+    "blue": [
+      "AGREE!",
+      "DITTO/LIKEWISE/SAME/SECOND"
+    ],
+    "purple": [
+      "___ MOON",
+      "BLUE/HARVEST/NEW/SAILOR"
+    ]
+  },
+  "140": {
+    "yellow": [
+      "MISHMASH",
+      "HASH/JUMBLE/MEDLEY/STEW"
+    ],
+    "green": [
+      "GO UP AGAINST",
+      "CHALLENGE/CONFRONT/FACE/OPPOSE"
+    ],
+    "blue": [
+      "GROUP OF OFFSPRING",
+      "BROOD/CLUTCH/HATCH/LITTER"
+    ],
+    "purple": [
+      "GUITAR PARTS",
+      "BODY/BRIDGE/FRET/NECK"
+    ]
+  },
+  "141": {
+    "yellow": [
+      "BIRD FEATURES",
+      "BEAK/FEATHER/TALON/WING"
+    ],
+    "green": [
+      "BLINK OF AN EYE",
+      "FLASH/HEARTBEAT/SECOND/WINK"
+    ],
+    "blue": [
+      "MAHJONG TILES",
+      "BAMBOO/DRAGON/SEASON/WIND"
+    ],
+    "purple": [
+      "___ BUTTON",
+      "BELLY/HOT/PANIC/SNOOZE"
+    ]
+  },
+  "142": {
+    "yellow": [
+      "FLOWERS",
+      "DAISY/ROSE/TULIP/VIOLET"
+    ],
+    "green": [
+      "SEEN ON A FARM",
+      "BARN/CHICKEN/FARMER/TRACTOR"
+    ],
+    "blue": [
+      "HORROR DIRECTORS",
+      "ASTER/CARPENTER/CRAVEN/WAN"
+    ],
+    "purple": [
+      "___ JACKET",
+      "DUST/LIFE/SPORTS/YELLOW"
+    ]
+  },
+  "143": {
+    "yellow": [
+      "SOCIAL MEDIA ACTIONS",
+      "FOLLOW/LIKE/SHARE/SUBSCRIBE"
+    ],
+    "green": [
+      "USE A NEEDLE AND THREAD",
+      "DARN/HEM/SEAM/SEW"
+    ],
+    "blue": [
+      "SHOWS SET IN HOSPITALS",
+      "ER/HOUSE/RATCHED/SCRUBS"
+    ],
+    "purple": [
+      "EXPRESSIONS OF HESITATION",
+      "ERM/UH/UM/WELL"
+    ]
+  },
+  "144": {
+    "yellow": [
+      "IGNITE",
+      "BURN/KINDLE/LIGHT/TORCH"
+    ],
+    "green": [
+      "INFORMATION",
+      "DATA/INFO/INTEL/NEWS"
+    ],
+    "blue": [
+      "SMALL WOODED AREA",
+      "DELL/GLEN/HOLLOW/VALLEY"
+    ],
+    "purple": [
+      "THINGS WITH CORES",
+      "APPLE/COMPUTER/PLANET/REACTOR"
+    ]
+  },
+  "145": {
+    "yellow": [
+      "NEVERTHELESS",
+      "HOWEVER/STILL/THOUGH/YET"
+    ],
+    "green": [
+      "REPEATED WORDS IN EXPRESSIONS",
+      "HEAR/KNOCK/THERE/TUT"
+    ],
+    "blue": [
+      "WORDS ABBREVIATED WITH LETTERS",
+      "ARE/SEE/WHY/YOU"
+    ],
+    "purple": [
+      "ROYAL ___",
+      "FAMILY/FLUSH/JELLY/WE"
+    ]
+  },
+  "146": {
+    "yellow": [
+      "WAYS TO PREPARE",
+      "DRILL/PRACTICE/STUDY/TRAIN"
+    ],
+    "green": [
+      "HOLLOW CYLINDERS",
+      "HOSE/PIPE/STRAW/TUBE"
+    ],
+    "blue": [
+      "CLUE WEAPONS",
+      "CANDLESTICK/KNIFE/ROPE/WRENCH"
+    ],
+    "purple": [
+      "E- THINGS",
+      "CIGARETTE/BIKE/TICKET/SPORTS"
+    ]
+  },
+  "147": {
+    "yellow": [
+      "UNCHANGING",
+      "EVEN/LEVEL/STABLE/STEADY"
+    ],
+    "green": [
+      "LONG SHARP OBJECTS",
+      "LANCE/PIN/SKEWER/SPIT"
+    ],
+    "blue": [
+      "MUSIC PUBLICATIONS",
+      "BILLBOARD/PITCHFORK/ROLLING STONE/SPIN"
+    ],
+    "purple": [
+      "WORDS WITH NUMERICAL PREFIXES",
+      "UNIFORM/BICYCLE/TRILOGY/QUADRANT"
+    ]
+  },
+  "148": {
+    "yellow": [
+      "INVESTMENTS",
+      "BOND/CD/OPTION/STOCK"
+    ],
+    "green": [
+      "TERMS FOR RECORDS",
+      "LP/PLATTER/VINYL/WAX"
+    ],
+    "blue": [
+      "CUBE-SHAPED",
+      "BOUILLON/DIE/ICE/SUGAR"
+    ],
+    "purple": [
+      "WORDS THAT GO WITH BONE",
+      "FUNNY/HERRING/SOUP/WISH"
+    ]
+  },
+  "149": {
+    "yellow": [
+      "DIGITAL NOTIFICATION SOUNDS",
+      "CHIME/DING/PING/RING"
+    ],
+    "green": [
+      "TATTLE",
+      "RAT/SING/SNITCH/SQUEAL"
+    ],
+    "blue": [
+      "GROUP WITHIN A GROUP",
+      "CAMP/DIVISION/FACTION/WING"
+    ],
+    "purple": [
+      "MICROSOFT PRODUCTS",
+      "BING/EDGE/SURFACE/WORD"
+    ]
+  },
+  "150": {
+    "yellow": [
+      "BROUGHT TO THE BEACH",
+      "FLIP-FLOP/SUNSCREEN/TOWEL/UMBRELLA"
+    ],
+    "green": [
+      "TYPES OF FRENCH FRIES",
+      "CURLY/SHOESTRING/WAFFLE/WEDGE"
+    ],
+    "blue": [
+      "EQUIVOCATE",
+      "HEDGE/SEE-SAW/WAVER/YO-YO"
+    ],
+    "purple": [
+      "SECOND WORDS OF VODKA COCKTAILS",
+      "BREEZE/MARY/MULE/RUSSIAN"
+    ]
+  },
+  "151": {
+    "yellow": [
+      "DOCTORS' ORDERS",
+      "DIET/EXERCISE/FRESH AIR/SLEEP"
+    ],
+    "green": [
+      "EMAIL ACTIONS",
+      "COMPOSE/FORWARD/REPLY ALL/SEND"
+    ],
+    "blue": [
+      "PODCASTS",
+      "RADIOLAB/SERIAL/UP FIRST/WTF"
+    ],
+    "purple": [
+      "___ COMEDY",
+      "BLACK/DIVINE/PROP/SKETCH"
+    ]
+  },
+  "152": {
+    "yellow": [
+      "SPICES",
+      "ANISE/DILL/NUTMEG/SAGE"
+    ],
+    "green": [
+      "INTELLIGENT",
+      "BRIGHT/QUICK/SHARP/SMART"
+    ],
+    "blue": [
+      "DEODORANTS",
+      "AXE/DEGREE/OLD SPICE/SECRET"
+    ],
+    "purple": [
+      "MEDIEVAL WEAPONS",
+      "CLUB/MACE/SPEAR/SWORD"
+    ]
+  },
+  "153": {
+    "yellow": [
+      "SPARSE/LACKING",
+      "LIGHT/SHORT/SPARE/THIN"
+    ],
+    "green": [
+      "FUN TIME",
+      "BALL/BLAST/KICK/RIOT"
+    ],
+    "blue": [
+      "FILMMAKING EQUIPMENT",
+      "BOOM/DOLLY/LENS/TRIPOD"
+    ],
+    "purple": [
+      "GET A ___!",
+      "CLUE/GRIP/LIFE/ROOM"
+    ]
+  },
+  "154": {
+    "yellow": [
+      "PRESIDENTS",
+      "FORD/GRANT/LINCOLN/WILSON"
+    ],
+    "green": [
+      "SPORTS PROFESSIONALS",
+      "COACH/GM/PLAYER/SCOUT"
+    ],
+    "blue": [
+      "CAR COMPANIES",
+      "BMW/HONDA/JAGUAR/SUBARU"
+    ],
+    "purple": [
+      "COMMON PREFIXES",
+      "AUTO/POST/SEMI/SUB"
+    ]
+  },
+  "155": {
+    "yellow": [
+      "UNIT OF LANGUAGE",
+      "LETTER/PARAGRAPH/SENTENCE/WORD"
+    ],
+    "green": [
+      "TRADEMARK",
+      "FEATURE/HALLMARK/STAMP/TRAIT"
+    ],
+    "blue": [
+      "FUNNY PERSON",
+      "CARD/CLOWN/CUTUP/JOKER"
+    ],
+    "purple": [
+      "THINGS WITH LEAVES",
+      "BOOK/TABLE/TEA/TREE"
+    ]
+  },
+  "156": {
+    "yellow": [
+      "BASIC EMOTIONS",
+      "ANGER/FEAR/HAPPINESS/SURPRISE"
+    ],
+    "green": [
+      "BIT OF VOCAL FANFARE",
+      "BEHOLD/PRESTO/TADA/VOILA"
+    ],
+    "blue": [
+      "OBTAIN",
+      "GET/LAND/SECURE/WIN"
+    ],
+    "purple": [
+      "___ ANT",
+      "ADAM/CARPENTER/FIRE/RED"
+    ]
+  },
+  "157": {
+    "yellow": [
+      "GROSS!",
+      "EW/ICK/PU/UGH"
+    ],
+    "green": [
+      "MAGAZINES",
+      "O/OK/US/W"
+    ],
+    "blue": [
+      "YES IN DIFFERENT LANGUAGES",
+      "HAI/JA/SI/DA"
+    ],
+    "purple": [
+      "HOMOPHONES",
+      "OUI/WE/WEE/WII"
+    ]
+  },
+  "158": {
+    "yellow": [
+      "BALDERDASH",
+      "BULL/HOGWASH/NONSENSE/ROT"
+    ],
+    "green": [
+      "HELM",
+      "DIRECT/GUIDE/LEAD/STEER"
+    ],
+    "blue": [
+      "SINGLE/PLURAL ANIMALS",
+      "BUFFALO/DEER/FISH/MOOSE"
+    ],
+    "purple": [
+      "GREAT ___",
+      "DANE/LAKE/SEAL/WHITE"
+    ]
+  },
+  "159": {
+    "yellow": [
+      "BODYWEIGHT EXERCISES",
+      "DIPS/LUNGES/PLANKS/SQUATS"
+    ],
+    "green": [
+      "EMAIL SIGN-OFFS",
+      "BEST/CHEERS/REGARDS/THANKS"
+    ],
+    "blue": [
+      "M.L.B. TEAMS FOR SHORT",
+      "CARDS/JAYS/NATS/YANKS"
+    ],
+    "purple": [
+      "ELIZABETHS (AND ONE ELISABETH)",
+      "BANKS/MOSS/TAYLOR/WARREN"
+    ]
+  },
+  "160": {
+    "yellow": [
+      "QUICK PEEK",
+      "GANDER/GLANCE/GLIMPSE/LOOK"
+    ],
+    "green": [
+      "DECEIT",
+      "ACT/BLUFF/CHARADE/FRONT"
+    ],
+    "blue": [
+      "PARTS OF A MOUNTAIN",
+      "CLIFF/CRAG/LEDGE/RIDGE"
+    ],
+    "purple": [
+      "HOMOPHONES",
+      "PEAK/PEEK/PEKE/PIQUE"
+    ]
+  },
+  "161": {
+    "yellow": [
+      "ONSET",
+      "BIRTH/CREATION/DAWN/START"
+    ],
+    "green": [
+      "VENERABLE",
+      "AUGUST/GRAND/NOBLE/REGAL"
+    ],
+    "blue": [
+      "WALK",
+      "MARCH/STEP/STRIDE/TREAD"
+    ],
+    "purple": [
+      "___ DAY HOLIDAYS",
+      "EARTH/GROUNDHOG/LABOR/MAY"
+    ]
+  },
+  "162": {
+    "yellow": [
+      "RELIGIOUS FIGURES",
+      "CARDINAL/LAMA/MONK/PASTOR"
+    ],
+    "green": [
+      "PRIMATES",
+      "BABOON/BONOBO/GIBBON/GORILLA"
+    ],
+    "blue": [
+      "CHUTNEY VARIETIES",
+      "MANGO/MINT/TAMARIND/TOMATO"
+    ],
+    "purple": [
+      "IMITATE",
+      "APE/MIME/MIRROR/PARROT"
+    ]
+  },
+  "163": {
+    "yellow": [
+      "TYPES OF TEETH",
+      "CANINE/FANG/MOLAR/TUSK"
+    ],
+    "green": [
+      "FASHIONABLE",
+      "CHIC/HIP/HOT/IN"
+    ],
+    "blue": [
+      "DANCE MOVES",
+      "FLOSS/ROBOT/VOGUE/WORM"
+    ],
+    "purple": [
+      "THINGS THAT SUCK",
+      "LEECH/STRAW/VACUUM/VAMPIRE"
+    ]
+  },
+  "164": {
+    "yellow": [
+      "AREAS BETWEEN MOUNTAINS AND HILLS",
+      "CANYON/GULCH/PASS/RAVINE"
+    ],
+    "green": [
+      "EAT VORACIOUSLY",
+      "GORGE/GULP/SCARF/WOLF"
+    ],
+    "blue": [
+      "FEATURED IN SNOW WHITE",
+      "APPLE/BASHFUL/MIRROR/QUEEN"
+    ],
+    "purple": [
+      "C + BIRD",
+      "CHEN/CLARK/COWL/CRAVEN"
+    ]
+  },
+  "165": {
+    "yellow": [
+      "FOODS WITH CRUSTS",
+      "PASTY/PIE/TART/TURNOVER"
+    ],
+    "green": [
+      "ENDING IN A SILENT T",
+      "BOUQUET/PARFAIT/RAGOUT/RAPPORT"
+    ],
+    "blue": [
+      "COUNTRIES WITH RED AND WHITE FLAGS",
+      "JAPAN/POLAND/TUNISIA/TURKEY"
+    ],
+    "purple": [
+      "N.B.A. GREATS",
+      "BIRD/CURRY/JAMES/JORDAN"
+    ]
+  },
+  "166": {
+    "yellow": [
+      "CRITICIZE",
+      "KNOCK/PAN/ROAST/SLAM"
+    ],
+    "green": [
+      "REALITY SHOWS",
+      "ALONE/CATFISH/CHOPPED/SURVIVOR"
+    ],
+    "blue": [
+      "CAR BRANDS",
+      "FIAT/JAGUAR/MINI/RAM"
+    ],
+    "purple": [
+      "___ PAD",
+      "BACHELOR/LILY/MAXI/MOUSE"
+    ]
+  },
+  "167": {
+    "yellow": [
+      "SECLUDED",
+      "HIDDEN/PRIVATE/REMOTE/SECRET"
+    ],
+    "green": [
+      "AGGREGATE SIZE",
+      "AMOUNT/NUMBER/QUANTITY/VOLUME"
+    ],
+    "blue": [
+      "BODIES OF WATER",
+      "CANAL/CHANNEL/SOUND/STRAIT"
+    ],
+    "purple": [
+      "READS THE SAME ROTATED 180 DEGREES",
+      "96/MOW/NOON/SIS"
+    ]
+  },
+  "168": {
+    "yellow": [
+      "MUNICIPALITIES",
+      "CITY/COUNTY/TOWN/VILLAGE"
+    ],
+    "green": [
+      "BLENDER BUTTONS",
+      "CHOP/GRIND/PULSE/PUREE"
+    ],
+    "blue": [
+      "FINANCIAL TERMS",
+      "CAPITAL/EQUITY/INTEREST/STOCK"
+    ],
+    "purple": [
+      "___ LEAGUE",
+      "IVY/JUSTICE/LITTLE/PREMIER"
+    ]
+  },
+  "169": {
+    "yellow": [
+      "CARRY A TUNE",
+      "HUM/SING/SCAT/WHISTLE"
+    ],
+    "green": [
+      "WHOLE AMOUNT",
+      "COUNT/GROSS/SUM/TOTAL"
+    ],
+    "blue": [
+      "MOJITO INGREDIENTS",
+      "LIME/MINT/RUM/SODA"
+    ],
+    "purple": [
+      "THINGS THAT ARE STICKY",
+      "GLUE/GUM/TAPE/STICK"
+    ]
+  },
+  "170": {
+    "yellow": [
+      "ROOMS IN A HOUSE",
+      "BEDROOM/DEN/KITCHEN/STUDY"
+    ],
+    "green": [
+      "LAND SURROUNDED BY WATER",
+      "ATOLL/BAR/ISLAND/KEY"
+    ],
+    "blue": [
+      "FILL TO EXCESS",
+      "CRAM/JAM/PACK/STUFF"
+    ],
+    "purple": [
+      "BEAN ___",
+      "BAG/COUNTER/DIP/SPROUT"
+    ]
+  },
+  "171": {
+    "yellow": [
+      "FOOT PARTS",
+      "ARCH/BALL/SOLE/TOE"
+    ],
+    "green": [
+      "MUSICAL INSTRUMENTS",
+      "BASS/HARP/HORN/ORGAN"
+    ],
+    "blue": [
+      "DOG COMMANDS",
+      "COME/DOWN/SIT/STAY"
+    ],
+    "purple": [
+      "BADDIE",
+      "DOG/HEEL/JERK/SNAKE"
+    ]
+  },
+  "172": {
+    "yellow": [
+      "AVOID",
+      "DODGE/DUCK/ESCAPE/SKIRT"
+    ],
+    "green": [
+      "HITCHCOCK MOVIES",
+      "BIRDS/NOTORIOUS/REBECCA/ROPE"
+    ],
+    "blue": [
+      "SIDEKICKS",
+      "GOOSE/HOBBES/ROBIN/WATSON"
+    ],
+    "purple": [
+      "___ CHEESE",
+      "COTTAGE/CREAM/SAY/STRING"
+    ]
+  },
+  "173": {
+    "yellow": [
+      "PLACES TO SHOP",
+      "MALL/MARKET/OUTLET/STORE"
+    ],
+    "green": [
+      "WAYS TO REMOVE HAIR",
+      "SHAVE/THREAD/TWEEZE/WAX"
+    ],
+    "blue": [
+      "PORTION OF PROFIT",
+      "CUT/PIECE/SHARE/TAKE"
+    ],
+    "purple": [
+      "KINDS OF WRENCHES",
+      "ALLEN/CRESCENT/MONKEY/SOCKET"
+    ]
+  },
+  "174": {
+    "yellow": [
+      "CONTAINERS",
+      "BASKET/BIN/CHEST/HAMPER"
+    ],
+    "green": [
+      "CIRCULAR SHAPES",
+      "BAND/CIRCLE/HOOP/RING"
+    ],
+    "blue": [
+      "RESTRICT",
+      "CAP/CHECK/CURB/LIMIT"
+    ],
+    "purple": [
+      "___ JAM",
+      "NBA/PAPER/PEARL/TRAFFIC"
+    ]
+  },
+  "175": {
+    "yellow": [
+      "MONTHLY BILLS",
+      "CABLE/ELECTRIC/GAS/WATER"
+    ],
+    "green": [
+      "RELATED TO SOUND/HEARING",
+      "ACOUSTIC/AUDITORY/HEARD/SONIC"
+    ],
+    "blue": [
+      "CONNECT",
+      "COUPLE/HITCH/LINK/TIE"
+    ],
+    "purple": [
+      "EXCITE WITH UP",
+      "AMP/FIRE/HYPE/PUMP"
+    ]
+  },
+  "176": {
+    "yellow": [
+      "UNIT OF BREAD",
+      "BAGUETTE/BUN/LOAF/ROLL"
+    ],
+    "green": [
+      "ASSURE AS A WIN",
+      "CLINCH/GUARANTEE/LOCK/SECURE"
+    ],
+    "blue": [
+      "SMALL IMPERFECTION",
+      "CHIP/MARK/NICK/SCRATCH"
+    ],
+    "purple": [
+      "HEAD OF ___",
+      "HAIR/LETTUCE/STATE/STEAM"
+    ]
+  },
+  "177": {
+    "yellow": [
+      "ENORMOUS",
+      "BIG/GIANT/GREAT/HUGE"
+    ],
+    "green": [
+      "BOOKSTORE SECTIONS",
+      "FICTION/HUMOR/POETRY/TRAVEL"
+    ],
+    "blue": [
+      "TV SHOWS WITH HAPPY-SOUNDING NAMES",
+      "CHEERS/EUPHORIA/FELICITY/GLEE"
+    ],
+    "purple": [
+      "___ CRANE",
+      "CONSTRUCTION/FRASIER/PAPER/WHOOPING"
+    ]
+  },
+  "178": {
+    "yellow": [
+      "FOUND ON SHEET MUSIC",
+      "CLEF/NOTE/REST/STAFF"
+    ],
+    "green": [
+      "ZODIAC SYMBOLS",
+      "BULL/CRAB/SCALES/TWINS"
+    ],
+    "blue": [
+      "RECORD LABELS",
+      "CAPITOL/COLUMBIA/VIRGIN/ISLAND"
+    ],
+    "purple": [
+      "ZODIAC SIGN BEGINNINGS",
+      "CAN/GEM/LIB/TAU"
+    ]
+  },
+  "179": {
+    "yellow": [
+      "STATE ABBREVIATIONS",
+      "HI/LA/MA/OK"
+    ],
+    "green": [
+      "CABLE CHANNELS",
+      "BET/E/HALLMARK/USA"
+    ],
+    "blue": [
+      "IN THE NATO ALPHABET",
+      "ALFA/BRAVO/ROMEO/TANGO"
+    ],
+    "purple": [
+      "___-___",
+      "BOO/POM/TOM/YO"
+    ]
+  },
+  "180": {
+    "yellow": [
+      "DECLINE",
+      "EBB/FADE/FLAG/WANE"
+    ],
+    "green": [
+      "ABSOLUTE",
+      "PURE/SHEER/TOTAL/UTTER"
+    ],
+    "blue": [
+      "EXPRESS",
+      "AIR/SPEAK/STATE/VOICE"
+    ],
+    "purple": [
+      "SUPERHERO LAST NAMES",
+      "BANNER/PRINCE/STARK/WAYNE"
+    ]
+  },
+  "181": {
+    "yellow": [
+      "ICE CREAM TREATS",
+      "FLOAT/SHAKE/SPLIT/SUNDAE"
+    ],
+    "green": [
+      "HARDWARE FASTENERS",
+      "BOLT/NAIL/RIVET/SCREW"
+    ],
+    "blue": [
+      "KINDS OF COOKING OIL",
+      "CORN/OLIVE/PALM/PEANUT"
+    ],
+    "purple": [
+      "STICKY ___",
+      "FINGERS/NOTE/RICE/WICKET"
+    ]
+  },
+  "182": {
+    "yellow": [
+      "PARTS OF A RIVER",
+      "BANK/BED/DELTA/MOUTH"
+    ],
+    "green": [
+      "SOMETHING EASY TO DO",
+      "BREEZE/CINCH/PICNIC/SNAP"
+    ],
+    "blue": [
+      "WRAP AROUND IN A CIRCLE",
+      "COIL/SPIRAL/TWIST/WIND"
+    ],
+    "purple": [
+      "JUMP INTO THE AIR",
+      "BOUND/LEAP/SPRING/VAULT"
+    ]
+  },
+  "183": {
+    "yellow": [
+      "LUXURIOUS FABRICS",
+      "CHIFFON/SATIN/SILK/VELVET"
+    ],
+    "green": [
+      "COME DOWN TO REST",
+      "PERCH/ROOST/SETTLE/LAND"
+    ],
+    "blue": [
+      "SHOE PARTS",
+      "EYELET/LACE/SOLE/TONGUE"
+    ],
+    "purple": [
+      "THINGS THAT ARE DELIVERED",
+      "BABY/BLOW/PACKAGE/SPEECH"
+    ]
+  },
+  "184": {
+    "yellow": [
+      "MURKY CONDITION",
+      "CLOUD/FOG/HAZE/MIST"
+    ],
+    "green": [
+      "FOLLOW",
+      "SHADOW/TAIL/TRACK/TRAIL"
+    ],
+    "blue": [
+      "PINBALL MACHINE COMPONENTS",
+      "BALL/BUMPER/FLIPPER/PLUNGER"
+    ],
+    "purple": [
+      "___LAND COUNTRIES",
+      "ICE/IRE/FIN/NETHER"
+    ]
+  },
+  "185": {
+    "yellow": [
+      "GOLF COURSE PARTS",
+      "BUNKER/FAIRWAY/GREEN/ROUGH"
+    ],
+    "green": [
+      "I GIVE!",
+      "ENOUGH/MERCY/STOP/UNCLE"
+    ],
+    "blue": [
+      "INDECENT",
+      "BAWDY/BLUE/COARSE/RISQUE"
+    ],
+    "purple": [
+      "-OUGH WORDS THAT DON'T RHYME",
+      "BOUGH/COUGH/DOUGH/TOUGH"
+    ]
+  },
+  "186": {
+    "yellow": [
+      "PESTER",
+      "BADGER/BUG/HOUND/NAG"
+    ],
+    "green": [
+      "SPORTS VENUES",
+      "ARENA/BOWL/DOME/FIELD"
+    ],
+    "blue": [
+      "SEPARATE",
+      "DIVIDE/FORK/PART/SPLIT"
+    ],
+    "purple": [
+      "SILVER ___",
+      "FOX/LINING/SCREEN/SPOON"
+    ]
+  },
+  "187": {
+    "yellow": [
+      "CURMUDGEON",
+      "CRAB/CRANK/GROUCH/GRUMP"
+    ],
+    "green": [
+      "GET LOW",
+      "CROUCH/DUCK/SQUAT/STOOP"
+    ],
+    "blue": [
+      "NATIONAL SYMBOLS",
+      "ANTHEM/FLAG/MOTTO/SEAL"
+    ],
+    "purple": [
+      "SWINDLER",
+      "CHEAT/CROOK/QUACK/SHARK"
+    ]
+  },
+  "188": {
+    "yellow": [
+      "FARM TOOLS",
+      "HOE/PLOW/RAKE/SICKLE"
+    ],
+    "green": [
+      "SCHEME",
+      "PLOT/PLOY/RUSE/TRICK"
+    ],
+    "blue": [
+      "MAKE HAPPY",
+      "AMUSE/DELIGHT/PLEASE/TICKLE"
+    ],
+    "purple": [
+      "ONOMATOPOEIA",
+      "BANG/PLOP/SPLASH/THUD"
+    ]
+  },
+  "189": {
+    "yellow": [
+      "RESERVE FOR LATER",
+      "BANK/SAVE/STASH/STORE"
+    ],
+    "green": [
+      "BOLDNESS FIGURATIVELY",
+      "GALL/GUTS/NERVE/STONES"
+    ],
+    "blue": [
+      "USED TO BUILD A SNOWMAN",
+      "CARROT/COAL/SNOW/STICKS"
+    ],
+    "purple": [
+      "FUNNY ___",
+      "BONE/BUSINESS/GIRL/PAGES"
+    ]
+  },
+  "190": {
+    "yellow": [
+      "BRIEF MOMENT",
+      "FLASH/JIFFY/SECOND/WINK"
+    ],
+    "green": [
+      "PRIMARY",
+      "CHIEF/FIRST/MAIN/PRINCIPAL"
+    ],
+    "blue": [
+      "AVENUES IN N.Y.C.",
+      "BROADWAY/FIFTH/MADISON/PARK"
+    ],
+    "purple": [
+      "___ HOUR",
+      "AMATEUR/ELEVENTH/HAPPY/RUSH"
+    ]
+  },
+  "191": {
+    "yellow": [
+      "ACCESSORIES",
+      "BELT/BRACELET/TIE/WATCH"
+    ],
+    "green": [
+      "COMEDIAN'S OUTPUT",
+      "BIT/JOKE/ROUTINE/SKETCH"
+    ],
+    "blue": [
+      "ATTRACTION",
+      "APPEAL/CHARM/DRAW/PULL"
+    ],
+    "purple": [
+      "TWO LETTERS + NUMBER",
+      "CANINE/FREIGHT/OFTEN/STONE"
+    ]
+  },
+  "192": {
+    "yellow": [
+      "CONTACT VIA PHONE",
+      "BUZZ/CALL/DIAL/RING"
+    ],
+    "green": [
+      "BOOK SECTIONS",
+      "APPENDIX/CHAPTER/INDEX/PREFACE"
+    ],
+    "blue": [
+      "WEE",
+      "DINKY/LITTLE/MINUTE/SLIGHT"
+    ],
+    "purple": [
+      "CARTOON MICE",
+      "ITCHY/JERRY/PINKY/SPEEDY"
+    ]
+  },
+  "193": {
+    "yellow": [
+      "SEEN IN A LAUNDRY ROOM",
+      "DRYER/HAMPER/IRON/WASHER"
+    ],
+    "green": [
+      "SHEPHERD",
+      "DIRECT/GUIDE/LEAD/STEER"
+    ],
+    "blue": [
+      "WHAT I MIGHT MEAN",
+      "IODINE/IOTA/MYSELF/ONE"
+    ],
+    "purple": [
+      "___ VALLEY",
+      "DEATH/HIDDEN/SILICON/UNCANNY"
+    ]
+  },
+  "194": {
+    "yellow": [
+      "CLASSIC HALLOWEEN COSTUMES",
+      "ANGEL/CLOWN/PIRATE/WITCH"
+    ],
+    "green": [
+      "BEE CREATIONS",
+      "COMB/HIVE/HONEY/WAX"
+    ],
+    "blue": [
+      "INTERVAL OF TIME",
+      "PERIOD/SPELL/STRETCH/WHILE"
+    ],
+    "purple": [
+      "ANIMAL HOMOPHONES",
+      "DEAR/HAIR/HOARSE/WAIL"
+    ]
+  },
+  "195": {
+    "yellow": [
+      "MEANS OF TRANSPORTATION",
+      "BOAT/CAR/PLANE/TRAIN"
+    ],
+    "green": [
+      "WILLING TO PARTICIPATE",
+      "DOWN/GAME/IN/ON BOARD"
+    ],
+    "blue": [
+      "LITTLE BIT IN A RECIPE",
+      "DASH/DROP/PINCH/SPLASH"
+    ],
+    "purple": [
+      "___BERRY",
+      "BLUE/GOOSE/RASP/STRAW"
+    ]
+  },
+  "196": {
+    "yellow": [
+      "GENTLE",
+      "LIGHT/MELLOW/MILD/SOFT"
+    ],
+    "green": [
+      "CUTS OF PORK",
+      "BELLY/CHOP/HOCK/SHOULDER"
+    ],
+    "blue": [
+      "STATUE OF LIBERTY FEATURES",
+      "CROWN/ROBE/TABLET/TORCH"
+    ],
+    "purple": [
+      "THINGS TO BLOW ON FOR WISHES/LUCK",
+      "CANDLE/DANDELION/DICE/EYELASH"
+    ]
+  },
+  "197": {
+    "yellow": [
+      "DARLING",
+      "BABY/BOO/DEAR/LOVE"
+    ],
+    "green": [
+      "BASIC GEOMETRIC OBJECTS",
+      "LINE/POINT/RAY/SEGMENT"
+    ],
+    "blue": [
+      "OOMPH",
+      "ENERGY/FIRE/JUICE/ZIP"
+    ],
+    "purple": [
+      "SECRET ___",
+      "AGENT/CODE/SANTA/SAUCE"
+    ]
+  },
+  "198": {
+    "yellow": [
+      "ROAD NAMES",
+      "ALLEY/DRIVE/LANE/STREET"
+    ],
+    "green": [
+      "PAPER IN A BOOK",
+      "FOLIO/LEAF/PAGE/SHEET"
+    ],
+    "blue": [
+      "RESTRAIN",
+      "CHECK/CURB/LIMIT/STEM"
+    ],
+    "purple": [
+      "THINGS YOU CAN DO TO YOUR NOSE",
+      "BLOW/HOLD/PICK/THUMB"
+    ]
+  },
+  "199": {
+    "yellow": [
+      "INDICATION OF THINGS TO COME",
+      "MESSAGE/OMEN/SIGN/WARNING"
+    ],
+    "green": [
+      "NAME PREFIXES",
+      "GEN/MS/PROF/REV"
+    ],
+    "blue": [
+      "ART MEDIUMS",
+      "CHARCOAL/INK/PAINT/PASTEL"
+    ],
+    "purple": [
+      "___ PEPPER",
+      "BELL/BLACK/DR/GHOST"
+    ]
+  },
+  "200": {
+    "yellow": [
+      "PARTS OF A CAR",
+      "BUMPER/HOOD/TIRE/TRUNK"
+    ],
+    "green": [
+      "MOVE QUICKLY",
+      "BOLT/DART/DASH/ZIP"
+    ],
+    "blue": [
+      "BIRDS",
+      "CARDINAL/JAY/LARK/SWIFT"
+    ],
+    "purple": [
+      "JAZZ LEGENDS",
+      "HANCOCK/HOLIDAY/MONK/PARKER"
+    ]
+  },
+  "201": {
+    "yellow": [
+      "SHIRTS",
+      "CROP/POLO/TANK/TEE"
+    ],
+    "green": [
+      "COOL IN '80S SLANG",
+      "BAD/FLY/FRESH/RAD"
+    ],
+    "blue": [
+      "LETTER SPELLINGS",
+      "BEE/EX/GEE/JAY"
+    ],
+    "purple": [
+      "___ GEORGE",
+      "BOY/BY/CURIOUS/SAINT"
+    ]
+  },
+  "202": {
+    "yellow": [
+      "BLACK-AND-WHITE ANIMALS",
+      "ORCA/PANDA/SKUNK/ZEBRA"
+    ],
+    "green": [
+      "SEQUENCE",
+      "CHAIN/SERIES/STRING/TRAIN"
+    ],
+    "blue": [
+      "HETERONYMS",
+      "BASS/DOVE/DESERT/WIND"
+    ],
+    "purple": [
+      "___ TRAP",
+      "BEAR/SAND/SPEED/TOURIST"
+    ]
+  },
+  "203": {
+    "yellow": [
+      "ORGANIZATION",
+      "CLUB/GROUP/PARTY/TEAM"
+    ],
+    "green": [
+      "SHARPNESS AS OF AN IMAGE",
+      "CLARITY/DEFINITION/DETAIL/RESOLUTION"
+    ],
+    "blue": [
+      "PLACES IN FRANCE",
+      "CHAMPAGNE/DIJON/NICE/TOURS"
+    ],
+    "purple": [
+      "HAPPY NEW YEAR!",
+      "BALL/COUNTDOWN/FIREWORKS/KISS"
+    ]
+  },
+  "204": {
+    "yellow": [
+      "GARDENING NOUNS/VERBS",
+      "PLANT/SEED/WATER/WEED"
+    ],
+    "green": [
+      "KINDS OF SALADS",
+      "CAESAR/GREEK/GREEN/WEDGE"
+    ],
+    "blue": [
+      "CLASSIC GAME SHOWS FAMILIARLY",
+      "FEUD/MILLIONAIRE/PYRAMID/WHEEL"
+    ],
+    "purple": [
+      "W + VOWEL SOUND",
+      "WAY/WEE/WHY/WHOA"
+    ]
+  },
+  "205": {
+    "yellow": [
+      "B.L.T. INGREDIENTS",
+      "BREAD/BACON/LETTUCE/TOMATO"
+    ],
+    "green": [
+      "OBSTRUCT",
+      "BLOCK/CLOG/JAM/STOP"
+    ],
+    "blue": [
+      "BASEBALL STATS",
+      "DOUBLE/HIT/RUN/WALK"
+    ],
+    "purple": [
+      "SMALL ___",
+      "FRY/TALK/WONDER/WORLD"
+    ]
+  },
+  "206": {
+    "yellow": [
+      "MOVE THROUGH THE AIR",
+      "FLOAT/FLY/GLIDE/SOAR"
+    ],
+    "green": [
+      "HIDDEN LISTENING DEVICES",
+      "BUG/MIKE/TAP/WIRE"
+    ],
+    "blue": [
+      "SELECT AS A BOX ON A FORM",
+      "CHECK/MARK/TICK/X"
+    ],
+    "purple": [
+      "RAPPERS MINUS FIRST LETTER",
+      "40/COLE/PAIN/TIP"
+    ]
+  },
+  "207": {
+    "yellow": [
+      "GIFT-GIVING ACCESSORIES",
+      "BOW/BOX/CARD/WRAPPING"
+    ],
+    "green": [
+      "DATING APP ACTIONS",
+      "BLOCK/MATCH/MESSAGE/SWIPE"
+    ],
+    "blue": [
+      "COOL IN SLANG",
+      "FIRE/LIT/SICK/TIGHT"
+    ],
+    "purple": [
+      "LUCKY ___",
+      "BREAK/CHARM/DUCK/STRIKE"
+    ]
+  },
+  "208": {
+    "yellow": [
+      "PLAYFULLY BOTHER",
+      "JOSH/KID/RIB/TEASE"
+    ],
+    "green": [
+      "APEX",
+      "HEIGHT/MAX/PEAK/TOP"
+    ],
+    "blue": [
+      "WORDS FOR SPECIFIC QUANTITIES",
+      "DOZEN/GROSS/PAIR/SCORE"
+    ],
+    "purple": [
+      "WHAT X MIGHT MEAN",
+      "ADULT/KISS/TEN/TIMES"
+    ]
+  },
+  "209": {
+    "yellow": [
+      "STRONG SMELL",
+      "FUNK/MUSK/ODOR/TANG"
+    ],
+    "green": [
+      "MOVE BACK AND FORTH",
+      "ROCK/SWAY/SWING/WAVE"
+    ],
+    "blue": [
+      "THINGS TO PICK",
+      "AFRO/BONE/FIGHT/LOCK"
+    ],
+    "purple": [
+      "___ BALL",
+      "CRYSTAL/DISCO/FOUL/GUTTER"
+    ]
+  },
+  "210": {
+    "yellow": [
+      "TECH COMPANIES",
+      "ALPHABET/AMAZON/APPLE/META"
+    ],
+    "green": [
+      "KINDS OF EXAMS",
+      "BAR/FINAL/ORAL/PHYSICAL"
+    ],
+    "blue": [
+      "SOMETHING EXEMPLARY",
+      "BEAUTY/GEM/MARVEL/PEACH"
+    ],
+    "purple": [
+      "___ TOOTH",
+      "BABY/EYE/SWEET/WISDOM"
+    ]
+  },
+  "211": {
+    "yellow": [
+      "THINGS THAT ARE ORANGE",
+      "BASKETBALL/CARROT/GOLDFISH/PUMPKIN"
+    ],
+    "green": [
+      "LONG SKINNY OBJECTS",
+      "POLE/ROD/STAFF/STICK"
+    ],
+    "blue": [
+      "SEEN ON A GOLF COURSE",
+      "CART/CLUB/HOLE/TEE"
+    ],
+    "purple": [
+      "SHAPES OF CAPITAL GREEK LETTERS",
+      "CIRCLE/HORSESHOE/PITCHFORK/TRIANGLE"
+    ]
+  },
+  "212": {
+    "yellow": [
+      "CLEANING SUPPLIES",
+      "BROOM/MOP/RAG/SPONGE"
+    ],
+    "green": [
+      "ELEMENTS OF COOKING PER SAMIN NOSRAT",
+      "SALT/FAT/ACID/HEAT"
+    ],
+    "blue": [
+      "THINGS THAT MAKE YOU SNEEZE",
+      "DUST/PEPPER/POLLEN/SMOKE"
+    ],
+    "purple": [
+      "TITULAR FICTIONAL DETECTIVES",
+      "MAGNUM/MONK/SHAFT/TRACY"
+    ]
+  },
+  "213": {
+    "yellow": [
+      "BIT OF MAGIC",
+      "CHARM/CURSE/HEX/SPELL"
+    ],
+    "green": [
+      "FOUND AROUND A FIREPLACE",
+      "FLUE/GRATE/LOG/POKER"
+    ],
+    "blue": [
+      "THINGS SEEN AT A CASINO",
+      "CARDS/CHIPS/DICE/SLOTS"
+    ],
+    "purple": [
+      "WAYS TO PREPARE CHEESE",
+      "CRUMBLE/MELT/SHRED/SLICE"
+    ]
+  },
+  "214": {
+    "yellow": [
+      "STATES OF MATTER",
+      "GAS/LIQUID/PLASMA/SOLID"
+    ],
+    "green": [
+      "ALL-TIMER",
+      "GREAT/HERO/ICON/LEGEND"
+    ],
+    "blue": [
+      "PH WORDS THAT ALSO WORK WITH F",
+      "PHAT/PHEW/PHILLY/PHISH"
+    ],
+    "purple": [
+      "___ PITCH",
+      "ELEVATOR/FEVER/PERFECT/SALES"
+    ]
+  },
+  "215": {
+    "yellow": [
+      "TOPIC OF DISCUSSION",
+      "ISSUE/MATTER/POINT/SUBJECT"
+    ],
+    "green": [
+      "SECTION OF ONE'S LIFE",
+      "CHAPTER/PERIOD/PHASE/STAGE"
+    ],
+    "blue": [
+      "PARTS OF A CAR INFORMALLY",
+      "DASH/SHOCK/TANK/WHEEL"
+    ],
+    "purple": [
+      "COLOR HOMOPHONES",
+      "BLEW/CHORAL/READ/ROWS"
+    ]
+  },
+  "216": {
+    "yellow": [
+      "CREDENTIALS FOR ENTRY",
+      "BADGE/INVITE/PASS/TICKET"
+    ],
+    "green": [
+      "PRESIDE OVER",
+      "CHAIR/DIRECT/LEAD/RUN"
+    ],
+    "blue": [
+      "AMERICAN FOOTBALL POSITIONS",
+      "CENTER/END/SAFETY/TACKLE"
+    ],
+    "purple": [
+      "POSTPONE",
+      "HOLD/PUNT/STALL/TABLE"
+    ]
+  },
+  "217": {
+    "yellow": [
+      "THINGS TO PAY",
+      "BILL/CHECK/INVOICE/TAB"
+    ],
+    "green": [
+      "THIEVE",
+      "PINCH/ROB/STEAL/SWIPE"
+    ],
+    "blue": [
+      "MALE ANIMALS",
+      "BUCK/BULL/JACK/TOM"
+    ],
+    "purple": [
+      "LEGWEAR IN THE SINGULAR",
+      "JEAN/PANT/SHORT/TIGHT"
+    ]
+  },
+  "218": {
+    "yellow": [
+      "LIST OF CANDIDATES",
+      "BALLOT/ROSTER/SLATE/TICKET"
+    ],
+    "green": [
+      "PROTECTIVE BARRIER",
+      "BUFFER/CUSHION/PAD/SHIELD"
+    ],
+    "blue": [
+      "MEDICINE FORMATS",
+      "CAPSULE/CREAM/SYRUP/TABLET"
+    ],
+    "purple": [
+      "PEA ___",
+      "COAT/GREEN/POD/SOUP"
+    ]
+  },
+  "219": {
+    "yellow": [
+      "DECEIVE",
+      "CON/DUPE/FOOL/TRICK"
+    ],
+    "green": [
+      "INSIDE INFO",
+      "DOPE/SCOOP/SKINNY/WORD"
+    ],
+    "blue": [
+      "TILT TO ONE SIDE",
+      "CANT/LEAN/LIST/SLOPE"
+    ],
+    "purple": [
+      "WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR",
+      "BOOB/EGGSHELL/GIGGLE/HELLO"
+    ]
+  },
+  "220": {
+    "yellow": [
+      "DATA SET DATA",
+      "MEAN/MEDIAN/MODE/RANGE"
+    ],
+    "green": [
+      "CHEMISTRY TERMS",
+      "BASE/BOND/ELEMENT/SOLUTION"
+    ],
+    "blue": [
+      "ADJECTIVE INTENSIFIERS",
+      "AWFUL/PRETTY/RATHER/REAL"
+    ],
+    "purple": [
+      "RADIO HALL OF FAME MEMBERS",
+      "GLASS/GROSS/KING/STERN"
+    ]
+  },
+  "221": {
+    "yellow": [
+      "SHOW OFF",
+      "GRANDSTAND/PEACOCK/POSTURE/STRUT"
+    ],
+    "green": [
+      "FOREMOST",
+      "MAIN/PARAMOUNT/PRIME/SUPREME"
+    ],
+    "blue": [
+      "COLORS IN BRAZIL'S FLAG",
+      "BLUE/GREEN/WHITE/YELLOW"
+    ],
+    "purple": [
+      "___ LETTER",
+      "CHAIN/COVER/LOVE/SCARLET"
+    ]
+  },
+  "222": {
+    "yellow": [
+      "SUNDAE TOPPINGS",
+      "CHERRY/FUDGE/NUTS/SPRINKLES"
+    ],
+    "green": [
+      "LEAVE HIGH AND DRY",
+      "DESERT/DITCH/MAROON/STRAND"
+    ],
+    "blue": [
+      "PHOOEY!",
+      "CURSES/DARN/RATS/SHOOT"
+    ],
+    "purple": [
+      "WORDS IN TONGUE TWISTERS",
+      "FUZZY/PEPPERS/SEASHELLS/WOODCHUCK"
+    ]
+  },
+  "223": {
+    "yellow": [
+      "DECLINE",
+      "DIP/DROP/FALL/SINK"
+    ],
+    "green": [
+      "MOVE WITH SPEED",
+      "BLAZE/FLY/RACE/TEAR"
+    ],
+    "blue": [
+      "KINDS OF DANCE",
+      "MODERN/SALSA/SWING/TAP"
+    ],
+    "purple": [
+      "BABY ___",
+      "BOOM/CARROT/SHOWER/TALK"
+    ]
+  },
+  "224": {
+    "yellow": [
+      "RIP OFF",
+      "FLEECE/HOSE/ROB/STIFF"
+    ],
+    "green": [
+      "THINGS MADE OF WAX",
+      "CANDLE/CRAYON/HONEYCOMB/SEAL"
+    ],
+    "blue": [
+      "PARTS OF AN AIRPLANE",
+      "CABIN/ENGINE/NOSE/WING"
+    ],
+    "purple": [
+      "UNITS OF VEGETABLES",
+      "BULB/EAR/HEAD/STALK"
+    ]
+  },
+  "225": {
+    "yellow": [
+      "SYMBOLIC RODS",
+      "BATON/SCEPTER/STAFF/WAND"
+    ],
+    "green": [
+      "DENTAL TERMS",
+      "CAVITY/CROWN/FILLING/PLAQUE"
+    ],
+    "blue": [
+      "RUBBER STAMP WORDS",
+      "APPROVED/PAID/URGENT/VOID"
+    ],
+    "purple": [
+      "___ YEAR",
+      "GAP/LEAP/LIGHT/SCHOOL"
+    ]
+  },
+  "226": {
+    "yellow": [
+      "BRING INTO BEING",
+      "COIN/CREATE/DEVISE/INVENT"
+    ],
+    "green": [
+      "EXCELLENT",
+      "FINE/PRIME/QUALITY/STERLING"
+    ],
+    "blue": [
+      "SYMBOLS ABOVE NUMBERS ON A KEYBOARD",
+      "AT/DOLLAR/PERCENT/POUND"
+    ],
+    "purple": [
+      "PASS THE ___",
+      "BAR/BUCK/TIME/TORCH"
+    ]
+  },
+  "227": {
+    "yellow": [
+      "SMARTPHONE FEATURES BEGINNING WITH C",
+      "CALCULATOR/CALENDAR/CAMERA/CLOCK"
+    ],
+    "green": [
+      "PARTS OF THE EYE",
+      "CONE/IRIS/LENS/PUPIL"
+    ],
+    "blue": [
+      "FAMILIAL NICKNAMES",
+      "DADA/GRAMMY/MUM/POPPY"
+    ],
+    "purple": [
+      "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS",
+      "EXPOSE/PATE/RESUME/ROSE"
+    ]
+  },
+  "228": {
+    "yellow": [
+      "OF-THE-MOMENT",
+      "BIG/HOT/IN/POPULAR"
+    ],
+    "green": [
+      "PICTOGRAPH",
+      "CHARACTER/GLYPH/ICON/SYMBOL"
+    ],
+    "blue": [
+      "IMPOSE AS A PENALTY",
+      "ASSESS/CHARGE/FINE/LEVY"
+    ],
+    "purple": [
+      "WORDS BEGINNING WITH BODY PARTS",
+      "HANDSOME/HIPPO/LEGEND/LIPID"
+    ]
+  },
+  "229": {
+    "yellow": [
+      "BASEBALL EQUIPMENT",
+      "BALL/BASE/BAT/GLOVE"
+    ],
+    "green": [
+      "HARD HIT",
+      "BLOW/LICK/SOCK/STRIKE"
+    ],
+    "blue": [
+      "ORIGINAL MONOPOLY TOKENS",
+      "BOOT/IRON/THIMBLE/TOP HAT"
+    ],
+    "purple": [
+      "___ BUNNY",
+      "BAD/BUGS/DUST/HONEY"
+    ]
+  },
+  "230": {
+    "yellow": [
+      "HURT",
+      "ACHE/BURN/SMART/STING"
+    ],
+    "green": [
+      "LOOK AFTER",
+      "GUARD/MIND/TEND/WATCH"
+    ],
+    "blue": [
+      "SOUGHT AFTER IN THE WIZARD OF OZ",
+      "BRAIN/COURAGE/HEART/HOME"
+    ],
+    "purple": [
+      "SILENT W",
+      "ANSWER/TWO/WRIST/WRONG"
+    ]
+  },
+  "231": {
+    "yellow": [
+      "HIGHEST POINT",
+      "CREST/PEAK/SUMMIT/VERTEX"
+    ],
+    "green": [
+      "CAN I GET YOUR ___? (PHONE INFO REQUEST)",
+      "CELL/CONTACT/DIGITS/NUMBER"
+    ],
+    "blue": [
+      "MODIFIERS MEANING SMALL",
+      "BABY/MINI/POCKET/TOY"
+    ],
+    "purple": [
+      "INSIDE A SCRABBLE BOX",
+      "BAG/BOARD/RACKS/TILES"
+    ]
+  },
+  "232": {
+    "yellow": [
+      "DO SOME MARKETING",
+      "PITCH/PLUG/PROMOTE/PUSH"
+    ],
+    "green": [
+      "ROMANTIC TWOSOME",
+      "COUPLE/ITEM/PAIR/THING"
+    ],
+    "blue": [
+      "TENNIS SCORES",
+      "AD/ALL/DEUCE/LOVE"
+    ],
+    "purple": [
+      "WORDS WITH FRUIT",
+      "BREAD/DRAGON/JACK/PASSION"
+    ]
+  },
+  "233": {
+    "yellow": [
+      "HIT HARD",
+      "BANG/HAMMER/POUND/SLAM"
+    ],
+    "green": [
+      "NEWSPAPER NAMES",
+      "CHRONICLE/HERALD/REGISTER/SUN"
+    ],
+    "blue": [
+      "CRESCENT-SHAPED THINGS",
+      "BANANA/CROISSANT/MOON/SICKLE"
+    ],
+    "purple": [
+      "POWER-UPS IN SUPER MARIO WORLD",
+      "FEATHER/FLOWER/MUSHROOM/STAR"
+    ]
+  },
+  "234": {
+    "yellow": [
+      "MERRIMENT",
+      "CHEER/GLEE/FESTIVITY/MIRTH"
+    ],
+    "green": [
+      "BOOKED FOR A WEDDING",
+      "BAND/CATERER/FLORIST/OFFICIANT"
+    ],
+    "blue": [
+      "RHYMES",
+      "CHOIR/FIRE/LIAR/FRYER"
+    ],
+    "purple": [
+      "___ PIT",
+      "BARBECUE/ORCHESTRA/SNAKE/TAR"
+    ]
+  },
+  "235": {
+    "yellow": [
+      "MAKE SHORTER",
+      "CLIP/CUT/PARE/TRIM"
+    ],
+    "green": [
+      "MUSCULAR",
+      "BUILT/JACKED/RIPPED/SWOLE"
+    ],
+    "blue": [
+      "ENTHUSIAST",
+      "BUFF/FAN/LOVER/NUT"
+    ],
+    "purple": [
+      "WRINKLY THINGS",
+      "BRAIN/PRUNE/PUG/WALNUT"
+    ]
+  },
+  "236": {
+    "yellow": [
+      "TIME OFF",
+      "BREAK/HOLIDAY/LEAVE/RECESS"
+    ],
+    "green": [
+      "FEATURES OF A BELT",
+      "BUCKLE/HOLE/LOOP/STRAP"
+    ],
+    "blue": [
+      "HOMOPHONES",
+      "HOLEY/HOLI/HOLY/WHOLLY"
+    ],
+    "purple": [
+      "___WOOD",
+      "DOG/DRIFT/HOLLY/SANDAL"
+    ]
+  },
+  "237": {
+    "yellow": [
+      "COMMERCIAL ORGANIZATION",
+      "AGENCY/COMPANY/ENTERPRISE/FIRM"
+    ],
+    "green": [
+      "FARM FIXTURES",
+      "COOP/PEN/STABLE/STY"
+    ],
+    "blue": [
+      "CLASSIC DOG NAMES",
+      "FLUFFY/REX/ROVER/SPOT"
+    ],
+    "purple": [
+      "COLORS MINUS THEIR FIRST LETTERS",
+      "INK/LACK/OLD/RANGE"
+    ]
+  },
+  "238": {
+    "yellow": [
+      "DRINKS WITH CAFFEINE",
+      "COCOA/COFFEE/MATE/TEA"
+    ],
+    "green": [
+      "UNEXCITING",
+      "BORING/DULL/MUNDANE/VANILLA"
+    ],
+    "blue": [
+      "COMEDIAN'S PERFORMANCE",
+      "ACT/BIT/ROUTINE/SET"
+    ],
+    "purple": [
+      "MARTINI SPECIFICATIONS",
+      "DIRTY/DRY/TWIST/UP"
+    ]
+  },
+  "239": {
+    "yellow": [
+      "GIVE ME A BREAK!",
+      "BROTHER/LORD/PLEASE/SHEESH"
+    ],
+    "green": [
+      "ECCLESIASTICAL TITLES",
+      "BISHOP/CARDINAL/PASTOR/PRIOR"
+    ],
+    "blue": [
+      "ROCK & ROLL HALL OF FAME INDUCTEES",
+      "HEART/MADONNA/PRINCE/QUEEN"
+    ],
+    "purple": [
+      "CITY HOMOPHONES",
+      "DELI/NIECE/ROAM/SOUL"
+    ]
+  },
+  "240": {
+    "yellow": [
+      "OSTENTATIOUS AS AN OUTFIT",
+      "BRIGHT/FLASHY/GARISH/LOUD"
+    ],
+    "green": [
+      "EUPHEMISMS FOR FLATULENCE",
+      "GAS/STINKER/TOOT/WIND"
+    ],
+    "blue": [
+      "KINDS OF BLOND",
+      "DIRTY/HONEY/PLATINUM/STRAWBERRY"
+    ],
+    "purple": [
+      "WHAT O MIGHT MEAN",
+      "HUG/OF/OXYGEN/ZERO"
+    ]
+  },
+  "241": {
+    "yellow": [
+      "SEA CREATURES",
+      "CRAB/RAY/SPONGE/SQUID"
+    ],
+    "green": [
+      "BASIC TWO-DIMENSIONAL SHAPES",
+      "CIRCLE/DIAMOND/SQUARE/TRIANGLE"
+    ],
+    "blue": [
+      "BOXING MANEUVERS",
+      "BOB/CROSS/HOOK/WEAVE"
+    ],
+    "purple": [
+      "FANCY ___",
+      "FEAST/FREE/PANTS/THAT"
+    ]
+  },
+  "242": {
+    "yellow": [
+      "ARCHERY EQUIPMENT",
+      "ARROW/BOW/QUIVER/TARGET"
+    ],
+    "green": [
+      "CARD GAMES",
+      "BRIDGE/GIN/SPIT/WAR"
+    ],
+    "blue": [
+      "WALLOP",
+      "BELT/CLOCK/DECK/SLUG"
+    ],
+    "purple": [
+      "CLASSIC TATTOOS",
+      "ANCHOR/DRAGON/HEART/ROSE"
+    ]
+  },
+  "243": {
+    "yellow": [
+      "MUSIC PLAYER BUTTONS",
+      "REWIND/SHUFFLE/SKIP/STOP"
+    ],
+    "green": [
+      "BROADCAST",
+      "AIR/RUN/SCREEN/SHOW"
+    ],
+    "blue": [
+      "THINGS YOU CAN DRAW",
+      "BATH/CARD/CURTAIN/PICTURE"
+    ],
+    "purple": [
+      "NUMBER ANAGRAMS",
+      "EON/ETHER/NET/TOW"
+    ]
+  },
+  "244": {
+    "yellow": [
+      "STOOL PIGEON",
+      "CANARY/FINK/RAT/SNITCH"
+    ],
+    "green": [
+      "CRAM INTO A TIGHT SPACE",
+      "JAM/PACK/SQUEEZE/STUFF"
+    ],
+    "blue": [
+      "YOGA POSES",
+      "CAT/COW/MOUNTAIN/TRIANGLE"
+    ],
+    "purple": [
+      "___FLY",
+      "BUTTER/DRAGON/FIRE/HORSE"
+    ]
+  },
+  "245": {
+    "yellow": [
+      "MONOTONOUS SOUNDS",
+      "BUZZ/DRONE/HUM/PURR"
+    ],
+    "green": [
+      "BOATS",
+      "BARGE/DORY/SCOW/SLOOP"
+    ],
+    "blue": [
+      "CAPTAINS",
+      "AMERICA/HOOK/MORGAN/NEMO"
+    ],
+    "purple": [
+      "PREFIXES WITH -CRACY",
+      "AUTO/BUREAU/DEMO/PLUTO"
+    ]
+  },
+  "246": {
+    "yellow": [
+      "BAD THINGS FOR A VIDEO CALL TO DO",
+      "DROP/ECHO/FREEZE/LAG"
+    ],
+    "green": [
+      "COSTUMES WITH STRIPED SHIRTS",
+      "MIME/PRISONER/REFEREE/SAILOR"
+    ],
+    "blue": [
+      "SEEN IN ALADDIN",
+      "GENIE/MONKEY/PARROT/PRINCESS"
+    ],
+    "purple": [
+      "MOVIES MINUS NUMBERS",
+      "APOLLO/CANDLES/FANTASTIC/SAMURAI"
+    ]
+  },
+  "247": {
+    "yellow": [
+      "ENCOURAGE WITH ON",
+      "EGG/GOAD/SPUR/URGE"
+    ],
+    "green": [
+      "SPHERICAL FOODS",
+      "JAWBREAKER/MEATBALL/MOZZARELLA/ORANGE"
+    ],
+    "blue": [
+      "GROCERY STORE AISLES",
+      "DAIRY/FROZEN/PRODUCE/SNACK"
+    ],
+    "purple": [
+      "GO ___",
+      "BANANAS/FIGURE/FISH/STEADY"
+    ]
+  },
+  "248": {
+    "yellow": [
+      "TOUCH LIGHTLY",
+      "BRUSH/GRAZE/KISS/SKIM"
+    ],
+    "green": [
+      "KINDS OF NUMBERS",
+      "ODD/PERFECT/PRIME/WHOLE"
+    ],
+    "blue": [
+      "SAUCES IN CHINESE CUISINE",
+      "OYSTER/PLUM/SOY/XO"
+    ],
+    "purple": [
+      "BEAR ___",
+      "CLAW/FRUIT/HUG/WITNESS"
+    ]
+  },
+  "249": {
+    "yellow": [
+      "FOLLOW ATTENTIVELY",
+      "MONITOR/SURVEY/TRACK/WATCH"
+    ],
+    "green": [
+      "WHERE YOU MIGHT FIND SAND",
+      "BEACH/DESERT/HOURGLASS/PLAYGROUND"
+    ],
+    "blue": [
+      "OVEN BUTTONS",
+      "BAKE/BROIL/LIGHT/TIMER"
+    ],
+    "purple": [
+      "BRITPOP BANDS",
+      "BLUR/OASIS/PULP/SUEDE"
+    ]
+  },
+  "250": {
+    "yellow": [
+      "COMFY SHOES",
+      "CROC/LOAFER/MOCCASIN/SLIPPER"
+    ],
+    "green": [
+      "THINGS MADE WITH FEATHERS",
+      "BOA/HEADDRESS/PILLOW/SHUTTLECOCK"
+    ],
+    "blue": [
+      "PROGRAMMING LANGUAGES",
+      "BASIC/JAVA/PYTHON/RUBY"
+    ],
+    "purple": [
+      "THINGS THAT CAN STRIKE",
+      "COBRA/INSPIRATION/LIGHTNING/UNION"
+    ]
+  },
+  "251": {
+    "yellow": [
+      "BIT OF HAIR",
+      "CURL/LOCK/RINGLET/TRESS"
+    ],
+    "green": [
+      "MEDIA ATTENTION",
+      "COVERAGE/EXPOSURE/PRESS/PUBLICITY"
+    ],
+    "blue": [
+      "NOUN SUFFIXES",
+      "DOM/ION/NESS/SHIP"
+    ],
+    "purple": [
+      "___ CIRCUS",
+      "FAMILY/FLEA/FLYING/MEDIA"
+    ]
+  },
+  "252": {
+    "yellow": [
+      "EAT A LITTLE",
+      "GRAZE/NIBBLE/PECK/SNACK"
+    ],
+    "green": [
+      "PURSUE",
+      "HUNT/TRACK/TRAIL/STALK"
+    ],
+    "blue": [
+      "INGREDIENTS IN MINESTRONE",
+      "BEANS/PASTA/STOCK/VEGETABLES"
+    ],
+    "purple": [
+      "___CAST",
+      "BROAD/FORE/POD/TYPE"
+    ]
+  },
+  "253": {
+    "yellow": [
+      "USED IN BUILDING A FIRE",
+      "KINDLING/LOG/MATCH/TINDER"
+    ],
+    "green": [
+      "MESS UP",
+      "BLOW/BUMBLE/FLUFF/SPOIL"
+    ],
+    "blue": [
+      "WORKSHOP TOOLS",
+      "DRILL/GRINDER/ROUTER/SAW"
+    ],
+    "purple": [
+      "PARTS OF A DOOR",
+      "FRAME/HANDLE/HINGE/LOCK"
+    ]
+  },
+  "254": {
+    "yellow": [
+      "PARTY POOPER",
+      "BORE/DRAG/DRIP/DUD"
+    ],
+    "green": [
+      "MUSICAL SECTIONS",
+      "BRASS/RHYTHM/STRING/WIND"
+    ],
+    "blue": [
+      "BIT OF LIQUID",
+      "BEAD/DROP/GLOB/TEAR"
+    ],
+    "purple": [
+      "VEGETABLE HOMOPHONES",
+      "BEAT/CHARRED/LEAK/PEE"
+    ]
+  },
+  "255": {
+    "yellow": [
+      "PESTERS",
+      "BADGERS/BUGS/HOUNDS/NAGS"
+    ],
+    "green": [
+      "TONY WINNERS FOR BEST MUSICAL",
+      "ANNIE/CABARET/CATS/COMPANY"
+    ],
+    "blue": [
+      "THEY HAVE KEYS",
+      "COMPUTER/PIANO/SUPER/TESTS"
+    ],
+    "purple": [
+      "SCHOOL OF ___",
+      "FISH/HARD KNOCKS/ROCK/THOUGHT"
+    ]
+  },
+  "256": {
+    "yellow": [
+      "DOG SOUNDS",
+      "BARK/GROWL/HOWL/WHINE"
+    ],
+    "green": [
+      "DEPARTMENT",
+      "ARM/BRANCH/CHAPTER/WING"
+    ],
+    "blue": [
+      "ORIGIN",
+      "CRADLE/FONT/ROOT/SOURCE"
+    ],
+    "purple": [
+      "COLORS WITH THEIR FIRST LETTERS CHANGED",
+      "CLUE/FROWN/MELLOW/PREEN"
+    ]
+  },
+  "257": {
+    "yellow": [
+      "PROCESSION",
+      "CARAVAN/FLEET/PARADE/TRAIN"
+    ],
+    "green": [
+      "SHADES OF GREEN",
+      "OLIVE/FOREST/LIME/MINT"
+    ],
+    "blue": [
+      "WHAT BLUE MIGHT MEAN",
+      "DEMOCRATIC/EROTIC/NOBLE/SAD"
+    ],
+    "purple": [
+      "THINGS WITH SPINES",
+      "BOOK/CACTUS/HEDGEHOG/SKELETON"
+    ]
+  },
+  "258": {
+    "yellow": [
+      "MANUFACTURING LOCATIONS",
+      "FACTORY/MILL/PLANT/SHOP"
+    ],
+    "green": [
+      "WIN + LETTER",
+      "WIND/WINE/WING/WINK"
+    ],
+    "blue": [
+      "PARTS OF FRUIT YOU MIGHT NOT EAT",
+      "CORE/RIND/SEED/STEM"
+    ],
+    "purple": [
+      "WEIGHTS IN BOXING",
+      "FEATHER/HEAVY/LIGHT/MIDDLE"
+    ]
+  },
+  "259": {
+    "yellow": [
+      "WALK HEAVILY",
+      "LUMBER/PLOD/STOMP/TRUDGE"
+    ],
+    "green": [
+      "FLEXIBLE",
+      "ELASTIC/LIMBER/PLASTIC/SUPPLE"
+    ],
+    "blue": [
+      "FENCING EQUIPMENT",
+      "FOIL/GLOVE/JACKET/MASK"
+    ],
+    "purple": [
+      "WORDS BEGINNING WITH INSTRUMENTS",
+      "BASSINET/CELLOPHANE/HARPOON/ORGANISM"
+    ]
+  },
+  "260": {
+    "yellow": [
+      "BASIC TASTES",
+      "BITTER/SALTY/SOUR/SWEET"
+    ],
+    "green": [
+      "STAND UP TO AS A CHALLENGE",
+      "BRAVE/CONFRONT/FACE/MEET"
+    ],
+    "blue": [
+      "ILK",
+      "KIND/SORT/TYPE/VARIETY"
+    ],
+    "purple": [
+      "ART MOVEMENTS WITH -ISM",
+      "EXPRESSION/MANNER/ROMANTIC/SURREAL"
+    ]
+  },
+  "261": {
+    "yellow": [
+      "'80S FASHION TRENDS",
+      "HEADBAND/MULLET/NEON/SPANDEX"
+    ],
+    "green": [
+      "GYMNASTICS POSITIONS",
+      "PIKE/SPLIT/STRADDLE/TUCK"
+    ],
+    "blue": [
+      "KINDS OF CRACKERS",
+      "ANIMAL/GOLDFISH/OYSTER/RITZ"
+    ],
+    "purple": [
+      "___ LADDER",
+      "CORPORATE/ROPE/SALMON/WORD"
+    ]
+  },
+  "262": {
+    "yellow": [
+      "CHEESES FAMILIARLY",
+      "AMERICAN/BLUE/JACK/SWISS"
+    ],
+    "green": [
+      "TRACK AND FIELD EQUIPMENT",
+      "HAMMER/HURDLE/JAVELIN/POLE"
+    ],
+    "blue": [
+      "KINDS OF HEELS",
+      "CUBAN/KITTEN/STILETTO/WEDGE"
+    ],
+    "purple": [
+      "DOUBLE ___",
+      "DATE/DUTCH/JEOPARDY/SPACE"
+    ]
+  },
+  "263": {
+    "yellow": [
+      "PROPEL INTO THE AIR",
+      "HOP/JUMP/LEAP/SPRING"
+    ],
+    "green": [
+      "PLACE TO STORE VALUABLES",
+      "CHEST/COFFER/SAFE/VAULT"
+    ],
+    "blue": [
+      "PERIOD",
+      "AGE/DAY/ERA/TIME"
+    ],
+    "purple": [
+      "ANIMALS BACKWARD",
+      "DRIB/FLOW/REED/TANG"
+    ]
+  },
+  "264": {
+    "yellow": [
+      "GARLIC BREAD INGREDIENTS",
+      "BREAD/BUTTER/GARLIC/PARSLEY"
+    ],
+    "green": [
+      "WAGER",
+      "BET/GAMBLE/RISK/STAKE"
+    ],
+    "blue": [
+      "DISNEYLAND LANDS",
+      "ADVENTURE/FANTASY/FRONTIER/TOMORROW"
+    ],
+    "purple": [
+      "___ BAT",
+      "BASEBALL/CRICKET/FRUIT/VAMPIRE"
+    ]
+  },
+  "265": {
+    "yellow": [
+      "INTELLIGENCE OPERATIVE",
+      "AGENT/ASSET/MOLE/SLEEPER"
+    ],
+    "green": [
+      "UNITS IN POETRY",
+      "FOOT/LINE/METER/VERSE"
+    ],
+    "blue": [
+      "EXPRESS INDIRECTLY",
+      "COUCH/IMPLY/INTIMATE/SUGGEST"
+    ],
+    "purple": [
+      "WHAT K MIGHT MEAN",
+      "KELVIN/OKAY/POTASSIUM/THOUSAND"
+    ]
+  },
+  "266": {
+    "yellow": [
+      "LARGE AMOUNT",
+      "MASS/SEA/SLEW/TON"
+    ],
+    "green": [
+      "FALL IN UNDER PRESSURE",
+      "BUCKLE/CAVE/COLLAPSE/GIVE"
+    ],
+    "blue": [
+      "WAYS TO GET ATTENTION",
+      "SHOUT/SNAP/WAVE/WHISTLE"
+    ],
+    "purple": [
+      "BELLY ___",
+      "BUTTON/DANCE/FLOP/LAUGH"
+    ]
+  },
+  "267": {
+    "yellow": [
+      "ROOMS IN THE GAME CLUE",
+      "HALL/LIBRARY/LOUNGE/STUDY"
+    ],
+    "green": [
+      "COLLEAGUE",
+      "ASSOCIATE/FELLOW/PARTNER/PEER"
+    ],
+    "blue": [
+      "SEEN DURING EASTER",
+      "BUNNY/EGG/JELLY BEAN/PEEP"
+    ],
+    "purple": [
+      "WHAT A MOLE CAN BE",
+      "ANIMAL/BIRTHMARK/SPY/UNIT"
+    ]
+  },
+  "268": {
+    "yellow": [
+      "POP MEGASTARS",
+      "GRANDE/MARS/STYLES/SWIFT"
+    ],
+    "green": [
+      "METHOD",
+      "CHANNEL/MEANS/MEDIUM/VEHICLE"
+    ],
+    "blue": [
+      "UNLIKELY AS CHANCES",
+      "OUTSIDE/REMOTE/SLIM/SMALL"
+    ],
+    "purple": [
+      "LIVING ___",
+      "LARGE/LEGEND/PROOF/ROOM"
+    ]
+  },
+  "269": {
+    "yellow": [
+      "PARTS OF AN AIRPORT",
+      "HANGAR/RUNWAY/TARMAC/TERMINAL"
+    ],
+    "green": [
+      "LEGAL TERMS",
+      "ACTION/CLAIM/COMPLAINT/LAWSUIT"
+    ],
+    "blue": [
+      "THINGS A JUGGLER JUGGLES",
+      "BEANBAG/CLUB/RING/TORCH"
+    ],
+    "purple": [
+      "WORDS ENDING IN CLOTHING",
+      "FOXGLOVE/GUMSHOE/TURNCOAT/WINDSOCK"
+    ]
+  },
+  "270": {
+    "yellow": [
+      "SHARED",
+      "COLLECTIVE/COMMON/JOINT/MUTUAL"
+    ],
+    "green": [
+      "RID OF CONTENTS",
+      "CLEAR/DRAIN/EMPTY/FLUSH"
+    ],
+    "blue": [
+      "ASSOCIATED WITH STUB",
+      "CIGARETTE/PENCIL/TICKET/TOE"
+    ],
+    "purple": [
+      "___ DREAM",
+      "AMERICAN/FEVER/LUCID/PIPE"
+    ]
+  },
+  "271": {
+    "yellow": [
+      "THINGS TO SEW",
+      "DART/HEM/PLEAT/SEAM"
+    ],
+    "green": [
+      "WAYS TO PRESERVE FOOD",
+      "CAN/CURE/DRY/FREEZE"
+    ],
+    "blue": [
+      "SHARP QUALITY",
+      "BITE/EDGE/PUNCH/SPICE"
+    ],
+    "purple": [
+      "BIRDS MINUS LAST LETTER",
+      "CONDO/HAW/HERO/LOO"
+    ]
+  },
+  "272": {
+    "yellow": [
+      "EAT VORACIOUSLY",
+      "DOWN/INHALE/SCARF/WOLF"
+    ],
+    "green": [
+      "AREAS OF ACADEMIC FOCUS",
+      "CONCENTRATION/DEGREE/MAJOR/MINOR"
+    ],
+    "blue": [
+      "UNIVERSAL",
+      "BLANKET/BROAD/GENERAL/SWEEPING"
+    ],
+    "purple": [
+      "SPACE ___",
+      "BAR/CADET/HEATER/STATION"
+    ]
+  },
+  "273": {
+    "yellow": [
+      "THINGS A DOG CAN FETCH",
+      "BALL/BONE/FRISBEE/STICK"
+    ],
+    "green": [
+      "CONCEAL",
+      "BLOCK/COVER/HIDE/OBSCURE"
+    ],
+    "blue": [
+      "MAC KEYBOARD KEYS",
+      "COMMAND/CONTROL/OPTION/SHIFT"
+    ],
+    "purple": [
+      "EXPERIENCE A MEMORY LAPSE",
+      "BLANK/FLAKE/FORGET/SPACE"
+    ]
+  },
+  "274": {
+    "yellow": [
+      "TREAT WITH EXCESSIVE CARE",
+      "BABY/MOTHER/PAMPER/SPOIL"
+    ],
+    "green": [
+      "BACKSIDE",
+      "BOOTY/BUM/CAN/REAR"
+    ],
+    "blue": [
+      "THINGS IN A SPA LOCKER ROOM",
+      "ROBE/SLIPPERS/TOWEL/WASHCLOTH"
+    ],
+    "purple": [
+      "CAT'S ___",
+      "CRADLE/EYE/MEOW/PAJAMAS"
+    ]
+  },
+  "275": {
+    "yellow": [
+      "SECTION",
+      "CLASS/DIVISION/RANK/TIER"
+    ],
+    "green": [
+      "INCLUDING",
+      "AND/ALSO/PLUS/WITH"
+    ],
+    "blue": [
+      "DOG BREEDS INFORMALLY",
+      "BOSTON/GOLDEN/LAB/PIT"
+    ],
+    "purple": [
+      "FAMOUS POEMS",
+      "DADDY/HARLEM/HOWL/IF"
+    ]
+  },
+  "276": {
+    "yellow": [
+      "HALLOWEEN PURCHASES",
+      "CANDY/COSTUME/DECORATIONS/PUMPKIN"
+    ],
+    "green": [
+      "PLANTS WITH SIMILAR FLAVORS",
+      "ANISE/FENNEL/LICORICE/TARRAGON"
+    ],
+    "blue": [
+      "FOOD SLANG FOR HEAD",
+      "BEAN/MELON/NOODLE/NUT"
+    ],
+    "purple": [
+      "GEMSTONE CUTS",
+      "BAGUETTE/EMERALD/PRINCESS/RADIANT"
+    ]
+  },
+  "277": {
+    "yellow": [
+      "BOX OFFICE VICTORY",
+      "HIT/SMASH/SUCCESS/WINNER"
+    ],
+    "green": [
+      "VOLLEYBALL MOVES",
+      "BUMP/SERVE/SET/SPIKE"
+    ],
+    "blue": [
+      "HOMOPHONES OF GREEK LETTERS",
+      "MOO/NEW/PIE/ROW"
+    ],
+    "purple": [
+      "___-O",
+      "DADDY/DAY/JACKIE/JELL"
+    ]
+  },
+  "278": {
+    "yellow": [
+      "CRITICIZE",
+      "BLAST/KNOCK/SLAM/TRASH"
+    ],
+    "green": [
+      "MY MISTAKE!",
+      "APOLOGIES/OOPS/PARDON/SORRY"
+    ],
+    "blue": [
+      "ALIBI",
+      "DEFENSE/EXCUSE/OUT/REASON"
+    ],
+    "purple": [
+      "PLAY ___",
+      "DATE/DEAD/DIRTY/DOH"
+    ]
+  },
+  "279": {
+    "yellow": [
+      "GET SMALLER",
+      "CONTRACT/LESSEN/REDUCE/SHRINK"
+    ],
+    "green": [
+      "AIRLINE CLASSES",
+      "BUSINESS/COACH/FIRST/PREMIUM"
+    ],
+    "blue": [
+      "EXAMINE AS AN APPLICANT",
+      "CHECK/REVIEW/SCREEN/VET"
+    ],
+    "purple": [
+      "NOTABLE TV EPISODES",
+      "FINALE/PILOT/PREMIERE/SPECIAL"
+    ]
+  },
+  "280": {
+    "yellow": [
+      "FOOLISHNESS",
+      "ABSURDITY/FOLLY/MADNESS/NONSENSE"
+    ],
+    "green": [
+      "MOVE FORWARD",
+      "ADVANCE/MARCH/PROGRESS/PUSH"
+    ],
+    "blue": [
+      "THINGS THAT MIGHT STINK",
+      "CHEESE/FEET/GARBAGE/SKUNK"
+    ],
+    "purple": [
+      "WORDS AFTER DEEP",
+      "CUT/FAKE/FREEZE/SIX"
+    ]
+  },
+  "281": {
+    "yellow": [
+      "SEGMENT OF A PROCESS",
+      "CYCLE/PHASE/ROUND/STAGE"
+    ],
+    "green": [
+      "CONSTELLATIONS",
+      "CYGNUS/GEMINI/ORION/PEGASUS"
+    ],
+    "blue": [
+      "SPIRALS IN NATURE",
+      "CYCLONE/GALAXY/SNAIL/SUNFLOWER"
+    ],
+    "purple": [
+      "ASSOCIATED WITH ONE",
+      "CYCLOPS/MONOLOGUE/SOLITAIRE/UNICYCLE"
+    ]
+  },
+  "282": {
+    "yellow": [
+      "MOVIE SUMMARY INFO",
+      "CAST/GENRE/PLOT/TITLE"
+    ],
+    "green": [
+      "PRETENSE",
+      "AFFECT/AIRS/CHARADE/FRONT"
+    ],
+    "blue": [
+      "FAMOUS GUITARISTS",
+      "BERRY/KING/PAGE/WATERS"
+    ],
+    "purple": [
+      "SECOND ___",
+      "FIDDLE/GUESS/NATURE/WIND"
+    ]
+  },
+  "283": {
+    "yellow": [
+      "SEEN AT A SPORTS STADIUM",
+      "ASTROTURF/JUMBOTRON/SCOREBOARD/SKYBOX"
+    ],
+    "green": [
+      "CAMERA BRANDS",
+      "FUJIFILM/HASSELBLAD/OLYMPUS/POLAROID"
+    ],
+    "blue": [
+      "ITALIAN DEMONYMS",
+      "BOLOGNESE/NEAPOLITAN/PARMESAN/VENETIAN"
+    ],
+    "purple": [
+      "STARTING WITH ROCK BANDS",
+      "CREAMSICLE/JOURNEYMAN/KISSCAM/RUSHMORE"
+    ]
+  },
+  "284": {
+    "yellow": [
+      "CHAT INFORMALLY",
+      "GAB/JAW/YAK/YAP"
+    ],
+    "green": [
+      "FEMALE ANIMALS",
+      "COW/DOE/EWE/HEN"
+    ],
+    "blue": [
+      "PALINDROMES",
+      "BIB/EYE/GAG/POP"
+    ],
+    "purple": [
+      "STARTS OF PLANET NAMES",
+      "EAR/MAR/MER/SAT"
+    ]
+  },
+  "285": {
+    "yellow": [
+      "JUMPING ANIMALS",
+      "CRICKET/FROG/HARE/KANGAROO"
+    ],
+    "green": [
+      "APPLY PRESSURE TO",
+      "CRUSH/MASH/PRESS/SQUASH"
+    ],
+    "blue": [
+      "OLYMPIC SPORTS",
+      "BREAKING/HOCKEY/SKELETON/TRAMPOLINE"
+    ],
+    "purple": [
+      "THINGS YOU CAN SET",
+      "MOOD/RECORD/TABLE/VOLLEYBALL"
+    ]
+  },
+  "286": {
+    "yellow": [
+      "KUDOS",
+      "CREDIT/GLORY/PRAISE/PROPS"
+    ],
+    "green": [
+      "BECOME AWARE OF",
+      "DISCOVER/FIND/LEARN/REALIZE"
+    ],
+    "blue": [
+      "PURSUE",
+      "CHASE/TAIL/TRACK/SHADOW"
+    ],
+    "purple": [
+      "SEEN IN A PASSPORT",
+      "NAME/PHOTO/STAMP/VISA"
+    ]
+  },
+  "287": {
+    "yellow": [
+      "YELLOW-BROWN SHADES",
+      "BEIGE/CAMEL/KHAKI/TAN"
+    ],
+    "green": [
+      "FAIL TO ATTEND",
+      "CUT/DITCH/MISS/SKIP"
+    ],
+    "blue": [
+      "DECISIVE VICTORY",
+      "BLOWOUT/ROMP/ROUT/SWEEP"
+    ],
+    "purple": [
+      "___ WHEEL",
+      "CHEESE/COLOR/HAMSTER/PRAYER"
+    ]
+  },
+  "288": {
+    "yellow": [
+      "HOW FAST SOMETHING IS GOING",
+      "CLIP/PACE/RATE/SPEED"
+    ],
+    "green": [
+      "STEP ON IT!",
+      "FASTER/GO/HURRY/MOVE"
+    ],
+    "blue": [
+      "N.B.A. TEAM PLAYER",
+      "CLIPPER/PACER/ROCKET/SPUR"
+    ],
+    "purple": [
+      "TELE___",
+      "COMMUTE/MEDICINE/PROMPTER/VISION"
+    ]
+  },
+  "289": {
+    "yellow": [
+      "MUSICAL INSTRUMENTS",
+      "BASS/BASSOON/HARP/RECORDER"
+    ],
+    "green": [
+      "PLANT GROWTHS",
+      "BLOOM/BUD/SHOOT/SPROUT"
+    ],
+    "blue": [
+      "BRING UP",
+      "FOSTER/NURSE/RAISE/REAR"
+    ],
+    "purple": [
+      "SOLAR EMANATIONS",
+      "CORONA/FLARE/LIGHT/RADIATION"
+    ]
+  },
+  "290": {
+    "yellow": [
+      "UPDATE FOR ACCURACY",
+      "AMEND/CORRECT/FIX/REVISE"
+    ],
+    "green": [
+      "QUARREL",
+      "FIGHT/ROW/SCRAP/TIFF"
+    ],
+    "blue": [
+      "GAMES OF CHANCE",
+      "BINGO/LOTTERY/ROULETTE/WAR"
+    ],
+    "purple": [
+      "___ CHIP",
+      "BLUE/COMPUTER/POKER/POTATO"
+    ]
+  },
+  "291": {
+    "yellow": [
+      "EXITED",
+      "DEPARTED/LEFT/SPLIT/WENT"
+    ],
+    "green": [
+      "ONE FLYING AN AIRPLANE",
+      "ACE/AVIATOR/FLIER/PILOT"
+    ],
+    "blue": [
+      "KINDS OF WHALES",
+      "BLUE/FIN/GRAY/RIGHT"
+    ],
+    "purple": [
+      "THINGS WITH SLOTS",
+      "ATM/CASINO/SCHEDULE/SPATULA"
+    ]
+  },
+  "292": {
+    "yellow": [
+      "ESPECIALLY",
+      "MIGHTY/PRETTY/REALLY/VERY"
+    ],
+    "green": [
+      "DISNEY CHARACTERS",
+      "DAISY/GOOFY/HAPPY/LADY"
+    ],
+    "blue": [
+      "KINDS OF BLUE",
+      "BABY/NAVY/SKY/TIFFANY"
+    ],
+    "purple": [
+      "BODY PARTS PLUS Y",
+      "ARMY/COLONY/LIVERY/SHINY"
+    ]
+  },
+  "293": {
+    "yellow": [
+      "BREATHES HEAVILY",
+      "GASPS/HUFFS/PANTS/PUFFS"
+    ],
+    "green": [
+      "PRESERVES AS MEAT",
+      "CANS/CURES/SALTS/SMOKES"
+    ],
+    "blue": [
+      "PREDICAMENTS",
+      "BINDS/JAMS/PICKLES/SPOTS"
+    ],
+    "purple": [
+      "THINGS IN MY FAVORITE THINGS",
+      "KETTLES/MITTENS/RAINDROPS/WHISKERS"
+    ]
+  },
+  "294": {
+    "yellow": [
+      "TAKE A TUMBLE",
+      "FALL/SLIP/SPILL/TRIP"
+    ],
+    "green": [
+      "KINDS OF WATER",
+      "MINERAL/SPRING/STILL/TAP"
+    ],
+    "blue": [
+      "THINGS THAT ARE CINCHED IN THE MIDDLE",
+      "CORSET/DIABOLO/HOURGLASS/WASP"
+    ],
+    "purple": [
+      "___ BEAR",
+      "BOO-BOO/BROWN/HONEY/TEDDY"
+    ]
+  },
+  "295": {
+    "yellow": [
+      "FOOD SLANG FOR MONEY",
+      "🥓/🍞/🥬/🧀"
+    ],
+    "green": [
+      "WORDS THAT RHYME",
+      "🧠/✈️/🌧️/🚂"
+    ],
+    "blue": [
+      "HORROR MOVIES",
+      "👽/🧛/🪚/😱"
+    ],
+    "purple": [
+      "LETTER HOMOPHONES",
+      "🐝/🐑/👁️/🫖"
+    ]
+  },
+  "296": {
+    "yellow": [
+      "THRUST",
+      "JAB/POKE/PROD/STICK"
+    ],
+    "green": [
+      "KINDS OF SNAKES",
+      "ADDER/BOA/MAMBA/MOCCASIN"
+    ],
+    "blue": [
+      "SEEN IN CINDERELLA",
+      "BALL/PRINCE/PUMPKIN/SLIPPER"
+    ],
+    "purple": [
+      "PASTA SHAPES",
+      "BOWTIE/ELBOW/TUBE/WHEEL"
+    ]
+  },
+  "297": {
+    "yellow": [
+      "BENCHMARK",
+      "BENCHMARK/GAUGE/STANDARD/YARDSTICK"
+    ],
+    "green": [
+      "POKER ACTIONS",
+      "BET/CALL/CHECK/FOLD"
+    ],
+    "blue": [
+      "SKIN TYPES",
+      "COMBINATION/DRY/NORMAL/OILY"
+    ],
+    "purple": [
+      "STARTS OF U.S. STATES",
+      "KENT/MARY/MASS/WASH"
+    ]
+  },
+  "298": {
+    "yellow": [
+      "WAYS TO PREPARE EGGS",
+      "BOIL/FRY/POACH/SCRAMBLE"
+    ],
+    "green": [
+      "EXHILARATION",
+      "BUZZ/KICK/RUSH/THRILL"
+    ],
+    "blue": [
+      "THROWN IN TARGET GAMES",
+      "AXE/DART/HORSESHOE/RING"
+    ],
+    "purple": [
+      "___ WRAP",
+      "BODY/BUBBLE/GIFT/SHRINK"
+    ]
+  },
+  "299": {
+    "yellow": [
+      "PIECES OF FURNITURE",
+      "BED/CHAIR/COUCH/TABLE"
+    ],
+    "green": [
+      "CARRY AS A FEELING",
+      "BEAR/HARBOR/HOLD/MAINTAIN"
+    ],
+    "blue": [
+      "WINE TASTING DESCRIPTORS",
+      "BALANCED/DRY/FULL/SWEET"
+    ],
+    "purple": [
+      "STARTING WITH METALS",
+      "GOLDILOCKS/IRONIC/LEADERSHIP/TINDER"
+    ]
+  },
+  "300": {
+    "yellow": [
+      "INTRINSIC MOTIVATORS",
+      "DESIRE/DRIVE/RESOLVE/WILL"
+    ],
+    "green": [
+      "SUMMER GEAR",
+      "HAT/SHORTS/SUNGLASSES/TEE"
+    ],
+    "blue": [
+      "COLLECTION",
+      "ARRAY/BATTERY/SET/SERIES"
+    ],
+    "purple": [
+      "HORSE___",
+      "FLY/POWER/RADISH/SHOE"
+    ]
+  },
+  "301": {
+    "yellow": [
+      "DISORDERLY PLACE",
+      "DUMP/MESS/PIGPEN/STY"
+    ],
+    "green": [
+      "STURDY",
+      "FIRM/SOLID/SOUND/STABLE"
+    ],
+    "blue": [
+      "FOUND IN CRACKER JACKS",
+      "CARAMEL/PEANUTS/POPCORN/PRIZE"
+    ],
+    "purple": [
+      "___ HORSE",
+      "CHARLEY/CRAZY/DARK/GIFT"
+    ]
+  },
+  "302": {
+    "yellow": [
+      "BRIEF MOMENT",
+      "FLASH/HEARTBEAT/JIFF/WINK"
+    ],
+    "green": [
+      "DISPUTE",
+      "CLASH/SCRAP/TANGLE/TIFF"
+    ],
+    "blue": [
+      "SLANG FOR ZERO",
+      "JACK/LOVE/SQUAT/ZIP"
+    ],
+    "purple": [
+      "ACCESSORIES FOR MR. PEANUT",
+      "CANE/MONOCLE/SPAT/TOP HAT"
+    ]
+  },
+  "303": {
+    "yellow": [
+      "BREADTH",
+      "EXTENT/RANGE/REACH/SCOPE"
+    ],
+    "green": [
+      "HAIR TOOLS",
+      "BRUSH/COMB/DRYER/IRON"
+    ],
+    "blue": [
+      "HERALDRY TERMS",
+      "ARMS/COAT/CREST/SHIELD"
+    ],
+    "purple": [
+      "WORDS BEFORE DRUM",
+      "EAR/KETTLE/OIL/STEEL"
+    ]
+  },
+  "304": {
+    "yellow": [
+      "PERSON IN CHARGE",
+      "CHAIR/CHIEF/DIRECTOR/HEAD"
+    ],
+    "green": [
+      "GRASSY AREA",
+      "FIELD/GREEN/GROUNDS/LAWN"
+    ],
+    "blue": [
+      "WORDS BEFORE NUT",
+      "CHEST/COCO/HAZEL/PEA"
+    ],
+    "purple": [
+      "SECOND WORDS IN TARANTINO MOVIES",
+      "BROWN/DOGS/FICTION/UNCHAINED"
+    ]
+  },
+  "305": {
+    "yellow": [
+      "HAIRCUTS WITH CUT",
+      "BOWL/BUZZ/CREW/PIXIE"
+    ],
+    "green": [
+      "MEASURING INSTRUMENTS",
+      "COMPASS/RULER/SCALE/WATCH"
+    ],
+    "blue": [
+      "WATER AND GAS CONDUITS",
+      "CHANNEL/LINE/MAIN/PIPE"
+    ],
+    "purple": [
+      "FAST FOOD MASCOTS",
+      "CLOWN/COLONEL/KING/MERMAID"
+    ]
+  },
+  "306": {
+    "yellow": [
+      "ORDERLY",
+      "CLEAN/NEAT/TIDY/TRIM"
+    ],
+    "green": [
+      "AUGMENTATIVE PREFIXES",
+      "HYPER/SUPER/UBER/ULTRA"
+    ],
+    "blue": [
+      "BECOME LARGER",
+      "BALLOON/MUSHROOM/SNOWBALL/SWELL"
+    ],
+    "purple": [
+      "ITEMS IN CLASSIC KIDS' GAMES",
+      "DOMINO/JACK/MARBLE/STICK"
+    ]
+  },
+  "307": {
+    "yellow": [
+      "SEEN AT THE CIRCUS",
+      "CLOWN/RING/TENT/TRAPEZE"
+    ],
+    "green": [
+      "THE WIZARD OF OZ FIGURES",
+      "LION/SCARECROW/WITCH/WIZARD"
+    ],
+    "blue": [
+      "FILM DEPARTMENTS",
+      "HAIR/MAKEUP/PROPS/WARDROBE"
+    ],
+    "purple": [
+      "I'M A ___ (LYRICS IN THE JOKER)",
+      "JOKER/LOVER/SINNER/SMOKER"
+    ]
+  },
+  "308": {
+    "yellow": [
+      "PULL USING FORCE",
+      "RIP/TEAR/WRENCH/YANK"
+    ],
+    "green": [
+      "BIT OF REPETITIVE TRAINING",
+      "DRILL/EXERCISE/PRACTICE/ROUTINE"
+    ],
+    "blue": [
+      "U.S.-BASED AIRLINES",
+      "AMERICAN/FRONTIER/SPIRIT/UNITED"
+    ],
+    "purple": [
+      "BEGINNING WITH DAY ABBREVIATIONS",
+      "FRIAR/MONKEY/SUNDRY/WEDDING"
+    ]
+  },
+  "309": {
+    "yellow": [
+      "INVENT AS YOU GO",
+      "AD-LIB/FREESTYLE/IMPROV/MAKE UP"
+    ],
+    "green": [
+      "THINGS BABIES DO",
+      "BABBLE/COO/CRAWL/NURSE"
+    ],
+    "blue": [
+      "SUPERFICIAL",
+      "COSMETIC/EXTERNAL/SHALLOW/SURFACE"
+    ],
+    "purple": [
+      "___ EFFECT",
+      "BUTTERFLY/DOMINO/PLACEBO/SIDE"
+    ]
+  },
+  "310": {
+    "yellow": [
+      "FLABBERGAST",
+      "FLOOR/ROCK/SHOCK/SURPRISE"
+    ],
+    "green": [
+      "BIT OF JOURNALISM",
+      "ARTICLE/FEATURE/REPORT/STORY"
+    ],
+    "blue": [
+      "ON THE SAME PLANE",
+      "EVEN/FLAT/FLUSH/LEVEL"
+    ],
+    "purple": [
+      "THEATER SECTIONS",
+      "BALCONY/BOX/ORCHESTRA/STAGE"
+    ]
+  },
+  "311": {
+    "yellow": [
+      "UPRIGHT SUPPORT",
+      "COLUMN/PILLAR/POLE/POST"
+    ],
+    "green": [
+      "HEED AS RULES",
+      "FOLLOW/MIND/OBSERVE/REGARD"
+    ],
+    "blue": [
+      "ALLOTMENT",
+      "INTEREST/PERCENTAGE/SHARE/STAKE"
+    ],
+    "purple": [
+      "GATHERED BY SPIES",
+      "DIRT/INFORMATION/INTELLIGENCE/SECRETS"
+    ]
+  },
+  "312": {
+    "yellow": [
+      "SIDEWALK SIGHTS",
+      "CURB/GRATE/GUTTER/MANHOLE"
+    ],
+    "green": [
+      "HAVE IN MIND",
+      "AIM/INTEND/MEAN/PLAN"
+    ],
+    "blue": [
+      "UNIT ABBREVIATIONS",
+      "CAL/GAL/IN/OZ"
+    ],
+    "purple": [
+      "GOLDEN ___",
+      "FLEECE/GIRLS/PARACHUTE/RULE"
+    ]
+  },
+  "313": {
+    "yellow": [
+      "ATTACH WITH ADHESIVE",
+      "ADHERE/GLUE/PASTE/STICK"
+    ],
+    "green": [
+      "PUBLISHED LINES",
+      "COPY/TEXT/WORDS/WRITING"
+    ],
+    "blue": [
+      "DIAMOND QUALITIES",
+      "CARAT/CLARITY/COLOR/CUT"
+    ],
+    "purple": [
+      "A-___",
+      "LIST/OK/PLUS/ROD"
+    ]
+  },
+  "314": {
+    "yellow": [
+      "BALDERDASH",
+      "BUNK/CROCK/HOGWASH/HORSEFEATHERS"
+    ],
+    "green": [
+      "TRACK AND FIELD EQUIPMENT",
+      "BATON/HAMMER/HURDLE/POLE"
+    ],
+    "blue": [
+      "PARTS OF A DEVIL COSTUME",
+      "GOATEE/HORNS/PITCHFORK/TAIL"
+    ],
+    "purple": [
+      "TYPES OF KNOTS",
+      "BEND/BOWLINE/HITCH/SHEEPSHANK"
+    ]
+  },
+  "315": {
+    "yellow": [
+      "EMBODIMENT",
+      "EXAMPLE/IDEAL/MODEL/SYMBOL"
+    ],
+    "green": [
+      "RELATED TO TRAINS",
+      "CAR/CONDUCTOR/STATION/TRACK"
+    ],
+    "blue": [
+      "STARTING WITH THE SAME SOUND",
+      "CYMBAL/SCIMITAR/SIMMER/SYMPHONY"
+    ],
+    "purple": [
+      "EAR___",
+      "DRUM/MARK/WAX/WIG"
+    ]
+  },
+  "316": {
+    "yellow": [
+      "SLANG FOR FRIEND",
+      "BUD/CHUM/MATE/PAL"
+    ],
+    "green": [
+      "ADJECTIVES FOR A BASEMENT",
+      "COLD/DANK/DARK/MUSTY"
+    ],
+    "blue": [
+      "STUBBLE",
+      "FUZZ/SCRUFF/SHADOW/WHISKERS"
+    ],
+    "purple": [
+      "COLLECTION OF MONEY",
+      "FUND/KITTY/POOL/POT"
+    ]
+  },
+  "317": {
+    "yellow": [
+      "THROW OUT",
+      "BOOT/BOUNCE/EJECT/TOSS"
+    ],
+    "green": [
+      "TERRA FIRMA",
+      "EARTH/GROUND/LAND/SOIL"
+    ],
+    "blue": [
+      "SEAS",
+      "BALTIC/BLACK/PHILIPPINE/RED"
+    ],
+    "purple": [
+      "TOM HANKS MOVIES",
+      "BIG/PHILADELPHIA/SPLASH/SULLY"
+    ]
+  },
+  "318": {
+    "yellow": [
+      "TACO TOPPINGS",
+      "CILANTRO/LIME/ONION/SALSA"
+    ],
+    "green": [
+      "METRIC PREFIXES",
+      "KILO/MEGA/MICRO/PICO"
+    ],
+    "blue": [
+      "KINDS OF SKIRTS",
+      "MINI/PENCIL/POODLE/WRAP"
+    ],
+    "purple": [
+      "WORDS WITH HILL",
+      "CAPITOL/FAITH/FOOT/MOLE"
+    ]
+  },
+  "319": {
+    "yellow": [
+      "LAB EQUIPMENT",
+      "BEAKER/DROPPER/GOGGLES/MICROSCOPE"
+    ],
+    "green": [
+      "NEXUS",
+      "CENTER/HEART/HUB/NUCLEUS"
+    ],
+    "blue": [
+      "SPREADSHEET TERMS",
+      "CELL/FORMULA/SHEET/SORT"
+    ],
+    "purple": [
+      "___ LANGUAGE",
+      "BODY/LOVE/ROMANCE/SIGN"
+    ]
+  },
+  "320": {
+    "yellow": [
+      "REFINED SENSIBILITY",
+      "ELEGANCE/GRACE/STYLE/TASTE"
+    ],
+    "green": [
+      "CATCH SOME RAYS",
+      "BAKE/BASK/SUN/TAN"
+    ],
+    "blue": [
+      "EMOTIONALLY SWAY",
+      "AFFECT/IMPACT/MOVE/TOUCH"
+    ],
+    "purple": [
+      "NUMBERS WITH FIRST LETTERS REPLACED BY S",
+      "SEN/SIGHT/SINE/SOUR"
+    ]
+  },
+  "321": {
+    "yellow": [
+      "TRUST AS REAL",
+      "ACCEPT/BELIEVE/BUY/SWALLOW"
+    ],
+    "green": [
+      "POWER ISSUES",
+      "OUTAGE/SHORT/SPIKE/SURGE"
+    ],
+    "blue": [
+      "SUMMARY",
+      "ABSTRACT/BRIEF/DIGEST/OUTLINE"
+    ],
+    "purple": [
+      "NAME HOMOPHONES",
+      "CURT/HAIRY/KNEEL/WANE"
+    ]
+  },
+  "322": {
+    "yellow": [
+      "PASSIONATE AS A FEELING",
+      "DEEP/EXTREME/FIERCE/INTENSE"
+    ],
+    "green": [
+      "BANG INTO",
+      "BUMP/BUTT/KNOCK/RAM"
+    ],
+    "blue": [
+      "ANALOG TV INTERFERENCE",
+      "FUZZ/NOISE/SNOW/STATIC"
+    ],
+    "purple": [
+      "___ MARY",
+      "BLOODY/HAIL/PROUD/VIRGIN"
+    ]
+  },
+  "323": {
+    "yellow": [
+      "EXERCISES",
+      "BRIDGE/CRUNCH/DIP/SQUAT"
+    ],
+    "green": [
+      "FEATURED IN WESTERNS",
+      "BOUNTY/COWBOY/DUEL/SALOON"
+    ],
+    "blue": [
+      "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+      "CARTER/GORE/KING/TUTU"
+    ],
+    "purple": [
+      "___ BEE",
+      "BUSY/HONEY/QUEEN/SPELLING"
+    ]
+  },
+  "324": {
+    "yellow": [
+      "DIPPING SAUCES",
+      "AIOLI/BARBECUE/MARINARA/RANCH"
+    ],
+    "green": [
+      "INTERROGATE",
+      "EXAMINE/GRILL/PROBE/QUESTION"
+    ],
+    "blue": [
+      "TRANSACTION RECORD",
+      "BILL/INVOICE/RECEIPT/STATEMENT"
+    ],
+    "purple": [
+      "WHAT STOCK MIGHT MEAN",
+      "ANCESTRY/BROTH/CATTLE/MERCHANDISE"
+    ]
+  },
+  "325": {
+    "yellow": [
+      "FEATURES ON A PAIR OF JEANS",
+      "BUTTON/FLY/POCKET/RIVET"
+    ],
+    "green": [
+      "OBJECTS IN 0- 1- 2- AND 3-DIMENSIONAL SPACE",
+      "LINE/PLANE/POINT/SOLID"
+    ],
+    "blue": [
+      "WEB BROWSER MENUS",
+      "FILE/HISTORY/VIEW/WINDOW"
+    ],
+    "purple": [
+      "MEMBER OF A '60S BAND",
+      "ANIMAL/DOOR/KINK/SUPREME"
+    ]
+  },
+  "326": {
+    "yellow": [
+      "HIGHLY SKILLED",
+      "ACE/CRACKERJACK/EXPERT/HOTSHOT"
+    ],
+    "green": [
+      "USED TO FIX A FLAT",
+      "CHOCK/JACK/TIRE/WRENCH"
+    ],
+    "blue": [
+      "JOAQUIN PHOENIX MOVIES",
+      "GLADIATOR/HER/JOKER/SIGNS"
+    ],
+    "purple": [
+      "WORDS STARTING WITH MUSIC GENRES",
+      "POPCORN/RAPTURE/ROCKETRY/SOULMATE"
+    ]
+  },
+  "327": {
+    "yellow": [
+      "NIGHTSPOTS",
+      "BAR/CLUB/DISCO/LOUNGE"
+    ],
+    "green": [
+      "CAST OFF",
+      "DITCH/DROP/LOSE/SHED"
+    ],
+    "blue": [
+      "UNITS OF LENGTH",
+      "FATHOM/FOOT/LEAGUE/YARD"
+    ],
+    "purple": [
+      "___ SALE",
+      "BAKE/CLEARANCE/GARAGE/SAMPLE"
+    ]
+  },
+  "328": {
+    "yellow": [
+      "ENJOY",
+      "FANCY/LOVE/RELISH/SAVOR"
+    ],
+    "green": [
+      "FILLER WORDS",
+      "LIKE/LITERALLY/UM/WELL"
+    ],
+    "blue": [
+      "COMPONENTS OF A LOCK",
+      "CYLINDER/PIN/SPRING/TUMBLER"
+    ],
+    "purple": [
+      "HOMOPHONES OF UNITS OF MEASURE",
+      "CARROT/HURTS/JEWEL/OM"
+    ]
+  },
+  "329": {
+    "yellow": [
+      "SOMETHING GAINED FROM HARD WORK",
+      "BENEFIT/FRUIT/RETURN/REWARD"
+    ],
+    "green": [
+      "KINDS OF BAGELS",
+      "EGG/EVERYTHING/PLAIN/POPPY"
+    ],
+    "blue": [
+      "CONTRIBUTE TO A MOVIE",
+      "ACT/DIRECT/PRODUCE/WRITE"
+    ],
+    "purple": [
+      "STARTS OF MONSTERS",
+      "FRANK/MUM/VAMP/WERE"
+    ]
+  },
+  "330": {
+    "yellow": [
+      "CONNECT",
+      "COUPLE/JOIN/LINK/TIE"
+    ],
+    "green": [
+      "NUISANCE",
+      "BOTHER/HANDFUL/PAIN/PEST"
+    ],
+    "blue": [
+      "QUANTITY WORDS",
+      "FEW/MANY/SEVERAL/SOME"
+    ],
+    "purple": [
+      "TAROT CARDS WITH THE",
+      "FOOL/LOVERS/MAGICIAN/TOWER"
+    ]
+  },
+  "331": {
+    "yellow": [
+      "DELI BREAD OPTIONS",
+      "BUN/HERO/ROLL/WRAP"
+    ],
+    "green": [
+      "SLANG FOR MOUTH",
+      "CHOPS/KISSER/TRAP/YAP"
+    ],
+    "blue": [
+      "KEEP RHYTHM WITH MUSIC",
+      "BOB/CLAP/SNAP/TAP"
+    ],
+    "purple": [
+      "ROUND OF ___",
+      "APPLAUSE/DRINKS/FUNDING/GOLF"
+    ]
+  },
+  "332": {
+    "yellow": [
+      "SHADES OF RED",
+      "BRICK/CHERRY/ROSE/RUBY"
+    ],
+    "green": [
+      "LITTLE BIT OF A BEVERAGE",
+      "DROP/SPLASH/SPOT/SPRINKLE"
+    ],
+    "blue": [
+      "CHOICEST",
+      "BEST/CREAM/PICK/TOP"
+    ],
+    "purple": [
+      "___ BATH",
+      "BIRD/BUBBLE/MUD/SPONGE"
+    ]
+  },
+  "333": {
+    "yellow": [
+      "CONTAINER CLOSURES",
+      "CAP/CORK/LID/TAB"
+    ],
+    "green": [
+      "DURATION",
+      "PERIOD/SPELL/STRETCH/TIME"
+    ],
+    "blue": [
+      "REGULATE",
+      "CHECK/CONTAIN/CURB/LIMIT"
+    ],
+    "purple": [
+      "TRADEMARKS OF A PLATYPUS",
+      "BILL/EGG/FUR/VENOM"
+    ]
+  },
+  "334": {
+    "yellow": [
+      "CHUTZPAH",
+      "BRASS/CHEEK/GALL/NERVE"
+    ],
+    "green": [
+      "ACCESSORIES FOR DOG WALKING",
+      "COLLAR/HALTER/HARNESS/LEAD"
+    ],
+    "blue": [
+      "THINGS THAT SPIN",
+      "CAROUSEL/GLOBE/RECORD/TOP"
+    ],
+    "purple": [
+      "LEAD SINGERS OF '70S ROCK BANDS",
+      "FERRY/MERCURY/NICKS/PLANT"
+    ]
+  },
+  "335": {
+    "yellow": [
+      "ONE WITH TOP BILLING",
+      "HEADLINER/LEAD/PRINCIPAL/STAR"
+    ],
+    "green": [
+      "VAMPIRE VULNERABILITIES",
+      "CROSS/GARLIC/SILVER/SUN"
+    ],
+    "blue": [
+      "SATIRICAL PUBLICATIONS FAMILIARLY",
+      "CRACKED/LAMPOON/MAD/ONION"
+    ],
+    "purple": [
+      "CLUB ___",
+      "MED/MUSIC/SANDWICH/SODA"
+    ]
+  },
+  "336": {
+    "yellow": [
+      "PLAYFULLY POKE FUN AT",
+      "KID/NEEDLE/RIB/TEASE"
+    ],
+    "green": [
+      "CUTS OF BEEF",
+      "CHUCK/FLANK/LOIN/ROUND"
+    ],
+    "blue": [
+      "ACRONYMS",
+      "MIA/OMG/PIN/RAM"
+    ],
+    "purple": [
+      "COCKTAILS MINUS PLACE NAMES",
+      "LIBRE/MAMA/MULE/SLING"
+    ]
+  },
+  "337": {
+    "yellow": [
+      "FASHION DESIGNER'S OUTPUT",
+      "BRAND/COLLECTION/LABEL/LINE"
+    ],
+    "green": [
+      "PLAYGROUND VERBS",
+      "DODGE/HIDE/HOP/TAG"
+    ],
+    "blue": [
+      "LOONEY TUNES FIGURES",
+      "BUNNY/DUCK/MARTIAN/PIG"
+    ],
+    "purple": [
+      "HOMOPHONES OF MUSICALS",
+      "GREECE/HARE/KATZ/MAIM"
+    ]
+  },
+  "338": {
+    "yellow": [
+      "EARLY ITERATION",
+      "DRAFT/OUTLINE/PLAN/SKETCH"
+    ],
+    "green": [
+      "ENJOY A MEAL",
+      "DINE/FEAST/FEED/SUP"
+    ],
+    "blue": [
+      "SPANISH PRONOUNS",
+      "ELLA/ME/SUS/YO"
+    ],
+    "purple": [
+      "SLIM ___",
+      "FIT/JIM/PICKINGS/SHADY"
+    ]
+  },
+  "339": {
+    "yellow": [
+      "BIT OF LEGISLATION",
+      "ACT/BILL/MEASURE/RESOLUTION"
+    ],
+    "green": [
+      "GRASSLAND",
+      "MEADOW/PLAIN/PRAIRIE/SAVANNA"
+    ],
+    "blue": [
+      "FORTHRIGHT",
+      "DIRECT/FRANK/OPEN/STRAIGHT"
+    ],
+    "purple": [
+      "CAR COMPANIES MINUS LETTER",
+      "AURA/BUCK/DOGE/HODA"
+    ]
+  },
+  "340": {
+    "yellow": [
+      "PHOTO",
+      "PIC/SHOT/SNAP/STILL"
+    ],
+    "green": [
+      "ASSURE AS A VICTORY",
+      "CINCH/ICE/LOCK/SECURE"
+    ],
+    "blue": [
+      "MOVE IN AN EFFORTLESS WAY",
+      "BREEZE/COAST/GLIDE/SAIL"
+    ],
+    "purple": [
+      "___ BLANKET",
+      "PICNIC/SECURITY/THROW/WET"
+    ]
+  },
+  "341": {
+    "yellow": [
+      "CORRUPT",
+      "BASE/DIRTY/LOW/VILE"
+    ],
+    "green": [
+      "REACH OUT TO",
+      "CONTACT/MESSAGE/PING/TEXT"
+    ],
+    "blue": [
+      "CLASSIC STILL LIFE COMPONENTS",
+      "FRUIT/PITCHER/SKULL/TABLECLOTH"
+    ],
+    "purple": [
+      "BEER ___",
+      "BATTER/CAN/GARDEN/PONG"
+    ]
+  },
+  "342": {
+    "yellow": [
+      "ANIMALS WHOSE NAMES ARE TWO ANIMALS",
+      "BULLDOG/CATFISH/HORSEFLY/TURTLEDOVE"
+    ],
+    "green": [
+      "SHARP TURNS",
+      "DOGLEG/HAIRPIN/SWITCHBACK/ZAG"
+    ],
+    "blue": [
+      "CLASSIC PARTY GAMES",
+      "CATEGORIES/CHARADES/FISHBOWL/WEREWOLF"
+    ],
+    "purple": [
+      "THINGS WITH SPRING/S",
+      "CLOCK/MATTRESS/MOUSETRAP/TRAMPOLINE"
+    ]
+  },
+  "343": {
+    "yellow": [
+      "AFFLUENT",
+      "FLUSH/LOADED/RICH/WEALTHY"
+    ],
+    "green": [
+      "CUT INTO PIECES",
+      "CHOP/CUBE/DICE/MINCE"
+    ],
+    "blue": [
+      "OLD-FASHIONED",
+      "SQUARE/STRAIGHT/STUFFY/TRADITIONAL"
+    ],
+    "purple": [
+      "FRUIT HOMOPHONES",
+      "BURY/CURRENT/LEACHY/PAIR"
+    ]
+  },
+  "344": {
+    "yellow": [
+      "SORCERER'S OUTPUT",
+      "CHARM/HEX/MAGIC/SPELL"
+    ],
+    "green": [
+      "ONE BEING MANIPULATED",
+      "INSTRUMENT/PAWN/PUPPET/TOOL"
+    ],
+    "blue": [
+      "CLASSIC SUPERHERO WEAR",
+      "CAPE/MASK/TIGHTS/UNDERWEAR"
+    ],
+    "purple": [
+      "ACTION MOVIE DIRECTORS",
+      "BAY/CARPENTER/SCOTT/WOO"
+    ]
+  },
+  "345": {
+    "yellow": [
+      "SMIDGEN",
+      "BIT/DASH/PINCH/TOUCH"
+    ],
+    "green": [
+      "BARGAIN",
+      "BUY/DEAL/STEAL/VALUE"
+    ],
+    "blue": [
+      "BILLIARDS EQUIPMENT",
+      "BALL/CHALK/CUE/RACK"
+    ],
+    "purple": [
+      "___BOOK (THAT'S NOT A BOOK)",
+      "FACE/MAC/MATCH/POCKET"
+    ]
+  },
+  "346": {
+    "yellow": [
+      "BODY PARTS IN HEAD SHOULDERS KNEES AND TOES",
+      "HEAD/KNEES/SHOULDERS/TOES"
+    ],
+    "green": [
+      "CAR INFORMALLY",
+      "AUTO/RIDE/WHEELS/WHIP"
+    ],
+    "blue": [
+      "REMOVES THE COVERING OF",
+      "PARES/PEELS/SHELLS/SHUCKS"
+    ],
+    "purple": [
+      "BUZZY THINGS",
+      "BEES/CAFFEINE/GOSSIP/INTERCOMS"
+    ]
+  },
+  "347": {
+    "yellow": [
+      "TAKE ADVANTAGE OF",
+      "EXPLOIT/LEVERAGE/MILK/USE"
+    ],
+    "green": [
+      "FINISHED AS TIME",
+      "DONE/OVER/THROUGH/UP"
+    ],
+    "blue": [
+      "NEWSPAPER DESKS",
+      "CITY/COPY/CULTURE/SPORTS"
+    ],
+    "purple": [
+      "WORDS BEGINNING WITH GREETINGS",
+      "HEYDAY/HIJINKS/SUPPER/YOGURT"
+    ]
+  },
+  "348": {
+    "yellow": [
+      "CONDUITS FOR WATER REMOVAL",
+      "DRAIN/DUCT/PIPE/SEWER"
+    ],
+    "green": [
+      "FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY",
+      "CHEESE/CORN/SAP/SCHMALTZ"
+    ],
+    "blue": [
+      "THINGS TO CRACK",
+      "EGG/KNUCKLES/SMILE/WINDOW"
+    ],
+    "purple": [
+      "___ CHANGE",
+      "CHUMP/CLIMATE/LOOSE/SEA"
+    ]
+  },
+  "349": {
+    "yellow": [
+      "ADVERTISING FORMAT",
+      "BANNER/BILLBOARD/POSTER/SIGN"
+    ],
+    "green": [
+      "INAUGURAL",
+      "FIRST/INITIAL/MAIDEN/PREMIER"
+    ],
+    "blue": [
+      "ADVOCATE FOR",
+      "BACK/CHAMPION/ENDORSE/SUPPORT"
+    ],
+    "purple": [
+      "PRONOUN PLUS E",
+      "HERE/THEME/USE/WEE"
+    ]
+  },
+  "350": {
+    "yellow": [
+      "FOUND ON A STOVE TOP",
+      "GRIDDLE/KETTLE/PAN/POT"
+    ],
+    "green": [
+      "ORNAMENTAL BORDER",
+      "FRILL/FRINGE/RUFFLE/TRIM"
+    ],
+    "blue": [
+      "DEPOSIT WITH DOWN",
+      "LAY/PLACE/PUT/SET"
+    ],
+    "purple": [
+      "WORDS THAT SOUNDS LIKE PLURAL LETTERS",
+      "GEEZ/SEIZE/TEASE/WISE"
+    ]
+  },
+  "351": {
+    "yellow": [
+      "AGENCY IN DECISIONMAKING",
+      "CHOICE/SAY/VOICE/VOTE"
+    ],
+    "green": [
+      "DOG COMMANDS",
+      "DOWN/HEEL/SHAKE/SPEAK"
+    ],
+    "blue": [
+      "KINDS OF NOTES",
+      "FLAT/NATURAL/QUARTER/WHOLE"
+    ],
+    "purple": [
+      "___ IRON",
+      "PUMP/STEAM/TIRE/WAFFLE"
+    ]
+  },
+  "352": {
+    "yellow": [
+      "AMENABLE",
+      "EASY/FLEXIBLE/OPEN/RECEPTIVE"
+    ],
+    "green": [
+      "ANAGRAMS",
+      "EVIL/LIVE/VEIL/VILE"
+    ],
+    "blue": [
+      "SPELLING BEE RANKS",
+      "AMAZING/BEGINNER/GENIUS/SOLID"
+    ],
+    "purple": [
+      "ADJECTIVES FOR A CANDLE",
+      "LIT/SCENTED/WAXY/WICKED"
+    ]
+  },
+  "353": {
+    "yellow": [
+      "FOOD",
+      "CHOW/EATS/FARE/GRUB"
+    ],
+    "green": [
+      "PILOT",
+      "DIRECT/GUIDE/LEAD/STEER"
+    ],
+    "blue": [
+      "INTIMIDATE",
+      "BULLY/COW/DAUNT/RATTLE"
+    ],
+    "purple": [
+      "___ MARKET",
+      "BULL/FLEA/MEAT/STOCK"
+    ]
+  },
+  "354": {
+    "yellow": [
+      "PLUNDER",
+      "LOOT/RAID/ROB/SACK"
+    ],
+    "green": [
+      "INFLUENCE",
+      "CLOUT/PULL/SWAY/WEIGHT"
+    ],
+    "blue": [
+      "HAIRSTYLES",
+      "BOB/CROP/FADE/SHAG"
+    ],
+    "purple": [
+      "___ PIN",
+      "BOBBY/HAIR/PUSH/SAFETY"
+    ]
+  },
+  "355": {
+    "yellow": [
+      "CORPUS",
+      "BODY/CANON/OEUVRE/WORKS"
+    ],
+    "green": [
+      "MOUNT ___",
+      "FUJI/HOOD/OLYMPUS/WHITNEY"
+    ],
+    "blue": [
+      "COMPONENTS OF AN LP",
+      "INSERT/JACKET/RECORD/SLEEVE"
+    ],
+    "purple": [
+      "THINGS PEOPLE SHAKE",
+      "HANDS/MARACA/POLAROID/SNOWGLOBE"
+    ]
+  },
+  "356": {
+    "yellow": [
+      "DON'T DELAY!",
+      "HURRY/NOW/PRONTO/STAT"
+    ],
+    "green": [
+      "OCEAN PHENOMENA",
+      "CURRENT/DRIFT/TIDE/WAVE"
+    ],
+    "blue": [
+      "DUMBBELL EXERCISES",
+      "CURL/FLY/PRESS/ROW"
+    ],
+    "purple": [
+      "PHILOSOPHER HOMOPHONES",
+      "LOCK/MARKS/PANE/RUSTLE"
+    ]
+  },
+  "357": {
+    "yellow": [
+      "CONFORMISTS",
+      "FOLLOWERS/LEMMINGS/PUPPETS/SHEEP"
+    ],
+    "green": [
+      "COMPANY OWNERSHIP OFFERS",
+      "EQUITY/OPTIONS/SHARES/STOCKS"
+    ],
+    "blue": [
+      "U.S. CITIES",
+      "BILLINGS/BUFFALO/MOBILE/PHOENIX"
+    ],
+    "purple": [
+      "WHAT DIGS MIGHT MEAN",
+      "APARTMENT/INSULTS/LIKES/SHOVELS"
+    ]
+  },
+  "358": {
+    "yellow": [
+      "REMOVE AS BODY HAIR",
+      "LASER/PLUCK/THREAD/WAX"
+    ],
+    "green": [
+      "TWIST AROUND",
+      "COIL/SPOOL/WIND/WRAP"
+    ],
+    "blue": [
+      "THINGS MADE OF CELLS",
+      "HONEYCOMB/ORGANISM/SOLAR PANEL/SPREADSHEET"
+    ],
+    "purple": [
+      "B-___",
+      "BALL/MOVIE/SCHOOL/VITAMIN"
+    ]
+  },
+  "359": {
+    "yellow": [
+      "TAKE HOME AS INCOME",
+      "CLEAR/EARN/MAKE/NET"
+    ],
+    "green": [
+      "PARTS OF A WIZARD COSTUME",
+      "BEARD/HAT/ROBE/STAFF"
+    ],
+    "blue": [
+      "FOUND ON A SHIP",
+      "BRIDGE/DECK/HATCH/KEEL"
+    ],
+    "purple": [
+      "C-___",
+      "CLEF/SECTION/SPAN/SUITE"
+    ]
+  },
+  "360": {
+    "yellow": [
+      "AWESOME!",
+      "COOL/NICE/SICK/SWEET"
+    ],
+    "green": [
+      "VARIETY",
+      "KIND/SORT/STYLE/TYPE"
+    ],
+    "blue": [
+      "GIST",
+      "DRIFT/IDEA/MESSAGE/POINT"
+    ],
+    "purple": [
+      "FRIED APPETIZER INFORMALLY",
+      "RING/STICK/TENDER/WING"
+    ]
+  },
+  "361": {
+    "yellow": [
+      "MOVE TO ACTION",
+      "DRIVE/PROMPT/PROPEL/PUSH"
+    ],
+    "green": [
+      "UNO CARDS",
+      "DRAW/REVERSE/SKIP/WILD"
+    ],
+    "blue": [
+      "HAIL SIZE COMPARISONS",
+      "BASEBALL/GRAPEFRUIT/MARBLE/PEA"
+    ],
+    "purple": [
+      "PLACES WITH BENCHES",
+      "COURTROOM/DUGOUT/GYM/PARK"
+    ]
+  },
+  "362": {
+    "yellow": [
+      "DREAM UP",
+      "CONCEIVE/ENVISION/IMAGINE/PICTURE"
+    ],
+    "green": [
+      "THIN COVERING",
+      "COAT/FILM/LAYER/SKIN"
+    ],
+    "blue": [
+      "REMOVE AS CRUMBS",
+      "BRUSH/FLICK/SWEEP/WIPE"
+    ],
+    "purple": [
+      "VERBS FOR A SOFTWARE ENGINEER",
+      "CODE/DEVELOP/HACK/PROGRAM"
+    ]
+  },
+  "363": {
+    "yellow": [
+      "GRAB ONE'S ATTENTION",
+      "ABSORB/ENGROSS/HOLD/RIVET"
+    ],
+    "green": [
+      "DOCUMENT WITH VIDEO",
+      "FILM/RECORD/SHOOT/TAPE"
+    ],
+    "blue": [
+      "ANAGRAMS",
+      "PASTEL/PETALS/PLEATS/STAPLE"
+    ],
+    "purple": [
+      "PRETTY ___",
+      "GOOD/PENNY/PLEASE/WOMAN"
+    ]
+  },
+  "364": {
+    "yellow": [
+      "FEELING SOME TYPE OF WAY",
+      "BITTER/SALTY/SORE/UPSET"
+    ],
+    "green": [
+      "THROW HERE AND THERE",
+      "PEPPER/SCATTER/SPRINKLE/STREW"
+    ],
+    "blue": [
+      "THINGS WITH LAYERS",
+      "CAKE/EARTH/ONION/PLYWOOD"
+    ],
+    "purple": [
+      "___ POTATO",
+      "BAKED/COUCH/HOT/SWEET"
+    ]
+  },
+  "365": {
+    "yellow": [
+      "CORE",
+      "CRUX/ESSENCE/HEART/SUBSTANCE"
+    ],
+    "green": [
+      "COMPLICATED",
+      "BAROQUE/COMPLEX/ELABORATE/INVOLVED"
+    ],
+    "blue": [
+      "SYMBOLS USED IN MAKING LISTS",
+      "ARROW/BULLET/CHECKBOX/HYPHEN"
+    ],
+    "purple": [
+      "WHAT CROSS MIGHT MEAN",
+      "ANGRY/BETRAY/CRUCIFIX/HYBRID"
+    ]
+  },
+  "366": {
+    "yellow": [
+      "HOMOPHONES",
+      "BI/BUY/BY/BYE"
+    ],
+    "green": [
+      "MUSCLES INFORMALLY",
+      "AB/PEC/QUAD/TRI"
+    ],
+    "blue": [
+      "MUSIC GENRES",
+      "DUB/EMO/POP/TRAP"
+    ],
+    "purple": [
+      "SETTINGS ON AN APPLIANCE KNOB",
+      "HI/LO/MED/OFF"
+    ]
+  },
+  "367": {
+    "yellow": [
+      "PLACES IN NEW YORK CITY",
+      "CHINATOWN/DUMBO/MANHATTAN/WALL STREET"
+    ],
+    "green": [
+      "RHYMING TITLES",
+      "BE KIND REWIND/E.T./FRIGHT NIGHT/KILL BILL"
+    ],
+    "blue": [
+      "ENDING IN UNITS OF MEASUREMENT",
+      "HEDWIG AND THE ANGRY INCH/MY LEFT FOOT/THE GREEN MILE/THE LONGEST YARD"
+    ],
+    "purple": [
+      "STARTING WITH ANIMALS",
+      "BEETLEJUICE/FOXY BROWN/DOGMA/OCTOPUSSY"
+    ]
+  },
+  "368": {
+    "yellow": [
+      "ENJOY",
+      "APPRECIATE/DIG/FANCY/LIKE"
+    ],
+    "green": [
+      "BLOCKBUSTER",
+      "HIT/SENSATION/SMASH/SUCCESS"
+    ],
+    "blue": [
+      "CAMPAIGN SWAG",
+      "BUTTON/HAT/SHIRT/STICKER"
+    ],
+    "purple": [
+      "WORDS AFTER COPY",
+      "CAT/EDITOR/PASTE/THAT"
+    ]
+  },
+  "369": {
+    "yellow": [
+      "WRITING ASSIGNMENTS",
+      "ARTICLE/ESSAY/PAPER/REPORT"
+    ],
+    "green": [
+      "THINGS THAT ARE PINK",
+      "BUBBLE GUM/CARNATION/ERASER/FLAMINGO"
+    ],
+    "blue": [
+      "NATO PHONETIC ALPHABET",
+      "FOXTROT/HOTEL/VICTOR/YANKEE"
+    ],
+    "purple": [
+      "ASSOCIATED WITH #2",
+      "DEPUTY/DEREK JETER/PENCIL/SILVER MEDAL"
+    ]
+  },
+  "370": {
+    "yellow": [
+      "BASKETBALL SHOTS",
+      "DUNK/FLOATER/LAYUP/THREE"
+    ],
+    "green": [
+      "FISH",
+      "PERCH/PIKE/SKATE/SOLE"
+    ],
+    "blue": [
+      "QUALITIES OF THICK HAIR",
+      "BODY/BOUNCE/LIFT/VOLUME"
+    ],
+    "purple": [
+      "___ CHILD",
+      "FLOWER/ONLY/POSTER/PROBLEM"
+    ]
+  },
+  "371": {
+    "yellow": [
+      "CURRENT SITUATION",
+      "CONDITION/FORM/SHAPE/STATE"
+    ],
+    "green": [
+      "REMOTE RURAL AREA",
+      "BUSH/COUNTRY/STICKS/WOODS"
+    ],
+    "blue": [
+      "CLASSIC LAWN ORNAMENTS",
+      "FLAMINGO/FOUNTAIN/GNOME/PINWHEEL"
+    ],
+    "purple": [
+      "___ TALE",
+      "FAIRY/FISH/FOLK/TALL"
+    ]
+  },
+  "372": {
+    "yellow": [
+      "DELIVER AS A PACKAGE",
+      "MAIL/POST/SEND/SHIP"
+    ],
+    "green": [
+      "KINDS OF LIP MAKEUP",
+      "BALM/GLOSS/LINER/STAIN"
+    ],
+    "blue": [
+      "PREDICAMENT",
+      "CORNER/FIX/HOLE/SPOT"
+    ],
+    "purple": [
+      "MEASURED IN DEGREES",
+      "ANGLE/CRIME/EDUCATION/TEMPERATURE"
+    ]
+  },
+  "373": {
+    "yellow": [
+      "REMOTE CONTROL BUTTONS",
+      "CHANNEL/MENU/POWER/VOLUME"
+    ],
+    "green": [
+      "HIDE FROM VIEW",
+      "BLOCK/COVER/SCREEN/SHIELD"
+    ],
+    "blue": [
+      "DRINK GARNISHES",
+      "CHERRY/OLIVE/SWORD/UMBRELLA"
+    ],
+    "purple": [
+      "FIRST WORD IN BOND MOVIE TITLES",
+      "CASINO/DIAMONDS/QUANTUM/TOMORROW"
+    ]
+  },
+  "374": {
+    "yellow": [
+      "POSITIONS IN FAVOR",
+      "AYE/FOR/PRO/YEA"
+    ],
+    "green": [
+      "GO OUT WITH",
+      "COURT/DATE/SEE/WOO"
+    ],
+    "blue": [
+      "MULTITUDE",
+      "DROVE/HOST/PACK/SEA"
+    ],
+    "purple": [
+      "THINGS READ IN DIVINATION",
+      "AURA/PALM/TAROT/TEA"
+    ]
+  },
+  "375": {
+    "yellow": [
+      "BITS OF HARDWARE",
+      "NAIL/NUT/SCREW/WASHER"
+    ],
+    "green": [
+      "FISHING GEAR",
+      "FLY/HOOK/LINE/SINKER"
+    ],
+    "blue": [
+      "HAIR SALON FIXTURES",
+      "CHAIR/DRYER/MIRROR/SINK"
+    ],
+    "purple": [
+      "LIGHTNING ___",
+      "BOLT/BUG/ROD/STRIKE"
+    ]
+  },
+  "376": {
+    "yellow": [
+      "AMUSEMENT PARK RIDES",
+      "FERRIS WHEEL/MERRY-GO-ROUND/ROLLER COASTER/TILT-A-WHIRL"
+    ],
+    "green": [
+      "APPROVAL",
+      "CLEARANCE/GO-AHEAD/GREEN LIGHT/THUMBS-UP"
+    ],
+    "blue": [
+      "TYPES OF COME-FROM-BEHIND STORIES",
+      "CINDERELLA/DAVID-AND-GOLIATH/RAGS-TO-RICHES/UNDERDOG"
+    ],
+    "purple": [
+      "BEGINNING WITH SYNONYMS FOR REAR END",
+      "BUMPER-TO-BUMPER/BUTTERMILK/RUMPELSTILTSKIN/TAILGATE"
+    ]
+  },
+  "377": {
+    "yellow": [
+      "ONE THING AFTER ANOTHER",
+      "CHAIN/TRAIN/SERIES/STRING"
+    ],
+    "green": [
+      "KINDS OF GOLF CLUBS",
+      "DRIVER/IRON/WEDGE/WOOD"
+    ],
+    "blue": [
+      "HORROR MOVIES WITH THE",
+      "BIRDS/FOG/OMEN/RING",
+      "WORDS FOR SAUSAGE",
+      "BRAT/DOG/FRANK/LINK"
+    ]
+  },
+  "378": {
+    "yellow": [
+      "SETTLE DOWN!",
+      "EASY/ENOUGH/RELAX/QUIET"
+    ],
+    "green": [
+      "MINOR AILMENTS",
+      "BUG/CHILL/COLD/COUGH"
+    ],
+    "blue": [
+      "WHAT HUMPBACK WHALES DO",
+      "BREACH/DIVE/SING/SPOUT"
+    ],
+    "purple": [
+      "___ CITY NICKNAMES",
+      "MAGIC/MOTOR/SIN/WINDY"
+    ]
+  },
+  "379": {
+    "yellow": [
+      "SORE TO THE TOUCH",
+      "DELICATE/RAW/SENSITIVE/TENDER"
+    ],
+    "green": [
+      "RESTAURANT COURSES",
+      "DESSERT/MAIN/SIDE/STARTER"
+    ],
+    "blue": [
+      "ANIMAL HOMOPHONES",
+      "BARE/DEAR/MOUSSE/NEW"
+    ],
+    "purple": [
+      "RED ___",
+      "CARPET/DELICIOUS/MEAT/TAPE"
+    ]
+  },
+  "380": {
+    "yellow": [
+      "DIVULGE AS PRIVATE INFORMATION",
+      "DISH/SPILL/TALK/TELL"
+    ],
+    "green": [
+      "DIVIDE",
+      "BRANCH/FORK/PART/SPLIT"
+    ],
+    "blue": [
+      "SILENT K",
+      "DOORKNOB/KNIFE/TOPKNOT/UNKNOWN"
+    ],
+    "purple": [
+      "KEY TO SUCCESS SO TO SPEAK",
+      "FORMULA/RECIPE/SECRET/TICKET"
+    ]
+  },
+  "381": {
+    "yellow": [
+      "ARMY RANKS",
+      "CAPTAIN/GENERAL/MAJOR/PRIVATE"
+    ],
+    "green": [
+      "PLACE TO PLUG SOMETHING IN",
+      "JACK/OUTLET/PORT/SOCKET"
+    ],
+    "blue": [
+      "CONSUMER DESIRE COLLECTIVELY",
+      "APPETITE/AUDIENCE/DEMAND/MARKET"
+    ],
+    "purple": [
+      "___ AD",
+      "ATTACK/PERSONAL/POP-UP/WANT"
+    ]
+  },
+  "382": {
+    "yellow": [
+      "PURSUIT",
+      "CHASE/HUNT/QUEST/SEARCH"
+    ],
+    "green": [
+      "ROMANTIC LETTER SIGN-OFFS",
+      "ALWAYS/KISSES/LOVE/YOURS"
+    ],
+    "blue": [
+      "GROUP WITHIN A GROUP",
+      "CAMP/PARTY/SIDE/WING"
+    ],
+    "purple": [
+      "GOLD ___",
+      "BOND/LEAF/MINE/RUSH"
+    ]
+  },
+  "383": {
+    "yellow": [
+      "TYPES OF BAGS",
+      "CLUTCH/MESSENGER/SATCHEL/TOTE"
+    ],
+    "green": [
+      "WIGGLE ROOM",
+      "FREEDOM/LATITUDE/LICENSE/SLACK"
+    ],
+    "blue": [
+      "INDICATION TO PROCEED",
+      "CUE/PROMPT/SIGNAL/WORD"
+    ],
+    "purple": [
+      "UNDERWEAR IN THE SINGULAR",
+      "BOXER/BRIEF/DRAWER/SHORT"
+    ]
+  },
+  "384": {
+    "yellow": [
+      "HOMOPHONES",
+      "TO/TOO/TUE/TWO"
+    ],
+    "green": [
+      "CONNECT",
+      "COUPLE/TIE/UNITE/WED"
+    ],
+    "blue": [
+      "PLACED DOWN",
+      "LAID/PLACED/PUT/SAT"
+    ],
+    "purple": [
+      "___FLOWER",
+      "MAY/SUN/WALL/WILD"
+    ]
+  },
+  "385": {
+    "yellow": [
+      "OLD SAYING",
+      "ADAGE/CHESTNUT/MAXIM/SAW"
+    ],
+    "green": [
+      "GRILL FUEL SOURCES",
+      "CHARCOAL/ELECTRIC/GAS/WOOD"
+    ],
+    "blue": [
+      "TREES",
+      "ASH/CHERRY/EBONY/GUM"
+    ],
+    "purple": [
+      "HOT TUB COMPONENTS",
+      "FILTER/HEATER/JET/PUMP"
+    ]
+  },
+  "386": {
+    "yellow": [
+      "SHOW THE WAY",
+      "DIRECT/GUIDE/LEAD/USHER"
+    ],
+    "green": [
+      "SCHEME",
+      "CON/HUSTLE/RACKET/STING"
+    ],
+    "blue": [
+      "SEEN ON A U.S. DOLLAR BILL",
+      "EAGLE/PYRAMID/SEAL/WASHINGTON"
+    ],
+    "purple": [
+      "FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES",
+      "BRITISH/NORTHWEST/NOVA/PRINCE"
+    ]
+  },
+  "387": {
+    "yellow": [
+      "PACK (AWAY) FOR FUTURE USE",
+      "SQUIRREL/STASH/STORE/STOW"
+    ],
+    "green": [
+      "ADJECTIVES FOR ASSETS",
+      "FIXED/FROZEN/LIQUID/TOXIC"
+    ],
+    "blue": [
+      "LATIN WORDS",
+      "CAVEAT/ERGO/QUID/VOX"
+    ],
+    "purple": [
+      "___ GAME",
+      "ARCADE/BLAME/NUMBERS/SQUID"
+    ]
+  },
+  "388": {
+    "yellow": [
+      "DEVELOP AS IDEAS",
+      "BRAINSTORM/IDEATE/SPITBALL/WORKSHOP"
+    ],
+    "green": [
+      "TANGIBLE",
+      "CONCRETE/MATERIAL/REAL/SOLID"
+    ],
+    "blue": [
+      "KINDS OF CAKE",
+      "BIRTHDAY/CRUMB/MARBLE/POUND"
+    ],
+    "purple": [
+      "THINGS YOU CAN THROW IN METAPHORS",
+      "CURVEBALL/PARTY/TANTRUM/WRENCH"
+    ]
+  },
+  "389": {
+    "yellow": [
+      "ROMANTIC RAPPORT",
+      "ATTRACTION/CHEMISTRY/FIREWORKS/SPARKS"
+    ],
+    "green": [
+      "THINGS STORED BY A WEB BROWSER",
+      "CACHE/COOKIES/DATA/HISTORY"
+    ],
+    "blue": [
+      "SINGLE ROTATION",
+      "CYCLE/LAP/TURN/REVOLUTION"
+    ],
+    "purple": [
+      "WORDS BEFORE BELL",
+      "BAR/DINNER/LIBERTY/TINKER"
+    ]
+  },
+  "390": {
+    "yellow": [
+      "YEARN",
+      "DESIRE/LONG/PINE/YEN"
+    ],
+    "green": [
+      "MAGAZINES",
+      "FORTUNE/MAD/NATURE/O"
+    ],
+    "blue": [
+      "CHARACTERS IN BOND MOVIES",
+      "BOND/M/MONEYPENNY/Q"
+    ],
+    "purple": [
+      "WORDS THAT PRECEDE POP IN MUSIC GENRES",
+      "BUBBLEGUM/EURO/K/POWER"
+    ]
+  },
+  "391": {
+    "yellow": [
+      "BIOLOGICAL BUILDING BLOCKS",
+      "ATOM/CELL/MOLECULE/PROTEIN"
+    ],
+    "green": [
+      "PURCHASES FOR A BABY",
+      "BOTTLE/CRIB/MOBILE/RATTLE"
+    ],
+    "blue": [
+      "OBJECTS PLAYED AS INSTRUMENTS",
+      "JUG/SAW/SPOONS/WASHBOARD"
+    ],
+    "purple": [
+      "___ TAG",
+      "DOG/FREEZE/PHONE/PRICE"
+    ]
+  },
+  "392": {
+    "yellow": [
+      "CHANGE STATES OF MATTER",
+      "CONDENSE/FREEZE/MELT/VAPORIZE"
+    ],
+    "green": [
+      "REPLACEMENT",
+      "ALTERNATE/BACKUP/COVER/SUB"
+    ],
+    "blue": [
+      "SLANGY NAMES FOR PROFESSIONS",
+      "COPPER/HACK/SHRINK/SUIT"
+    ],
+    "purple": [
+      "MARIAH CAREY NUMBER ONE HITS",
+      "FANTASY/HERO/HONEY/SOMEDAY"
+    ]
+  },
+  "393": {
+    "yellow": [
+      "BIT OF ADVICE",
+      "POINTER/SUGGESTION/TIP/TRICK"
+    ],
+    "green": [
+      "FORTITUDE",
+      "GRIT/RESOLVE/SPIRIT/WILL"
+    ],
+    "blue": [
+      "SPEND TIME AT",
+      "FREQUENT/HAUNT/PATRONIZE/VISIT"
+    ],
+    "purple": [
+      "WORDS ENDING IN NUMBERS",
+      "CANINE/FREIGHT/OFTEN/OZONE"
+    ]
+  },
+  "394": {
+    "yellow": [
+      "CHRONICLE",
+      "JOURNAL/LOG/RECORD/REGISTER"
+    ],
+    "green": [
+      "MESS OF HAIR",
+      "MANE/MOP/SHOCK/TANGLE"
+    ],
+    "blue": [
+      "TV SHOWS MINUS S",
+      "CHEER/FRIEND/SCRUB/WEED"
+    ],
+    "purple": [
+      "WORDS AFTER HEDGE",
+      "FUND/HOG/MAZE/TRIMMER"
+    ]
+  },
+  "395": {
+    "yellow": [
+      "FUTURE LIKELIHOOD",
+      "CHANCE/FORECAST/OUTLOOK/PROSPECT"
+    ],
+    "green": [
+      "BACK TALK",
+      "ATTITUDE/CHEEK/LIP/SASS"
+    ],
+    "blue": [
+      "FISH",
+      "BASS/FLUKE/PERCH/PIKE"
+    ],
+    "purple": [
+      "COMPONENTS OF EYEGLASSES",
+      "BRIDGE/LENS/RIM/TEMPLE"
+    ]
+  },
+  "396": {
+    "yellow": [
+      "SCHOOL SUPPLIES",
+      "PEN/RULER/SCISSORS/TAPE"
+    ],
+    "green": [
+      "FUNDAMENTAL",
+      "ESSENTIAL/KEY/PRINCIPAL/STAPLE"
+    ],
+    "blue": [
+      "TRANSFER",
+      "GIVE/HAND/PASS/SEND"
+    ],
+    "purple": [
+      "LIGHT-UP SIGNS",
+      "APPLAUSE/EXIT/RECORDING/WALK"
+    ]
+  },
+  "397": {
+    "yellow": [
+      "SCHOOL FACILITIES",
+      "AUDITORIUM/GYM/LAB/LIBRARY"
+    ],
+    "green": [
+      "ROULETTE BETS",
+      "BLACK/EVEN/ODD/RED"
+    ],
+    "blue": [
+      "ASSOCIATED WITH DOVE",
+      "CHOCOLATE/PEACE/PIGEON/SOAP"
+    ],
+    "purple": [
+      "___ GOOSE",
+      "GREY/GOLDEN/MOTHER/SILLY"
+    ]
+  },
+  "398": {
+    "yellow": [
+      "ENORMOUS",
+      "GIANT/MAMMOTH/MONSTER/TITANIC"
+    ],
+    "green": [
+      "EMBODIMENT",
+      "AVATAR/CHARACTER/FIGURE/PERSONA"
+    ],
+    "blue": [
+      "COME ACROSS AS",
+      "APPEAR/LOOK/SEEM/SOUND"
+    ],
+    "purple": [
+      "SILENT T",
+      "CASTLE/HUSTLE/LISTEN/WITCH"
+    ]
+  },
+  "399": {
+    "yellow": [
+      "SLENDER PROJECTIONS",
+      "POINT/PRONG/TINE/TIP"
+    ],
+    "green": [
+      "CONDITIONS FOR COLLECTIBLES",
+      "FAIR/FINE/GOOD/MINT"
+    ],
+    "blue": [
+      "PROFESSION",
+      "BUSINESS/FIELD/LINE/TRADE"
+    ],
+    "purple": [
+      "WORDS BEFORE NUT",
+      "BRAZIL/BUTTER/DOUGH/PINE"
+    ]
+  },
+  "400": {
+    "yellow": [
+      "REGARD AS TRUE",
+      "ACCEPT/BELIEVE/BUY/TRUST"
+    ],
+    "green": [
+      "FACADE",
+      "BLUFF/FRONT/SHAM/SHOW"
+    ],
+    "blue": [
+      "WAYS TO SECURE A TV",
+      "BASE/BRACKET/MOUNT/STAND"
+    ],
+    "purple": [
+      "LIQUOR BOTTLE SIZES",
+      "FIFTH/HANDLE/LITER/PINT"
+    ]
+  },
+  "401": {
+    "yellow": [
+      "IN A BAD MOOD",
+      "CROSS/SHORT/SURLY/TESTY"
+    ],
+    "green": [
+      "EXPERIMENTAL",
+      "EXPLORATORY/PILOT/PRELIMINARY/TRIAL"
+    ],
+    "blue": [
+      "STARTS OF BROADWAY MUSICALS",
+      "FIDDLER/JERSEY/KINKY/MERRILY"
+    ],
+    "purple": [
+      "PETER ___",
+      "PAN/PARKER/PIPER/RABBIT"
+    ]
+  },
+  "402": {
+    "yellow": [
+      "BUILDINGS AROUND TOWN",
+      "BANK/LAUNDROMAT/POST OFFICE/SUPERMARKET"
+    ],
+    "green": [
+      "HINDER",
+      "CHECK/CURB/HAMPER/INHIBIT"
+    ],
+    "blue": [
+      "ANIMAL GROUP NAMES",
+      "PACK/PRIDE/SCHOOL/SWARM"
+    ],
+    "purple": [
+      "STARTS OF U.S. PRESIDENTS",
+      "BIDE/CART/NIX/WASHING"
+    ]
+  },
+  "403": {
+    "yellow": [
+      "OPEN SPACE",
+      "COURT/PLAZA/SQUARE/YARD"
+    ],
+    "green": [
+      "BOXING UNIT",
+      "BOUT/CONTEST/MATCH/ROUND"
+    ],
+    "blue": [
+      "GLITZINESS",
+      "DAZZLE/FLASH/POMP/RITZ"
+    ],
+    "purple": [
+      "EMOJI",
+      "FIRE/HEART/SKULL/SPARKLES"
+    ]
+  },
+  "404": {
+    "yellow": [
+      "ROMANTIC PARTNER",
+      "FLAME/LOVER/STEADY/SWEETHEART"
+    ],
+    "green": [
+      "INSULT",
+      "BURN/DIG/JAB/SLIGHT"
+    ],
+    "blue": [
+      "GAS PUMP OPTIONS",
+      "DIESEL/PLUS/PREMIUM/REGULAR"
+    ],
+    "purple": [
+      "___ TABLE",
+      "COFFEE/PERIODIC/POOL/WATER"
+    ]
+  },
+  "405": {
+    "yellow": [
+      "EFFORTLESS",
+      "FLUID/GRACEFUL/NATURAL/SMOOTH"
+    ],
+    "green": [
+      "EXERTION",
+      "EFFORT/LABOR/SWEAT/WORK"
+    ],
+    "blue": [
+      "ENERGY FOR AN ELECTRONIC DEVICE",
+      "BATTERY/CHARGE/JUICE/POWER"
+    ],
+    "purple": [
+      "WHAT POP MIGHT MEAN",
+      "BURST/DAD/MAINSTREAM/SODA"
+    ]
+  },
+  "406": {
+    "yellow": [
+      "WAYS TO SUPPORT A CANDIDATE",
+      "CAMPAIGN/CANVASS/ORGANIZE/STUMP"
+    ],
+    "green": [
+      "CONSTITUTION",
+      "COMPOSITION/FABRIC/MAKEUP/STRUCTURE"
+    ],
+    "blue": [
+      "CARPENTRY TOOLS",
+      "CLAMP/FILE/LEVEL/SAW"
+    ],
+    "purple": [
+      "MATH ABBREVIATIONS",
+      "LOG/MAX/MOD/TAN"
+    ]
+  },
+  "407": {
+    "yellow": [
+      "REALM OF EXPERTISE",
+      "AREA/DOMAIN/FIELD/SPHERE"
+    ],
+    "green": [
+      "MUSICAL INSTRUMENTS",
+      "FIDDLE/HORN/RECORDER/TRIANGLE"
+    ],
+    "blue": [
+      "USED TO REDIRECT TRAFFIC",
+      "BARRIER/CONE/FLAG/FLARE"
+    ],
+    "purple": [
+      "FOOD ___",
+      "CHAIN/FIGHT/PROCESSOR/PYRAMID"
+    ]
+  },
+  "408": {
+    "yellow": [
+      "IMPOSTOR",
+      "CHARLATAN/FRAUD/QUACK/SHAM"
+    ],
+    "green": [
+      "UTTERANCE",
+      "NOISE/PEEP/SOUND/WORD"
+    ],
+    "blue": [
+      "ONE WHO LIKES SHOWING OFF",
+      "HAM/HOT DOG/PEACOCK/SHOWBOAT"
+    ],
+    "purple": [
+      "LOONEY TUNES CHARACTERS MINUS A LETTER",
+      "BUG/PORK/SPEED/TWEET"
+    ]
+  },
+  "409": {
+    "yellow": [
+      "JOKE AROUND WITH",
+      "KID/RAZZ/RIB/TEASE"
+    ],
+    "green": [
+      "POULTRY CUTS",
+      "BREAST/TENDER/THIGH/WING"
+    ],
+    "blue": [
+      "BABY ANIMALS",
+      "CALF/CUB/FAWN/KIT"
+    ],
+    "purple": [
+      "PUSH THROUGH A CROWD",
+      "BARGE/JOSTLE/MUSCLE/SHOULDER"
+    ]
+  },
+  "410": {
+    "yellow": [
+      "ANCIENT WRITING SURFACES",
+      "CLAY/PAPYRUS/PARCHMENT/WAX"
+    ],
+    "green": [
+      "LEAD, AS A TV PROGRAM",
+      "ANCHOR/HOST/MODERATE/PRESENT"
+    ],
+    "blue": [
+      "NATURAL ABILITY",
+      "FACULTY/FLAIR/INSTINCT/TALENT"
+    ],
+    "purple": [
+      "WRAPPED THINGS",
+      "BURRITO/GIFT/MUMMY/SPRAIN"
+    ]
+  },
+  "411": {
+    "yellow": [
+      "BASIC DIRECTIONS",
+      "DOWN/LEFT/RIGHT/UP"
+    ],
+    "green": [
+      "ADVOCATE FOR",
+      "BACK/CHAMPION/ENDORSE/SUPPORT"
+    ],
+    "blue": [
+      "DRAWBACK",
+      "CON/DING/MINUS/STRIKE"
+    ],
+    "purple": [
+      "INSTRUMENT HOMOPHONES",
+      "BASE/LIAR/LOOT/SYMBOL"
+    ]
+  }
+}
